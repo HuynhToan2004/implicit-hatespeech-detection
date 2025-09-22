@@ -1,0 +1,992 @@
+Unnamed: 0,original,translation,target,label,steps_1_reasoning,steps_1_output,steps_2_reasoning,steps_2_output,steps_3_reasoning,steps_3_output,steps_4_reasoning,steps_4_output,steps_1_2_reasoning,steps_1_2_output,steps_1_3_reasoning,steps_1_3_output,steps_1_4_reasoning,steps_1_4_output,steps_2_3_reasoning,steps_2_3_output,steps_2_4_reasoning,steps_2_4_output,steps_3_4_reasoning,steps_3_4_output,steps_1_2_3_reasoning,steps_1_2_3_output,steps_1_2_4_reasoning,steps_1_2_4_output,steps_1_3_4_reasoning,steps_1_3_4_output,steps_2_3_4_reasoning,steps_2_3_4_output,steps_1_2_3_4_reasoning,steps_1_2_3_4_output,translation
+260,"For me, Thor in Ragnarok climax scene was better than Thor at wakanda in #InfinityWar. Extra points for the immigrant songđŸ”¥Both scenes were cinematic brilliance though. https://t.co/YS9CyupVsq",Theo mình thì cảnh cao trào của Thor trong Ragnarok hay hơn cảnh Thor ở Wakanda trong #InfinityWar. Điểm cộng lớn cho bài Immigrant Song đấy! Nhưng phải công nhận cả hai cảnh đều rất xuất sắc về mặt điện ảnh.,Non-Specified or General Targets,Non HS,"Bước 1: Câu phát biểu đề cập đến các nhân vật và bộ phim như Thor, Ragnarok, Infinity War. Không có cá nhân cụ thể hay nhóm đối tượng nào bị nhắm vào.
+-","- label: Non HS
+- Tổng hợp: Câu phát biểu chỉ so sánh giữa hai cảnh trong hai bộ phim khác nhau liên quan đến nhân vật Thor mà không đề cập đến cá nhân cụ thể hay nhóm đối tượng nào. Không có từ ngữ miệt thị, xúc phạm hay kỳ thị nào được sử dụng (Bước 1).","Bước 2: Từ ngữ và cách diễn đạt trong câu phát biểu là trung thực, khách quan và không chứa từ ngữ mang tính xúc phạm hay miệt thị.
+-","- Label: Non HS
+- Tổng hợp: 
+Bước 2 trong phân tích đã xác định rằng từ ngữ và cách diễn đạt trong câu phát biểu là trung thực, khách quan và không chứa từ ngữ mang tính xúc phạm hay miệt thị. Do đó, không có dấu hiệu của việc xúc phạm hay kỳ thị trực tiếp hay gián tiếp. Câu phát biểu chỉ đưa ra ý kiến cá nhân về việc so sánh hai cảnh phim và đánh giá chúng một cách khách quan, vì vậy nó phù hợp với nhãn Non HS.","Bước 3: Không có dấu hiệu của việc xúc phạm trực tiếp hay gián tiếp trong câu phát biểu.
+-","- label: Non HS
+- Tổng hợp: Bước 3 đã xác nhận rằng không có dấu hiệu xúc phạm trực tiếp hay gián tiếp trong câu phát biểu. Do đó, câu này không chứa nội dung kỳ thị hay xúc phạm và phù hợp với nhãn Non HS.","Bước 4: Mục đích của câu nói là so sánh và thảo luận về các cảnh trong các bộ phim, thể hiện quan điểm cá nhân và đánh giá về chất lượng của chúng. Không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hay kích động thù ghét.","- label: Non HS
+- Tổng hợp: Bước 4 phân tích mục đích của câu nói và kết luận rằng không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hay kích động thù ghét. Câu phát biểu chỉ đơn thuần là một nhận xét cá nhân về chất lượng của các cảnh trong các bộ phim, không chứa đựng nội dung kỳ thị, xúc phạm hay phân biệt đối xử. Do đó, câu này được phân loại là Non HS.","Bước 1: Câu phát biểu đề cập đến các nhân vật và bộ phim như Thor, Ragnarok, Infinity War. Không có cá nhân cụ thể hay nhóm đối tượng nào bị nhắm vào.
+-
+Bước 2: Từ ngữ và cách diễn đạt trong câu phát biểu là trung thực, khách quan và không chứa từ ngữ mang tính xúc phạm hay miệt thị.
+-","- label: Non HS
+- Tổng hợp: Bước 1 cho thấy câu phát biểu chỉ đề cập đến các nhân vật và bộ phim như Thor, Ragnarok, Infinity War, không nhắm vào cá nhân cụ thể hay nhóm đối tượng nào. Bước 2 khẳng định từ ngữ và cách diễn đạt trong câu phát biểu là trung thực, khách quan và không chứa từ ngữ xúc phạm hay miệt thị. Do đó, câu này không thuộc loại Explicit HS hay Implicit HS và phù hợp nhất với nhãn Non HS.","Bước 1: Câu phát biểu đề cập đến các nhân vật và bộ phim như Thor, Ragnarok, Infinity War. Không có cá nhân cụ thể hay nhóm đối tượng nào bị nhắm vào.
+-
+Bước 3: Không có dấu hiệu của việc xúc phạm trực tiếp hay gián tiếp trong câu phát biểu.
+-","- label: Non HS
+- Tổng hợp: 
+Bước 1 xác định rằng câu phát biểu đề cập đến các nhân vật và bộ phim như Thor, Ragnarok, Infinity War, và không nhắm vào bất kỳ cá nhân cụ thể hay nhóm đối tượng nào. Bước 3 khẳng định không có dấu hiệu xúc phạm trực tiếp hay gián tiếp trong câu phát biểu. Do đó, câu này không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử, phù hợp với nhãn Non HS.","Bước 1: Câu phát biểu đề cập đến các nhân vật và bộ phim như Thor, Ragnarok, Infinity War. Không có cá nhân cụ thể hay nhóm đối tượng nào bị nhắm vào.
+-
+Bước 4: Mục đích của câu nói là so sánh và thảo luận về các cảnh trong các bộ phim, thể hiện quan điểm cá nhân và đánh giá về chất lượng của chúng. Không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hay kích động thù ghét.","- label: Non HS
+- Tổng hợp: Bước 1 cho thấy câu phát biểu đề cập đến các nhân vật và bộ phim như Thor, Ragnarok, Infinity War mà không nhắm vào cá nhân cụ thể hay nhóm đối tượng nào. Bước 4 chỉ ra rằng mục đích của câu nói là so sánh và thảo luận về các cảnh trong các bộ phim, thể hiện quan điểm cá nhân và đánh giá về chất lượng của chúng, đồng thời không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hay kích động thù ghét. Do đó, câu phát biểu này không thuộc dạng phát ngôn thể hiện sự thù ghét, xúc phạm hoặc phân biệt đối xử và được phân loại là Non HS.","Bước 2: Từ ngữ và cách diễn đạt trong câu phát biểu là trung thực, khách quan và không chứa từ ngữ mang tính xúc phạm hay miệt thị.
+-
+Bước 3: Không có dấu hiệu của việc xúc phạm trực tiếp hay gián tiếp trong câu phát biểu.
+-","- label: Non HS
+- Tổng hợp: Bước 2 chỉ rõ rằng từ ngữ và cách diễn đạt trong câu phát biểu là trung thực, khách quan và không chứa từ ngữ xúc phạm hay miệt thị. Bước 3 khẳng định không có dấu hiệu xúc phạm trực tiếp hay gián tiếp trong câu phát biểu. Do đó, dựa trên các phân tích đã cung cấp, câu phát biểu này không thuộc nhóm phát ngôn thù ghét hay xúc phạm nên được phân loại là Non HS.","Bước 2: Từ ngữ và cách diễn đạt trong câu phát biểu là trung thực, khách quan và không chứa từ ngữ mang tính xúc phạm hay miệt thị.
+-
+Bước 4: Mục đích của câu nói là so sánh và thảo luận về các cảnh trong các bộ phim, thể hiện quan điểm cá nhân và đánh giá về chất lượng của chúng. Không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hay kích động thù ghét.","- Label: Non HS
+- Tổng hợp: Bước 2 chỉ ra rằng từ ngữ và cách diễn đạt trong câu phát biểu là trung thực, khách quan và không chứa từ ngữ xúc phạm hay miệt thị. Bước 4 xác nhận mục đích của câu nói là để so sánh và thảo luận về các cảnh trong các bộ phim, thể hiện quan điểm cá nhân và đánh giá về chất lượng của chúng, đồng thời khẳng định không có dấu hiệu làm tổn thương, phỉ báng, lan truyền định kiến hay kích động thù ghét. Vì vậy, câu phát biểu này được phân loại là Non HS.","Bước 3: Không có dấu hiệu của việc xúc phạm trực tiếp hay gián tiếp trong câu phát biểu.
+-
+Bước 4: Mục đích của câu nói là so sánh và thảo luận về các cảnh trong các bộ phim, thể hiện quan điểm cá nhân và đánh giá về chất lượng của chúng. Không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hay kích động thù ghét.","- Label: Non HS
+- Tổng hợp: Bước 3 xác nhận rằng không có dấu hiệu của việc xúc phạm trực tiếp hay gián tiếp trong câu phát biểu. Bước 4 chỉ ra rằng mục đích của câu nói là so sánh và thảo luận về các cảnh trong các bộ phim, thể hiện quan điểm cá nhân và đánh giá về chất lượng của chúng mà không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hay kích động thù ghét. Do đó, câu phát biểu này được phân loại là Non HS vì nó không mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử.","Bước 1: Câu phát biểu đề cập đến các nhân vật và bộ phim như Thor, Ragnarok, Infinity War. Không có cá nhân cụ thể hay nhóm đối tượng nào bị nhắm vào.
+-
+Bước 2: Từ ngữ và cách diễn đạt trong câu phát biểu là trung thực, khách quan và không chứa từ ngữ mang tính xúc phạm hay miệt thị.
+-
+Bước 3: Không có dấu hiệu của việc xúc phạm trực tiếp hay gián tiếp trong câu phát biểu.
+-","- label: Non HS
+- Tổng hợp: Câu phát biểu này không nhắm đến cá nhân cụ thể hay nhóm đối tượng nào (Bước 1). Từ ngữ và cách diễn đạt trong câu phát biểu là trung thực, khách quan và không chứa từ ngữ mang tính xúc phạm hay miệt thị (Bước 2). Không có dấu hiệu của việc xúc phạm trực tiếp hay gián tiếp trong câu phát biểu (Bước 3). Do đó, câu phát biểu này không thuộc dạng Explicit HS hay Implicit HS, mà thuộc dạng Non HS.","Bước 1: Câu phát biểu đề cập đến các nhân vật và bộ phim như Thor, Ragnarok, Infinity War. Không có cá nhân cụ thể hay nhóm đối tượng nào bị nhắm vào.
+-
+Bước 2: Từ ngữ và cách diễn đạt trong câu phát biểu là trung thực, khách quan và không chứa từ ngữ mang tính xúc phạm hay miệt thị.
+-
+Bước 4: Mục đích của câu nói là so sánh và thảo luận về các cảnh trong các bộ phim, thể hiện quan điểm cá nhân và đánh giá về chất lượng của chúng. Không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hay kích động thù ghét.","- label: Non HS
+- Tổng hợp: Bước 1 chỉ ra rằng câu phát biểu không nhắm vào bất kỳ cá nhân cụ thể hay nhóm đối tượng nào, chỉ đề cập đến các nhân vật và bộ phim như Thor, Ragnarok, Infinity War. Bước 2 xác nhận rằng từ ngữ và cách diễn đạt trong câu phát biểu là trung thực, khách quan và không chứa từ ngữ mang tính xúc phạm hay miệt thị. Cuối cùng, Bước 4 khẳng định mục đích của câu nói là so sánh và thảo luận về các cảnh trong các bộ phim, thể hiện quan điểm cá nhân và đánh giá về chất lượng của chúng, không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hay kích động thù ghét. Do đó, câu phát biểu này được phân loại là Non HS.","Bước 1: Câu phát biểu đề cập đến các nhân vật và bộ phim như Thor, Ragnarok, Infinity War. Không có cá nhân cụ thể hay nhóm đối tượng nào bị nhắm vào.
+-
+Bước 3: Không có dấu hiệu của việc xúc phạm trực tiếp hay gián tiếp trong câu phát biểu.
+-
+Bước 4: Mục đích của câu nói là so sánh và thảo luận về các cảnh trong các bộ phim, thể hiện quan điểm cá nhân và đánh giá về chất lượng của chúng. Không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hay kích động thù ghét.","- label: Non HS
+- Tổng hợp: Bước 1 xác định rằng câu phát biểu chỉ đề cập đến các nhân vật và bộ phim, không nhắm vào cá nhân cụ thể hay nhóm đối tượng nào. Bước 3 khẳng định không có dấu hiệu xúc phạm trực tiếp hay gián tiếp. Bước 4 chỉ ra rằng mục đích của câu phát biểu là để so sánh và thảo luận về các cảnh trong các bộ phim, thể hiện quan điểm cá nhân và đánh giá về chất lượng của chúng, không có dấu hiệu làm tổn thương, phỉ báng, lan truyền định kiến hay kích động thù ghét. Do đó, câu phát biểu này được phân loại là Non HS.","Bước 2: Từ ngữ và cách diễn đạt trong câu phát biểu là trung thực, khách quan và không chứa từ ngữ mang tính xúc phạm hay miệt thị.
+-
+Bước 3: Không có dấu hiệu của việc xúc phạm trực tiếp hay gián tiếp trong câu phát biểu.
+-
+Bước 4: Mục đích của câu nói là so sánh và thảo luận về các cảnh trong các bộ phim, thể hiện quan điểm cá nhân và đánh giá về chất lượng của chúng. Không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hay kích động thù ghét.","- label: Non HS
+- Tổng hợp: 
+Bước 2 chỉ ra rằng từ ngữ và cách diễn đạt trong câu phát biểu là trung thực, khách quan và không chứa từ ngữ xúc phạm hay miệt thị. Bước 3 xác nhận không có dấu hiệu xúc phạm trực tiếp hay gián tiếp trong câu phát biểu. Cuối cùng, Bước 4 nêu rõ mục đích của câu nói là so sánh và thảo luận về các cảnh trong các bộ phim, thể hiện quan điểm cá nhân và đánh giá về chất lượng của chúng, đồng thời khẳng định không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hay kích động thù ghét. Do đó, câu phát biểu này không thuộc dạng Explicit HS hay Implicit HS mà là Non HS.","Bước 1: Câu phát biểu đề cập đến các nhân vật và bộ phim như Thor, Ragnarok, Infinity War. Không có cá nhân cụ thể hay nhóm đối tượng nào bị nhắm vào.
+-
+Bước 2: Từ ngữ và cách diễn đạt trong câu phát biểu là trung thực, khách quan và không chứa từ ngữ mang tính xúc phạm hay miệt thị.
+-
+Bước 3: Không có dấu hiệu của việc xúc phạm trực tiếp hay gián tiếp trong câu phát biểu.
+-
+Bước 4: Mục đích của câu nói là so sánh và thảo luận về các cảnh trong các bộ phim, thể hiện quan điểm cá nhân và đánh giá về chất lượng của chúng. Không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hay kích động thù ghét.","- Label: Non HS
+- Tổng hợp: 
+Bước 1 xác định rằng câu phát biểu không nhắm vào bất kỳ cá nhân cụ thể hay nhóm đối tượng nào, chỉ đề cập đến các nhân vật và bộ phim. Bước 2 và Bước 3 đều khẳng định rằng không có từ ngữ xúc phạm hay miệt thị nào được sử dụng trong câu phát biểu. Cuối cùng, Bước 4 chỉ ra rằng mục đích của câu nói là để so sánh và thảo luận về các cảnh trong các bộ phim, không có ý định xúc phạm hay làm tổn thương ai. Do đó, dựa trên những phân tích này, câu phát biểu được phân loại là Non HS.",Theo mình thì cảnh cao trào của Thor trong Ragnarok hay hơn cảnh Thor ở Wakanda trong #InfinityWar. Điểm cộng lớn cho bài Immigrant Song đấy! Nhưng phải công nhận cả hai cảnh đều rất xuất sắc về mặt điện ảnh.
+261,I 'll have a lot of Asian teachers when I transfer to university though .,Khi mình chuyển lên đại học thì sẽ có nhiều thầy cô người châu Á dạy mình.,Ethnic/Racial Minorities,Non HS,"Bước 1: Nhóm đối tượng được đề cập trong câu này là ""thầy cô người châu Á"".
+-","- label: Non HS
+- Tổng hợp: Bước 1 xác định nhóm đối tượng được đề cập trong câu phát biểu là ""thầy cô người châu Á"". Tuy nhiên, câu phát biểu không chứa từ ngữ xúc phạm, miệt thị hay kỳ thị đối với nhóm đối tượng này. Câu chỉ đơn thuần mô tả thực tế rằng khi tác giả chuyển lên đại học, họ sẽ gặp nhiều giáo viên người châu Á. Không có dấu hiệu của việc xúc phạm hay kỳ thị, do đó, câu này thuộc loại Non HS.","Bước 2: Từ ngữ trong câu này không có tính xúc phạm hay miệt thị. Chúng chỉ đơn thuần mô tả một thực tế có thể xảy ra.
+-","- Label: Non HS
+- Tổng hợp: Câu phát biểu ""Khi mình chuyển lên đại học thì sẽ có nhiều thầy cô người châu Á dạy mình"" không chứa từ ngữ xúc phạm hay miệt thị theo Bước 2. Do đó, không có dấu hiệu của sự kỳ thị hay xúc phạm trực tiếp hoặc gián tiếp. Câu này chỉ đơn thuần mô tả một thực tế có thể xảy ra trong môi trường giáo dục đại học.","Bước 3: Câu này không có hình thức xúc phạm trực tiếp hay gián tiếp.
+-","- Label: Non HS
+- Tổng hợp: Câu phát biểu ""Khi mình chuyển lên đại học thì sẽ có nhiều thầy cô người châu Á dạy mình."" không chứa bất kỳ từ ngữ xúc phạm trực tiếp hay gián tiếp nào theo Bước 3 của phân tích. Do đó, dựa trên phân tích đã cung cấp, câu này được xác định là không mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử.","Bước 4: Mục đích của câu này là mô tả một tình huống có thể gặp phải khi chuyển lên đại học, không nhằm làm tổn thương, phỉ báng hay lan truyền định kiến.","- label: Non HS
+- Tổng hợp: Bước 4 phân tích đã chỉ rõ mục đích của câu nói là mô tả một tình huống có thể gặp phải khi chuyển lên đại học, không nhằm làm tổn thương, phỉ báng hay lan truyền định kiến. Do đó, câu phát biểu này không thuộc dạng Explicit HS hay Implicit HS vì nó không có ý đồ xúc phạm hay kỳ thị. Vì vậy, câu này được phân loại là Non HS.","Bước 1: Nhóm đối tượng được đề cập trong câu này là ""thầy cô người châu Á"".
+-
+Bước 2: Từ ngữ trong câu này không có tính xúc phạm hay miệt thị. Chúng chỉ đơn thuần mô tả một thực tế có thể xảy ra.
+-","- label: Non HS
+- Tổng hợp: Bước 1 xác định rằng nhóm đối tượng được đề cập trong câu này là ""thầy cô người châu Á"". Bước 2 phân tích rằng từ ngữ trong câu không mang tính xúc phạm hay miệt thị, chúng chỉ đơn thuần mô tả một thực tế có thể xảy ra. Do đó, không có dấu hiệu của việc kỳ thị hay xúc phạm đối với nhóm đối tượng được đề cập, phù hợp với nhãn Non HS.","Bước 1: Nhóm đối tượng được đề cập trong câu này là ""thầy cô người châu Á"".
+-
+Bước 3: Câu này không có hình thức xúc phạm trực tiếp hay gián tiếp.
+-","- label: Non HS
+- Tổng hợp: 
+Bước 1 đã xác định nhóm đối tượng được đề cập trong câu là ""thầy cô người châu Á"". Bước 3 chỉ ra rằng câu này không chứa hình thức xúc phạm trực tiếp hay gián tiếp. Do đó, không có bằng chứng nào cho thấy câu phát biểu mang tính chất kỳ thị, xúc phạm hay phân biệt đối xử. Vì vậy, câu phát biểu này được phân loại là Non HS.","Bước 1: Nhóm đối tượng được đề cập trong câu này là ""thầy cô người châu Á"".
+-
+Bước 4: Mục đích của câu này là mô tả một tình huống có thể gặp phải khi chuyển lên đại học, không nhằm làm tổn thương, phỉ báng hay lan truyền định kiến.","- label: Non HS
+- Tổng hợp: Bước 1 chỉ ra rằng câu phát biểu đề cập đến nhóm đối tượng ""thầy cô người châu Á"". Bước 4 giải thích rằng mục đích của câu này là mô tả một tình huống có thể gặp phải khi chuyển lên đại học, không nhằm làm tổn thương, phỉ báng hay lan truyền định kiến. Do đó, câu phát biểu không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử, nên được phân loại là Non HS.","Bước 2: Từ ngữ trong câu này không có tính xúc phạm hay miệt thị. Chúng chỉ đơn thuần mô tả một thực tế có thể xảy ra.
+-
+Bước 3: Câu này không có hình thức xúc phạm trực tiếp hay gián tiếp.
+-","- label: Non HS
+- Tổng hợp: Bước 2 cho thấy từ ngữ trong câu không mang tính xúc phạm hay miệt thị, chỉ mô tả một thực tế có thể xảy ra. Bước 3 xác nhận rằng câu này không có hình thức xúc phạm trực tiếp hay gián tiếp. Do đó, không có dấu hiệu nào của sự kỳ thị, xúc phạm hay phân biệt đối xử trong câu phát biểu này, phù hợp với nhãn Non HS.","Bước 2: Từ ngữ trong câu này không có tính xúc phạm hay miệt thị. Chúng chỉ đơn thuần mô tả một thực tế có thể xảy ra.
+-
+Bước 4: Mục đích của câu này là mô tả một tình huống có thể gặp phải khi chuyển lên đại học, không nhằm làm tổn thương, phỉ báng hay lan truyền định kiến.","- label: Non HS
+- Tổng hợp: Bước 2 chỉ ra rằng từ ngữ trong câu này không mang tính xúc phạm hay miệt thị, mà chỉ mô tả một thực tế có thể xảy ra. Bước 4 khẳng định mục đích của câu là mô tả một tình huống có thể gặp phải khi chuyển lên đại học, không nhằm mục đích làm tổn thương, phỉ báng hay lan truyền định kiến. Do đó, câu này không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử, và được phân loại là Non HS.","Bước 3: Câu này không có hình thức xúc phạm trực tiếp hay gián tiếp.
+-
+Bước 4: Mục đích của câu này là mô tả một tình huống có thể gặp phải khi chuyển lên đại học, không nhằm làm tổn thương, phỉ báng hay lan truyền định kiến.","- Label: Non HS
+- Tổng hợp: 
+Theo Bước 3, câu này không chứa bất kỳ hình thức xúc phạm trực tiếp hay gián tiếp nào. Theo Bước 4, mục đích của câu này chỉ đơn thuần là mô tả một tình huống có thể xảy ra khi chuyển lên đại học, không nhằm mục đích xúc phạm hay lan truyền định kiến. Do đó, căn cứ vào cả hai bước phân tích trên, câu phát biểu được coi là không mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử, phù hợp với nhãn Non HS.","Bước 1: Nhóm đối tượng được đề cập trong câu này là ""thầy cô người châu Á"".
+-
+Bước 2: Từ ngữ trong câu này không có tính xúc phạm hay miệt thị. Chúng chỉ đơn thuần mô tả một thực tế có thể xảy ra.
+-
+Bước 3: Câu này không có hình thức xúc phạm trực tiếp hay gián tiếp.
+-","- label: Non HS
+- Tổng hợp: 
+  - Bước 1 xác định nhóm đối tượng được đề cập là ""thầy cô người châu Á"". 
+  - Bước 2 chỉ ra rằng từ ngữ trong câu không chứa tính xúc phạm hay miệt thị, mà chỉ mô tả một thực tế có thể xảy ra.
+  - Bước 3 khẳng định câu này không có hình thức xúc phạm trực tiếp hay gián tiếp. 
+
+Do đó, theo phân tích từ các bước trên, câu phát biểu không thể được phân loại vào hai loại phát ngôn thù ghét (Explicit HS và Implicit HS) vì nó không chứa bất kỳ từ ngữ xúc phạm, miệt thị hay định kiến tiêu cực nào. Vì vậy, câu phát biểu được phân loại là Non HS.","Bước 1: Nhóm đối tượng được đề cập trong câu này là ""thầy cô người châu Á"".
+-
+Bước 2: Từ ngữ trong câu này không có tính xúc phạm hay miệt thị. Chúng chỉ đơn thuần mô tả một thực tế có thể xảy ra.
+-
+Bước 4: Mục đích của câu này là mô tả một tình huống có thể gặp phải khi chuyển lên đại học, không nhằm làm tổn thương, phỉ báng hay lan truyền định kiến.","- label: Non HS
+- Tổng hợp: 
+Bước 1 xác định nhóm đối tượng được đề cập là ""thầy cô người châu Á"". Bước 2 cho thấy từ ngữ trong câu không mang tính xúc phạm hay miệt thị, chúng chỉ đơn thuần mô tả một thực tế có thể xảy ra. Bước 4 khẳng định mục đích của câu là mô tả một tình huống có thể gặp phải khi chuyển lên đại học, không nhằm làm tổn thương, phỉ báng hay lan truyền định kiến. Do đó, câu phát biểu này không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử, phù hợp với nhãn Non HS.","Bước 1: Nhóm đối tượng được đề cập trong câu này là ""thầy cô người châu Á"".
+-
+Bước 3: Câu này không có hình thức xúc phạm trực tiếp hay gián tiếp.
+-
+Bước 4: Mục đích của câu này là mô tả một tình huống có thể gặp phải khi chuyển lên đại học, không nhằm làm tổn thương, phỉ báng hay lan truyền định kiến.","- label: Non HS
+- Tổng hợp: Nhóm đối tượng được đề cập trong câu này là ""thầy cô người châu Á"" (Bước 1). Câu này không có hình thức xúc phạm trực tiếp hay gián tiếp (Bước 3). Mục đích của câu này là mô tả một tình huống có thể gặp phải khi chuyển lên đại học, không nhằm làm tổn thương, phỉ báng hay lan truyền định kiến (Bước 4). Do đó, câu phát biểu không thuộc hai loại phát ngôn thù ghét (Explicit HS và Implicit HS), và được phân loại là Non HS.","Bước 2: Từ ngữ trong câu này không có tính xúc phạm hay miệt thị. Chúng chỉ đơn thuần mô tả một thực tế có thể xảy ra.
+-
+Bước 3: Câu này không có hình thức xúc phạm trực tiếp hay gián tiếp.
+-
+Bước 4: Mục đích của câu này là mô tả một tình huống có thể gặp phải khi chuyển lên đại học, không nhằm làm tổn thương, phỉ báng hay lan truyền định kiến.","- label: Non HS
+- Tổng hợp: 
+Bước 2 chỉ rõ rằng từ ngữ trong câu không có tính xúc phạm hay miệt thị, đơn thuần mô tả một thực tế có thể xảy ra. Bước 3 khẳng định câu này không chứa hình thức xúc phạm trực tiếp hay gián tiếp. Cuối cùng, Bước 4 nhấn mạnh mục đích của câu chỉ là mô tả một tình huống có thể gặp phải khi chuyển lên đại học, không nhằm mục đích gây tổn thương, phỉ báng hay lan truyền định kiến. Do đó, câu phát biểu này được phân loại là Non HS.","Bước 1: Nhóm đối tượng được đề cập trong câu này là ""thầy cô người châu Á"".
+-
+Bước 2: Từ ngữ trong câu này không có tính xúc phạm hay miệt thị. Chúng chỉ đơn thuần mô tả một thực tế có thể xảy ra.
+-
+Bước 3: Câu này không có hình thức xúc phạm trực tiếp hay gián tiếp.
+-
+Bước 4: Mục đích của câu này là mô tả một tình huống có thể gặp phải khi chuyển lên đại học, không nhằm làm tổn thương, phỉ báng hay lan truyền định kiến.","- label: Non HS
+- Tổng hợp: Nhóm đối tượng được đề cập trong câu là ""thầy cô người châu Á"" (Bước 1). Từ ngữ trong câu không có tính xúc phạm hay miệt thị, chỉ đơn thuần mô tả một thực tế có thể xảy ra (Bước 2). Câu này không có hình thức xúc phạm trực tiếp hay gián tiếp (Bước 3). Mục đích của câu là mô tả một tình huống có thể gặp phải khi chuyển lên đại học, không nhằm làm tổn thương, phỉ báng hay lan truyền định kiến (Bước 4). Do đó, câu này được phân loại là Non HS.",Khi mình chuyển lên đại học thì sẽ có nhiều thầy cô người châu Á dạy mình.
+262,,Đi chùa đầu năm cảm thấy lòng nhẹ hẳn ra,Religious Groups,Non HS,"Bước 1: Không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+-","- label: Non HS
+- Tổng hợp: Bước 1 đã xác định rằng trong câu phát biểu ""Đi chùa đầu năm cảm thấy lòng nhẹ hẳn ra"" không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập. Do đó, câu này không thể thuộc loại Explicit HS hay Implicit HS vì cả hai loại đều yêu cầu sự tồn tại của một cá nhân hoặc nhóm đối tượng cụ thể bị xúc phạm, kỳ thị. Kết luận từ bước phân tích này, câu phát biểu chỉ thể hiện cảm xúc cá nhân khi đi chùa, không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử, nên được phân loại là Non HS.","Bước 2: Câu sử dụng từ ngữ tích cực như ""nhẹ hẳn ra"", thể hiện cảm giác thoải mái và thư thái sau khi đi chùa.
+-","- label: Non HS
+- Tổng hợp: Câu phát biểu ""Đi chùa đầu năm cảm thấy lòng nhẹ hẳn ra"" sử dụng từ ngữ tích cực như ""nhẹ hẳn ra"", thể hiện cảm giác thoải mái và thư thái sau khi đi chùa (Bước 2). Không có dấu hiệu của sự xúc phạm, kỳ thị hay phân biệt đối xử nào được đề cập. Do đó, câu này được phân loại là Non HS.","Bước 3: Câu không chứa bất kỳ từ ngữ hay biểu hiện xúc phạm trực tiếp hay gián tiếp nào.
+-","- Label: Non HS
+- Tổng hợp: Câu phát biểu ""Đi chùa đầu năm cảm thấy lòng nhẹ hẳn ra"" không chứa bất kỳ từ ngữ hay biểu hiện xúc phạm trực tiếp hay gián tiếp nào (theo Bước 3). Do đó, theo phân tích đã được cung cấp, câu này không thuộc các loại phát ngôn thù ghét (Explicit HS hay Implicit HS) mà là một phát ngôn trung lập, không mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử.","Bước 4: Mục đích của câu là chia sẻ cảm nhận cá nhân về việc đi chùa đầu năm, không có ý định làm tổn thương hay phỉ báng ai.","- label: Non HS
+- Tổng hợp: Câu phát biểu ""Đi chùa đầu năm cảm thấy lòng nhẹ hẳn ra"" thể hiện cảm nhận cá nhân về trải nghiệm tinh thần khi đi chùa đầu năm (Bước 4). Không có dấu hiệu của việc xúc phạm, phân biệt hay kỳ thị đối với cá nhân hay nhóm nào. Vì vậy, câu này được phân loại là Non HS.","Bước 1: Không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+-
+Bước 2: Câu sử dụng từ ngữ tích cực như ""nhẹ hẳn ra"", thể hiện cảm giác thoải mái và thư thái sau khi đi chùa.
+-","- label: Non HS
+- Tổng hợp: Bước 1 không tìm thấy cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này. Bước 2 chỉ ra rằng câu sử dụng từ ngữ tích cực như ""nhẹ hẳn ra"", thể hiện cảm giác thoải mái và thư thái sau khi đi chùa. Do đó, câu này không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử và được đánh giá là không mang tính chất thù địch đối với bất kỳ cá nhân hay nhóm nào.","Bước 1: Không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+-
+Bước 3: Câu không chứa bất kỳ từ ngữ hay biểu hiện xúc phạm trực tiếp hay gián tiếp nào.
+-","- label: Non HS
+- Tổng hợp: 
+Bước 1 chỉ ra rằng câu nói không đề cập đến bất kỳ cá nhân hoặc nhóm đối tượng cụ thể nào. Bước 3 khẳng định rằng câu không chứa bất kỳ từ ngữ hay biểu hiện xúc phạm trực tiếp hay gián tiếp nào. Do đó, theo hai bước phân tích trên, câu nói không thể được phân loại là Explicit HS hay Implicit HS. Kết quả cuối cùng là câu nói không mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử, nên được phân loại là Non HS.","Bước 1: Không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+-
+Bước 4: Mục đích của câu là chia sẻ cảm nhận cá nhân về việc đi chùa đầu năm, không có ý định làm tổn thương hay phỉ báng ai.","- label: Non HS
+- Tổng hợp: Bước 1 xác định không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này. Bước 4 chỉ ra mục đích của câu là chia sẻ cảm nhận cá nhân về việc đi chùa đầu năm, không có ý định làm tổn thương hay phỉ báng ai. Do đó, câu này không thể được phân loại là Explicit HS hay Implicit HS vì không có dấu hiệu của sự xúc phạm, kỳ thị hay phân biệt đối xử. Câu này chỉ đơn thuần là một chia sẻ cảm xúc, nên phù hợp với nhãn Non HS.","Bước 2: Câu sử dụng từ ngữ tích cực như ""nhẹ hẳn ra"", thể hiện cảm giác thoải mái và thư thái sau khi đi chùa.
+-
+Bước 3: Câu không chứa bất kỳ từ ngữ hay biểu hiện xúc phạm trực tiếp hay gián tiếp nào.
+-","- label: Non HS
+- Tổng hợp: Bước 2 chỉ ra rằng câu sử dụng từ ngữ tích cực như ""nhẹ hẳn ra"", thể hiện cảm giác thoải mái và thư thái sau khi đi chùa. Điều này cho thấy câu phát biểu mang tính chất tích cực và không có ý đồ xúc phạm hay phân biệt. Bước 3 khẳng định rằng câu không chứa bất kỳ từ ngữ hay biểu hiện xúc phạm trực tiếp hay gián tiếp nào. Do đó, câu phát biểu không thuộc bất kỳ loại phát ngôn thù ghét nào và được phân loại là Non HS.","Bước 2: Câu sử dụng từ ngữ tích cực như ""nhẹ hẳn ra"", thể hiện cảm giác thoải mái và thư thái sau khi đi chùa.
+-
+Bước 4: Mục đích của câu là chia sẻ cảm nhận cá nhân về việc đi chùa đầu năm, không có ý định làm tổn thương hay phỉ báng ai.","- label: Non HS
+- Tổng hợp: Câu phát biểu này sử dụng từ ngữ tích cực (""nhẹ hẳn ra"") thể hiện cảm giác thoải mái và thư thái sau khi đi chùa (Bước 2). Mục đích của câu là chia sẻ cảm nhận cá nhân về việc đi chùa đầu năm, không có ý định làm tổn thương hay phỉ báng ai (Bước 4). Do đó, câu không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử và được phân loại là Non HS.","Bước 3: Câu không chứa bất kỳ từ ngữ hay biểu hiện xúc phạm trực tiếp hay gián tiếp nào.
+-
+Bước 4: Mục đích của câu là chia sẻ cảm nhận cá nhân về việc đi chùa đầu năm, không có ý định làm tổn thương hay phỉ báng ai.","- label: Non HS
+- Tổng hợp: Câu phát biểu ""Đi chùa đầu năm cảm thấy lòng nhẹ hẳn ra"" không chứa bất kỳ từ ngữ hay biểu hiện xúc phạm trực tiếp hay gián tiếp nào (theo Bước 3). Mục đích của câu là chia sẻ cảm nhận cá nhân về việc đi chùa đầu năm, không có ý định làm tổn thương hay phỉ báng ai (theo Bước 4). Do đó, theo phân tích trên, câu này không thuộc hai nhãn Explicit HS hay Implicit HS, mà thuộc về nhãn Non HS.","Bước 1: Không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+-
+Bước 2: Câu sử dụng từ ngữ tích cực như ""nhẹ hẳn ra"", thể hiện cảm giác thoải mái và thư thái sau khi đi chùa.
+-
+Bước 3: Câu không chứa bất kỳ từ ngữ hay biểu hiện xúc phạm trực tiếp hay gián tiếp nào.
+-","- label: Non HS
+- Tổng hợp: 
+Bước 1 xác định rằng không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+Bước 2 chỉ ra rằng câu sử dụng từ ngữ tích cực như ""nhẹ hẳn ra"", thể hiện cảm giác thoải mái và thư thái sau khi đi chùa.
+Bước 3 khẳng định rằng câu không chứa bất kỳ từ ngữ hay biểu hiện xúc phạm trực tiếp hay gián tiếp nào.
+
+Dựa trên các phân tích này, câu phát biểu không thể được phân loại vào hai loại phát ngôn thù ghét (Explicit HS và Implicit HS) vì nó không có biểu hiện xúc phạm hay kỳ thị đối với bất kỳ cá nhân hay nhóm nào. Do đó, câu được phân loại là Non HS.","Bước 1: Không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+-
+Bước 2: Câu sử dụng từ ngữ tích cực như ""nhẹ hẳn ra"", thể hiện cảm giác thoải mái và thư thái sau khi đi chùa.
+-
+Bước 4: Mục đích của câu là chia sẻ cảm nhận cá nhân về việc đi chùa đầu năm, không có ý định làm tổn thương hay phỉ báng ai.","- Label: Non HS
+- Tổng hợp: 
+Bước 1 xác định rằng không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này. Bước 2 chỉ ra rằng từ ngữ ""nhẹ hẳn ra"" được sử dụng một cách tích cực, thể hiện cảm giác thoải mái và thư thái. Bước 4 nhấn mạnh mục đích của câu là chia sẻ cảm nhận cá nhân về việc đi chùa đầu năm mà không có ý định làm tổn thương hay phỉ báng ai. Do đó, câu này không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử, và được phân loại là Non HS.","Bước 1: Không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+-
+Bước 3: Câu không chứa bất kỳ từ ngữ hay biểu hiện xúc phạm trực tiếp hay gián tiếp nào.
+-
+Bước 4: Mục đích của câu là chia sẻ cảm nhận cá nhân về việc đi chùa đầu năm, không có ý định làm tổn thương hay phỉ báng ai.","- label: Non HS
+- Tổng hợp: Câu phát biểu ""Đi chùa đầu năm cảm thấy lòng nhẹ hẳn ra"" không đề cập đến bất kỳ cá nhân hoặc nhóm đối tượng cụ thể nào (Bước 1). Ngoài ra, câu này cũng không chứa bất kỳ từ ngữ hay biểu hiện xúc phạm trực tiếp hay gián tiếp nào (Bước 3). Cuối cùng, mục đích của câu chỉ đơn thuần là chia sẻ cảm nhận cá nhân về việc đi chùa đầu năm, không có ý định làm tổn thương hay phỉ báng ai (Bước 4). Do đó, câu này được phân loại là Non HS.","Bước 2: Câu sử dụng từ ngữ tích cực như ""nhẹ hẳn ra"", thể hiện cảm giác thoải mái và thư thái sau khi đi chùa.
+-
+Bước 3: Câu không chứa bất kỳ từ ngữ hay biểu hiện xúc phạm trực tiếp hay gián tiếp nào.
+-
+Bước 4: Mục đích của câu là chia sẻ cảm nhận cá nhân về việc đi chùa đầu năm, không có ý định làm tổn thương hay phỉ báng ai.","- label: Non HS
+- Tổng hợp: Bước 2 chỉ ra rằng câu sử dụng từ ngữ tích cực như ""nhẹ hẳn ra"" để mô tả cảm giác thoải mái và thư thái sau khi đi chùa. Bước 3 khẳng định câu không chứa từ ngữ hay biểu hiện xúc phạm trực tiếp hay gián tiếp. Cuối cùng, Bước 4 nhấn mạnh rằng mục đích của câu là chia sẻ cảm nhận cá nhân về việc đi chùa đầu năm mà không có ý định làm tổn thương hay phỉ báng ai. Do đó, câu này không thể được phân loại là Explicit HS hay Implicit HS vì không có dấu hiệu xúc phạm hay kỳ thị nào cả. Vì vậy, câu này thuộc vào nhãn Non HS.","Bước 1: Không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+-
+Bước 2: Câu sử dụng từ ngữ tích cực như ""nhẹ hẳn ra"", thể hiện cảm giác thoải mái và thư thái sau khi đi chùa.
+-
+Bước 3: Câu không chứa bất kỳ từ ngữ hay biểu hiện xúc phạm trực tiếp hay gián tiếp nào.
+-
+Bước 4: Mục đích của câu là chia sẻ cảm nhận cá nhân về việc đi chùa đầu năm, không có ý định làm tổn thương hay phỉ báng ai.","- Label: Non HS
+- Tổng hợp: 
+Bước 1 xác nhận rằng không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này. Bước 2 chỉ ra rằng câu sử dụng từ ngữ tích cực như ""nhẹ hẳn ra"", thể hiện cảm giác thoải mái và thư thái sau khi đi chùa, không mang ý nghĩa xúc phạm. Bước 3 khẳng định câu không chứa bất kỳ từ ngữ hay biểu hiện xúc phạm trực tiếp hay gián tiếp nào. Cuối cùng, Bước 4 giải thích rằng mục đích của câu chỉ đơn thuần là chia sẻ cảm nhận cá nhân về việc đi chùa đầu năm, không có ý định làm tổn thương hay phỉ báng ai. Vì vậy, câu phát biểu này được phân loại là Non HS (không mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử).",Đi chùa đầu năm cảm thấy lòng nhẹ hẳn ra
+263,I see where you are coming from .,Mình hiểu ý bạn muốn nói.,Non-Specified or General Targets,Non HS,"Bước 1: Không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói.
+-","- label: Non HS
+- Tổng hợp: Bước 1 chỉ ra rằng trong câu phát biểu ""Mình hiểu ý bạn muốn nói"" không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập và không chứa từ ngữ mang tính chất xúc phạm, kỳ thị hay phân biệt đối xử. Do đó, câu này không thuộc hai loại phát ngôn thù ghét là Explicit HS hay Implicit HS. Câu phát biểu này thể hiện sự thông cảm và đồng cảm với người khác, không gây ra tổn thương cho bất kỳ ai, phù hợp với tiêu chí của phát ngôn không mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử, tức là Non HS.","Bước 2: Câu phát biểu sử dụng từ ngữ trung lập và không chứa từ ngữ mang tính xúc phạm hoặc miệt thị.
+-","- label: Non HS
+- Tổng hợp: Câu phát biểu ""Mình hiểu ý bạn muốn nói"" sử dụng từ ngữ trung lập và không chứa từ ngữ mang tính xúc phạm hoặc miệt thị (Bước 2). Do đó, câu này không thể được phân loại là Explicit HS hay Implicit HS và phù hợp nhất với nhãn Non HS.","Bước 3: Do không có từ ngữ xúc phạm hay miệt thị nên câu này không thể được coi là trực tiếp hay gián tiếp xúc phạm.
+-","- label: Non HS
+- Tổng hợp: Bước 3 đã chỉ rõ rằng do không có từ ngữ xúc phạm hay miệt thị, nên câu này không thể được coi là trực tiếp (Explicit HS) hay gián tiếp (Implicit HS) xúc phạm. Do đó, theo phân tích cung cấp, câu ""Mình hiểu ý bạn muốn nói"" được phân loại là Non HS.","Bước 4: Mục đích của câu nói dường như là đồng cảm hoặc hiểu biết về quan điểm của người khác, không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- label: Non HS
+- Tổng hợp: Câu phát biểu ""Mình hiểu ý bạn muốn nói"" không chứa bất kỳ từ ngữ mang tính chất xúc phạm, miệt thị hay kích động thù địch nào (Bước 4). Đồng thời, mục đích của câu nói dường như chỉ đơn thuần là thể hiện sự đồng cảm hoặc hiểu biết về quan điểm của người khác, không nhằm mục đích làm tổn thương hay lan truyền định kiến (Bước 4). Do đó, câu này được phân loại vào nhãn Non HS.","Bước 1: Không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói.
+-
+Bước 2: Câu phát biểu sử dụng từ ngữ trung lập và không chứa từ ngữ mang tính xúc phạm hoặc miệt thị.
+-","- label: Non HS
+- Tổng hợp: Bước 1 không xác định được cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói. Bước 2 xác nhận rằng câu phát biểu sử dụng từ ngữ trung lập và không chứa từ ngữ mang tính xúc phạm hoặc miệt thị. Do đó, câu này không thể được phân loại là Explicit HS hay Implicit HS và phù hợp nhất với nhãn Non HS.","Bước 1: Không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói.
+-
+Bước 3: Do không có từ ngữ xúc phạm hay miệt thị nên câu này không thể được coi là trực tiếp hay gián tiếp xúc phạm.
+-","- label: Non HS
+- Tổng hợp: Bước 1 xác định không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói. Bước 3 khẳng định do không có từ ngữ xúc phạm hay miệt thị nên câu này không thể được coi là trực tiếp hay gián tiếp xúc phạm. Do đó, câu phát biểu ""Mình hiểu ý bạn muốn nói"" không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử, và được phân loại là Non HS.","Bước 1: Không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói.
+-
+Bước 4: Mục đích của câu nói dường như là đồng cảm hoặc hiểu biết về quan điểm của người khác, không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- label: Non HS
+- Tổng hợp: 
+Bước 1 xác định rằng không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói. Điều này loại bỏ khả năng câu nói mang tính chất kỳ thị hoặc xúc phạm trực tiếp hoặc gián tiếp.
+Bước 4 chỉ ra mục đích của câu nói dường như là đồng cảm hoặc hiểu biết về quan điểm của người khác, không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét. Điều này cũng hỗ trợ kết luận rằng câu nói không mang tính chất kỳ thị hay xúc phạm.
+Do đó, dựa vào cả hai bước phân tích trên, câu phát biểu ""Mình hiểu ý bạn muốn nói"" được phân loại là Non HS (không mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử).","Bước 2: Câu phát biểu sử dụng từ ngữ trung lập và không chứa từ ngữ mang tính xúc phạm hoặc miệt thị.
+-
+Bước 3: Do không có từ ngữ xúc phạm hay miệt thị nên câu này không thể được coi là trực tiếp hay gián tiếp xúc phạm.
+-","- label: Non HS
+- Tổng hợp: Câu phát biểu ""Mình hiểu ý bạn muốn nói"" sử dụng từ ngữ trung lập và không chứa từ ngữ mang tính xúc phạm hoặc miệt thị (Bước 2). Vì không có từ ngữ xúc phạm hay miệt thị, câu này không thể được coi là trực tiếp hay gián tiếp xúc phạm (Bước 3). Do đó, câu này được phân loại là Non HS.","Bước 2: Câu phát biểu sử dụng từ ngữ trung lập và không chứa từ ngữ mang tính xúc phạm hoặc miệt thị.
+-
+Bước 4: Mục đích của câu nói dường như là đồng cảm hoặc hiểu biết về quan điểm của người khác, không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- label: Non HS
+- Tổng hợp: Câu phát biểu ""Mình hiểu ý bạn muốn nói"" sử dụng từ ngữ trung lập và không chứa từ ngữ mang tính xúc phạm hoặc miệt thị (Bước 2). Mục đích của câu nói dường như là đồng cảm hoặc hiểu biết về quan điểm của người khác, không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét (Bước 4). Do đó, câu này được phân loại là Non HS.","Bước 3: Do không có từ ngữ xúc phạm hay miệt thị nên câu này không thể được coi là trực tiếp hay gián tiếp xúc phạm.
+-
+Bước 4: Mục đích của câu nói dường như là đồng cảm hoặc hiểu biết về quan điểm của người khác, không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- label: Non HS
+- Tổng hợp: Bước 3 xác định rằng câu nói không chứa từ ngữ xúc phạm hoặc miệt thị, do đó loại trừ khả năng là phát ngôn thù ghét trực tiếp hoặc gián tiếp. Bước 4 chỉ ra rằng mục đích của câu nói là thể hiện sự đồng cảm hoặc hiểu biết về quan điểm của người khác, không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét. Kết hợp hai bước phân tích này, có thể kết luận rằng câu phát biểu không thuộc bất kỳ loại phát ngôn thù ghét nào và được phân loại là Non HS.","Bước 1: Không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói.
+-
+Bước 2: Câu phát biểu sử dụng từ ngữ trung lập và không chứa từ ngữ mang tính xúc phạm hoặc miệt thị.
+-
+Bước 3: Do không có từ ngữ xúc phạm hay miệt thị nên câu này không thể được coi là trực tiếp hay gián tiếp xúc phạm.
+-","- label: Non HS
+- Tổng hợp: 
+Bước 1 xác định không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói.
+Bước 2 chỉ ra rằng câu phát biểu sử dụng từ ngữ trung lập và không chứa từ ngữ mang tính xúc phạm hoặc miệt thị.
+Bước 3 khẳng định do không có từ ngữ xúc phạm hay miệt thị nên câu này không thể được coi là trực tiếp hay gián tiếp xúc phạm. Do đó, dựa trên các bước phân tích, câu phát biểu ""Mình hiểu ý bạn muốn nói"" không thuộc loại phát ngôn mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử.","Bước 1: Không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói.
+-
+Bước 2: Câu phát biểu sử dụng từ ngữ trung lập và không chứa từ ngữ mang tính xúc phạm hoặc miệt thị.
+-
+Bước 4: Mục đích của câu nói dường như là đồng cảm hoặc hiểu biết về quan điểm của người khác, không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- label: Non HS
+- Tổng hợp: Câu phát biểu ""Mình hiểu ý bạn muốn nói"" không đề cập đến bất kỳ cá nhân hoặc nhóm đối tượng cụ thể nào (Bước 1). Đồng thời, câu này sử dụng từ ngữ trung lập và không chứa từ ngữ mang tính xúc phạm hoặc miệt thị (Bước 2). Mục đích của câu nói là thể hiện sự đồng cảm hoặc hiểu biết về quan điểm của người khác, không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét (Bước 4). Do đó, câu này được phân loại là Non HS.","Bước 1: Không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói.
+-
+Bước 3: Do không có từ ngữ xúc phạm hay miệt thị nên câu này không thể được coi là trực tiếp hay gián tiếp xúc phạm.
+-
+Bước 4: Mục đích của câu nói dường như là đồng cảm hoặc hiểu biết về quan điểm của người khác, không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- label: Non HS
+- Tổng hợp: 
+Bước 1 xác định rằng không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói.
+Bước 3 khẳng định do không có từ ngữ xúc phạm hay miệt thị nên câu này không thể được coi là trực tiếp hay gián tiếp xúc phạm.
+Bước 4 chỉ ra mục đích của câu nói dường như là đồng cảm hoặc hiểu biết về quan điểm của người khác, không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.
+Do đó, câu phát biểu ""Mình hiểu ý bạn muốn nói"" không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử và được phân loại là Non HS.","Bước 2: Câu phát biểu sử dụng từ ngữ trung lập và không chứa từ ngữ mang tính xúc phạm hoặc miệt thị.
+-
+Bước 3: Do không có từ ngữ xúc phạm hay miệt thị nên câu này không thể được coi là trực tiếp hay gián tiếp xúc phạm.
+-
+Bước 4: Mục đích của câu nói dường như là đồng cảm hoặc hiểu biết về quan điểm của người khác, không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- label: Non HS
+- Tổng hợp: 
+Bước 2 chỉ ra rằng câu phát biểu sử dụng từ ngữ trung lập và không chứa từ ngữ mang tính xúc phạm hoặc miệt thị. Bước 3 khẳng định do không có từ ngữ xúc phạm hay miệt thị, câu này không thể được coi là trực tiếp hay gián tiếp xúc phạm. Cuối cùng, Bước 4 cho thấy mục đích của câu nói dường như là đồng cảm hoặc hiểu biết về quan điểm của người khác, không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét. Do đó, câu phát biểu này không thuộc loại Explicit HS hay Implicit HS và phù hợp với nhãn Non HS.","Bước 1: Không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói.
+-
+Bước 2: Câu phát biểu sử dụng từ ngữ trung lập và không chứa từ ngữ mang tính xúc phạm hoặc miệt thị.
+-
+Bước 3: Do không có từ ngữ xúc phạm hay miệt thị nên câu này không thể được coi là trực tiếp hay gián tiếp xúc phạm.
+-
+Bước 4: Mục đích của câu nói dường như là đồng cảm hoặc hiểu biết về quan điểm của người khác, không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- Label: Non HS
+- Tổng hợp: Bước 1 xác nhận rằng không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói. Bước 2 chỉ ra rằng câu phát biểu sử dụng từ ngữ trung lập và không chứa từ ngữ mang tính xúc phạm hoặc miệt thị. Bước 3 khẳng định do không có từ ngữ xúc phạm hay miệt thị nên câu này không thể được coi là trực tiếp hay gián tiếp xúc phạm. Cuối cùng, Bước 4 nhấn mạnh rằng mục đích của câu nói dường như là đồng cảm hoặc hiểu biết về quan điểm của người khác, không có dấu hiệu của việc làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét. Kết hợp tất cả những yếu tố này, câu phát biểu được phân loại là Non HS.",Mình hiểu ý bạn muốn nói.
+264,Women are human beings with the potential to be hard workers as anyone else. Do you really think they are incapable of being professionals?,Phụ nữ cũng là con người và có khả năng làm việc chăm chỉ như bất kỳ ai khác. Bạn thực sự nghĩ họ không thể trở thành những chuyên gia giỏi sao?,Women,Non HS,"Bước 1: Nhóm đối tượng được đề cập là phụ nữ.
+-","- label: Non HS
+- Tổng hợp: 
+Bước 1 đã xác định rằng nhóm đối tượng được đề cập là phụ nữ. Câu phát biểu không chứa bất kỳ từ ngữ miệt thị trực tiếp hay ẩn dụ tiêu cực nào về phụ nữ. Thay vào đó, nó khẳng định quyền bình đẳng của phụ nữ trong công việc và khích lệ quan điểm rằng họ hoàn toàn có thể trở thành những chuyên gia giỏi. Do đó, không có dấu hiệu của sự kỳ thị hay xúc phạm trực tiếp hoặc gián tiếp, và câu này phù hợp với nhãn Non HS.","Bước 2: Từ ngữ sử dụng trong câu là tích cực và ủng hộ, không có từ ngữ mang tính xúc phạm hoặc kỳ thị.
+-","- label: Non HS
+- Tổng hợp: Bước 2 đã chỉ ra rằng từ ngữ sử dụng trong câu là tích cực và ủng hộ, không có từ ngữ mang tính xúc phạm hoặc kỳ thị. Do đó, câu này không thuộc vào hai loại phát ngôn thù ghét (Explicit HS và Implicit HS) và phù hợp với tiêu chí của loại phát ngôn không mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử (Non HS).","Bước 3: Không có dấu hiệu của xúc phạm trực tiếp hay gián tiếp.
+-","- Label: Non HS
+- Tổng hợp: Câu phát biểu không chứa bất kỳ dấu hiệu nào của xúc phạm trực tiếp hay gián tiếp (Bước 3). Câu khẳng định quyền bình đẳng giữa phụ nữ và nam giới trong môi trường lao động và khích lệ tinh thần của phụ nữ, do đó không thể phân loại vào hai nhãn Explicit HS hoặc Implicit HS.","Bước 4: Mục đích của câu là khẳng định quyền bình đẳng và khả năng làm việc của phụ nữ, không có ý định làm tổn thương, phỉ báng hay kích động thù hận.","- Label: Non HS
+- Tổng hợp: Câu phát biểu khẳng định quyền bình đẳng và khả năng làm việc của phụ nữ, mục đích của nó là để nhấn mạnh rằng phụ nữ cũng có thể trở thành những chuyên gia giỏi như bất kỳ ai khác (Bước 4). Do đó, câu này không mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử, và không có ý định làm tổn thương, phỉ báng hay kích động thù hận.","Bước 1: Nhóm đối tượng được đề cập là phụ nữ.
+-
+Bước 2: Từ ngữ sử dụng trong câu là tích cực và ủng hộ, không có từ ngữ mang tính xúc phạm hoặc kỳ thị.
+-","- label: Non HS
+- Tổng hợp: Nhóm đối tượng được đề cập trong câu là phụ nữ (Bước 1). Từ ngữ sử dụng trong câu là tích cực và ủng hộ, không có từ ngữ mang tính xúc phạm hoặc kỳ thị (Bước 2). Do đó, câu này không thuộc về hai loại phát ngôn thù ghét (Explicit HS và Implicit HS) vì nó không chứa từ ngữ xúc phạm hay kỳ thị, và không có dấu hiệu của sự kỳ thị gián tiếp hay ẩn dụ. Vì vậy, câu này được phân loại là Non HS.","Bước 1: Nhóm đối tượng được đề cập là phụ nữ.
+-
+Bước 3: Không có dấu hiệu của xúc phạm trực tiếp hay gián tiếp.
+-","- label: Non HS
+- Tổng hợp: Nhóm đối tượng được đề cập là phụ nữ (Bước 1). Không có dấu hiệu của xúc phạm trực tiếp hay gián tiếp (Bước 3). Do đó, câu phát biểu này không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử và được coi là trung lập, tích cực.","Bước 1: Nhóm đối tượng được đề cập là phụ nữ.
+-
+Bước 4: Mục đích của câu là khẳng định quyền bình đẳng và khả năng làm việc của phụ nữ, không có ý định làm tổn thương, phỉ báng hay kích động thù hận.","- label: Non HS
+- Tổng hợp: Nhóm đối tượng được đề cập là phụ nữ (Bước 1). Mục đích của câu là khẳng định quyền bình đẳng và khả năng làm việc của phụ nữ, không có ý định làm tổn thương, phỉ báng hay kích động thù hận (Bước 4). Do đó, câu này không thuộc loại phát ngôn thể hiện sự thù ghét, xúc phạm hay phân biệt đối xử, mà ngược lại, nó khẳng định quyền bình đẳng và khả năng làm việc của phụ nữ.","Bước 2: Từ ngữ sử dụng trong câu là tích cực và ủng hộ, không có từ ngữ mang tính xúc phạm hoặc kỳ thị.
+-
+Bước 3: Không có dấu hiệu của xúc phạm trực tiếp hay gián tiếp.
+-","- label: Non HS
+- Tổng hợp: 
+Bước 2 xác nhận rằng từ ngữ sử dụng trong câu là tích cực và ủng hộ, không có từ ngữ mang tính xúc phạm hoặc kỳ thị. Bước 3 khẳng định không có dấu hiệu của xúc phạm trực tiếp hay gián tiếp. Do đó, câu phát biểu này không thuộc các trường hợp mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử. Câu mang tính chất trung lập và tích cực, vì vậy nó được phân loại là Non HS.","Bước 2: Từ ngữ sử dụng trong câu là tích cực và ủng hộ, không có từ ngữ mang tính xúc phạm hoặc kỳ thị.
+-
+Bước 4: Mục đích của câu là khẳng định quyền bình đẳng và khả năng làm việc của phụ nữ, không có ý định làm tổn thương, phỉ báng hay kích động thù hận.","- label: Non HS
+- Tổng hợp: Bước 2 xác nhận rằng từ ngữ sử dụng trong câu là tích cực và ủng hộ, không chứa từ ngữ xúc phạm hoặc kỳ thị. Bước 4 nhấn mạnh mục đích của câu là khẳng định quyền bình đẳng và khả năng làm việc của phụ nữ, đồng thời không có ý định làm tổn thương, phỉ báng hay kích động thù hận. Do đó, câu phát biểu này không thuộc bất kỳ một trong hai loại phát ngôn thù ghét (Explicit HS hay Implicit HS) và phù hợp với nhãn Non HS.","Bước 3: Không có dấu hiệu của xúc phạm trực tiếp hay gián tiếp.
+-
+Bước 4: Mục đích của câu là khẳng định quyền bình đẳng và khả năng làm việc của phụ nữ, không có ý định làm tổn thương, phỉ báng hay kích động thù hận.","- label: Non HS
+- Tổng hợp: Bước 3 xác nhận không có dấu hiệu xúc phạm trực tiếp hay gián tiếp trong câu phát biểu. Bước 4 chỉ ra mục đích của câu là khẳng định quyền bình đẳng và khả năng làm việc của phụ nữ, đồng thời nhấn mạnh không có ý định làm tổn thương, phỉ báng hay kích động thù hận. Do đó, câu này không thuộc bất kỳ nhãn nào của Explicit HS hay Implicit HS, và phù hợp nhất với nhãn Non HS.","Bước 1: Nhóm đối tượng được đề cập là phụ nữ.
+-
+Bước 2: Từ ngữ sử dụng trong câu là tích cực và ủng hộ, không có từ ngữ mang tính xúc phạm hoặc kỳ thị.
+-
+Bước 3: Không có dấu hiệu của xúc phạm trực tiếp hay gián tiếp.
+-","- label: Non HS
+- Tổng hợp: 
+Bước 1 xác định rằng nhóm đối tượng được đề cập là phụ nữ.
+Bước 2 chỉ ra rằng từ ngữ sử dụng trong câu là tích cực và ủng hộ, không có từ ngữ mang tính xúc phạm hoặc kỳ thị.
+Bước 3 khẳng định không có dấu hiệu của xúc phạm trực tiếp hay gián tiếp.
+Dựa vào các yếu tố này, câu phát biểu không thể bị phân loại vào hai nhãn Explicit HS hay Implicit HS vì nó không chứa bất kỳ ngôn ngữ xúc phạm, kỳ thị trực tiếp hay gián tiếp nào. Do đó, câu phát biểu được phân loại vào nhãn Non HS.","Bước 1: Nhóm đối tượng được đề cập là phụ nữ.
+-
+Bước 2: Từ ngữ sử dụng trong câu là tích cực và ủng hộ, không có từ ngữ mang tính xúc phạm hoặc kỳ thị.
+-
+Bước 4: Mục đích của câu là khẳng định quyền bình đẳng và khả năng làm việc của phụ nữ, không có ý định làm tổn thương, phỉ báng hay kích động thù hận.","- label: Non HS
+- Tổng hợp: Bước 1 xác định nhóm đối tượng được đề cập là phụ nữ. Bước 2 cho thấy từ ngữ sử dụng trong câu là tích cực và ủng hộ, không có từ ngữ mang tính xúc phạm hoặc kỳ thị. Bước 4 nêu rõ mục đích của câu là khẳng định quyền bình đẳng và khả năng làm việc của phụ nữ, không có ý định làm tổn thương, phỉ báng hay kích động thù hận. Do đó, câu phát biểu này không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử, phù hợp với nhãn Non HS.","Bước 1: Nhóm đối tượng được đề cập là phụ nữ.
+-
+Bước 3: Không có dấu hiệu của xúc phạm trực tiếp hay gián tiếp.
+-
+Bước 4: Mục đích của câu là khẳng định quyền bình đẳng và khả năng làm việc của phụ nữ, không có ý định làm tổn thương, phỉ báng hay kích động thù hận.","- label: Non HS
+- Tổng hợp: 
+Bước 1 xác định rằng nhóm đối tượng được đề cập trong câu phát biểu là phụ nữ. Bước 3 không tìm thấy dấu hiệu của xúc phạm trực tiếp hay gián tiếp, và Bước 4 nêu rõ mục đích của câu là khẳng định quyền bình đẳng và khả năng làm việc của phụ nữ, không có ý định làm tổn thương, phỉ báng hay kích động thù hận. Do đó, câu phát biểu này không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử và được phân loại là Non HS.","Bước 2: Từ ngữ sử dụng trong câu là tích cực và ủng hộ, không có từ ngữ mang tính xúc phạm hoặc kỳ thị.
+-
+Bước 3: Không có dấu hiệu của xúc phạm trực tiếp hay gián tiếp.
+-
+Bước 4: Mục đích của câu là khẳng định quyền bình đẳng và khả năng làm việc của phụ nữ, không có ý định làm tổn thương, phỉ báng hay kích động thù hận.","- label: Non HS
+- Tổng hợp: 
+Bước 2 chỉ ra rằng từ ngữ sử dụng trong câu là tích cực và ủng hộ, không có từ ngữ mang tính xúc phạm hoặc kỳ thị. Bước 3 xác nhận không có dấu hiệu của xúc phạm trực tiếp hay gián tiếp. Cuối cùng, bước 4 nhấn mạnh mục đích của câu là khẳng định quyền bình đẳng và khả năng làm việc của phụ nữ, không có ý định làm tổn thương, phỉ báng hay kích động thù hận. Do đó, câu này không thuộc vào hai loại phát ngôn thù ghét (Explicit HS và Implicit HS) mà thuộc loại phát ngôn không mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử (Non HS).","Bước 1: Nhóm đối tượng được đề cập là phụ nữ.
+-
+Bước 2: Từ ngữ sử dụng trong câu là tích cực và ủng hộ, không có từ ngữ mang tính xúc phạm hoặc kỳ thị.
+-
+Bước 3: Không có dấu hiệu của xúc phạm trực tiếp hay gián tiếp.
+-
+Bước 4: Mục đích của câu là khẳng định quyền bình đẳng và khả năng làm việc của phụ nữ, không có ý định làm tổn thương, phỉ báng hay kích động thù hận.","- Label: Non HS
+- Tổng hợp: 
+Bước 1 xác định rằng nhóm đối tượng được đề cập là phụ nữ. Bước 2 và 3 đều không ghi nhận bất kỳ từ ngữ xúc phạm hay kỳ thị nào, đồng thời từ ngữ sử dụng trong câu là tích cực và ủng hộ. Bước 4 khẳng định mục đích của câu là khẳng định quyền bình đẳng và khả năng làm việc của phụ nữ, không có ý định làm tổn thương, phỉ báng hay kích động thù hận. Do đó, câu phát biểu này không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử và được phân loại là Non HS.",Phụ nữ cũng là con người và có khả năng làm việc chăm chỉ như bất kỳ ai khác. Bạn thực sự nghĩ họ không thể trở thành những chuyên gia giỏi sao?
+265,I used to beg my parents to let me wear a boy swimsuit .. trunks and topless when I was 3 or 4 years old .,"Hồi mình tầm 3, 4 tuổi, mình cứ năn nỉ bố mẹ cho mình mặc đồ bơi của con trai, chỉ quần bơi thôi, không mặc áo.",LGBTQ+,Non HS,"Bước 1: Câu phát biểu này không đề cập đến một nhóm đối tượng hoặc cá nhân cụ thể ngoài người kể chuyện.
+-","- Label: Non HS
+- Tổng hợp: Câu phát biểu không đề cập đến một nhóm đối tượng hoặc cá nhân cụ thể ngoài người kể chuyện (Bước 1). Do đó, không có dấu hiệu của sự kỳ thị, xúc phạm hay phân biệt đối xử đối với bất kỳ ai, do đó được phân loại là Non HS.","Bước 2: Câu phát biểu này mô tả một kỷ niệm cá nhân về việc người kể muốn mặc đồ bơi dành cho nam giới khi còn nhỏ. Không có từ ngữ xúc phạm hay mỉa mai nào được sử dụng.
+-","- label: Non HS
+- Tổng hợp: Câu phát biểu mô tả một kỷ niệm cá nhân về việc người kể muốn mặc đồ bơi dành cho nam giới khi còn nhỏ. Bước 2 đã khẳng định không có từ ngữ xúc phạm hay mỉa mai nào được sử dụng. Do đó, câu phát biểu không thể được phân loại là Explicit HS hay Implicit HS vì nó không chứa bất kỳ nội dung kỳ thị, xúc phạm hay phân biệt đối xử nào.","Bước 3: Không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp trong câu phát biểu.
+-","- label: Non HS
+- Tổng hợp: Bước 3 đã chỉ ra rằng câu phát biểu không chứa dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp. Do đó, theo phân loại, câu này không thuộc hai loại phát ngôn thù ghét (Explicit HS và Implicit HS). Vì vậy, câu phát biểu được phân loại là Non HS.","Bước 4: Mục đích của câu phát biểu này dường như là để chia sẻ một trải nghiệm cá nhân, không có ý định làm tổn thương hay phỉ báng ai cả.","- label: Non HS
+- Tổng hợp: Câu phát biểu được chia sẻ với mục đích kể lại một trải nghiệm cá nhân từ thời thơ ấu (Bước 4). Không có dấu hiệu của việc xúc phạm, miệt thị hay kỳ thị đối với bất kỳ nhóm nào. Do đó, theo phân tích cung cấp, câu này không thuộc phạm vi của Explicit HS hay Implicit HS và được phân loại là Non HS.","Bước 1: Câu phát biểu này không đề cập đến một nhóm đối tượng hoặc cá nhân cụ thể ngoài người kể chuyện.
+-
+Bước 2: Câu phát biểu này mô tả một kỷ niệm cá nhân về việc người kể muốn mặc đồ bơi dành cho nam giới khi còn nhỏ. Không có từ ngữ xúc phạm hay mỉa mai nào được sử dụng.
+-","- label: Non HS
+- Tổng hợp: Câu phát biểu này không đề cập đến một nhóm đối tượng hoặc cá nhân cụ thể ngoài người kể chuyện (Bước 1). Hơn nữa, câu phát biểu chỉ mô tả một kỷ niệm cá nhân mà không sử dụng bất kỳ từ ngữ xúc phạm, mỉa mai hay ẩn dụ nào nhắm vào bất kỳ nhóm đối tượng nào (Bước 2). Do đó, câu này không thuộc dạng Explicit HS hay Implicit HS, và được phân loại là Non HS.","Bước 1: Câu phát biểu này không đề cập đến một nhóm đối tượng hoặc cá nhân cụ thể ngoài người kể chuyện.
+-
+Bước 3: Không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp trong câu phát biểu.
+-","- label: Non HS
+- Tổng hợp: 
+Bước 1 cho thấy câu phát biểu không đề cập đến một nhóm đối tượng hoặc cá nhân cụ thể ngoài người kể chuyện. Bước 3 khẳng định không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp trong câu phát biểu. Do đó, câu phát biểu không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử. Nó chỉ đơn giản là một câu chuyện cá nhân và không gây tổn hại đến bất kỳ cá nhân hay nhóm xã hội nào.","Bước 1: Câu phát biểu này không đề cập đến một nhóm đối tượng hoặc cá nhân cụ thể ngoài người kể chuyện.
+-
+Bước 4: Mục đích của câu phát biểu này dường như là để chia sẻ một trải nghiệm cá nhân, không có ý định làm tổn thương hay phỉ báng ai cả.","- Label: Non HS
+- Tổng hợp: 
+Câu phát biểu này không đề cập đến một nhóm đối tượng hoặc cá nhân cụ thể ngoài người kể chuyện (Bước 1). Hơn nữa, mục đích của câu phát biểu này dường như là để chia sẻ một trải nghiệm cá nhân, không có ý định làm tổn thương hay phỉ báng ai cả (Bước 4). Do đó, không có dấu hiệu của sự xúc phạm, kỳ thị hoặc phân biệt đối xử nào được thể hiện trong câu nói này.","Bước 2: Câu phát biểu này mô tả một kỷ niệm cá nhân về việc người kể muốn mặc đồ bơi dành cho nam giới khi còn nhỏ. Không có từ ngữ xúc phạm hay mỉa mai nào được sử dụng.
+-
+Bước 3: Không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp trong câu phát biểu.
+-","- label: Non HS
+- Tổng hợp: Bước 2 xác định rằng câu phát biểu mô tả một kỷ niệm cá nhân về việc người kể muốn mặc đồ bơi dành cho nam giới khi còn nhỏ. Không có từ ngữ xúc phạm hay mỉa mai nào được sử dụng. Bước 3 khẳng định không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp trong câu phát biểu. Do đó, câu phát biểu này không thuộc bất kỳ một trong hai loại phát ngôn thù ghét (Explicit HS hoặc Implicit HS). Nó chỉ đơn thuần là một câu chuyện cá nhân không chứa nội dung kỳ thị hay xúc phạm, phù hợp với nhãn Non HS.","Bước 2: Câu phát biểu này mô tả một kỷ niệm cá nhân về việc người kể muốn mặc đồ bơi dành cho nam giới khi còn nhỏ. Không có từ ngữ xúc phạm hay mỉa mai nào được sử dụng.
+-
+Bước 4: Mục đích của câu phát biểu này dường như là để chia sẻ một trải nghiệm cá nhân, không có ý định làm tổn thương hay phỉ báng ai cả.","- label: Non HS
+- Tổng hợp: Câu phát biểu mô tả một kỷ niệm cá nhân về việc người kể muốn mặc đồ bơi dành cho nam giới khi còn nhỏ (Bước 2). Không có từ ngữ xúc phạm hay mỉa mai nào được sử dụng. Mục đích của câu phát biểu này dường như là để chia sẻ một trải nghiệm cá nhân, không có ý định làm tổn thương hay phỉ báng ai cả (Bước 4). Do đó, câu phát biểu này không thuộc loại phát ngôn thể hiện sự thù ghét, xúc phạm hay kỳ thị, nên được phân loại là Non HS.","Bước 3: Không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp trong câu phát biểu.
+-
+Bước 4: Mục đích của câu phát biểu này dường như là để chia sẻ một trải nghiệm cá nhân, không có ý định làm tổn thương hay phỉ báng ai cả.","- label: Non HS
+- Tổng hợp: Bước 3 xác nhận rằng không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp trong câu phát biểu. Bước 4 chỉ ra mục đích của câu nói là để chia sẻ một trải nghiệm cá nhân và không có ý định làm tổn thương hay phỉ báng ai. Do đó, câu phát biểu này không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử, phù hợp với nhãn Non HS.","Bước 1: Câu phát biểu này không đề cập đến một nhóm đối tượng hoặc cá nhân cụ thể ngoài người kể chuyện.
+-
+Bước 2: Câu phát biểu này mô tả một kỷ niệm cá nhân về việc người kể muốn mặc đồ bơi dành cho nam giới khi còn nhỏ. Không có từ ngữ xúc phạm hay mỉa mai nào được sử dụng.
+-
+Bước 3: Không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp trong câu phát biểu.
+-","- Label: Non HS
+- Tổng hợp: Câu phát biểu không đề cập đến một nhóm đối tượng hoặc cá nhân cụ thể ngoài người kể chuyện (Bước 1). Câu này mô tả một kỷ niệm cá nhân về việc người kể muốn mặc đồ bơi dành cho nam giới khi còn nhỏ, không có từ ngữ xúc phạm hay mỉa mai nào được sử dụng (Bước 2). Ngoài ra, không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp trong câu phát biểu (Bước 3). Do đó, câu phát biểu này không thuộc bất kỳ loại phát ngôn thù ghét nào và được phân loại là Non HS.","Bước 1: Câu phát biểu này không đề cập đến một nhóm đối tượng hoặc cá nhân cụ thể ngoài người kể chuyện.
+-
+Bước 2: Câu phát biểu này mô tả một kỷ niệm cá nhân về việc người kể muốn mặc đồ bơi dành cho nam giới khi còn nhỏ. Không có từ ngữ xúc phạm hay mỉa mai nào được sử dụng.
+-
+Bước 4: Mục đích của câu phát biểu này dường như là để chia sẻ một trải nghiệm cá nhân, không có ý định làm tổn thương hay phỉ báng ai cả.","- Label: Non HS
+- Tổng hợp: 
+Bước 1 cho thấy câu phát biểu không đề cập đến một nhóm đối tượng hoặc cá nhân cụ thể ngoài người kể chuyện. Bước 2 chỉ ra rằng câu này mô tả một kỷ niệm cá nhân không chứa từ ngữ xúc phạm hay mỉa mai. Bước 4 xác nhận mục đích của câu phát biểu là chia sẻ trải nghiệm cá nhân mà không có ý định làm tổn thương ai. Do đó, câu phát biểu này không thể được phân loại là Explicit HS hay Implicit HS vì không có dấu hiệu của sự xúc phạm, kỳ thị hoặc định kiến. Kết quả là, câu này phù hợp với nhãn Non HS.","Bước 1: Câu phát biểu này không đề cập đến một nhóm đối tượng hoặc cá nhân cụ thể ngoài người kể chuyện.
+-
+Bước 3: Không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp trong câu phát biểu.
+-
+Bước 4: Mục đích của câu phát biểu này dường như là để chia sẻ một trải nghiệm cá nhân, không có ý định làm tổn thương hay phỉ báng ai cả.","- label: Non HS
+- Tổng hợp: Câu phát biểu không đề cập đến một nhóm đối tượng hoặc cá nhân cụ thể ngoài người kể chuyện (Bước 1). Không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp trong câu phát biểu (Bước 3). Mục đích của câu phát biểu này dường như là để chia sẻ một trải nghiệm cá nhân, không có ý định làm tổn thương hay phỉ báng ai cả (Bước 4). Do đó, câu phát biểu này được phân loại là Non HS.","Bước 2: Câu phát biểu này mô tả một kỷ niệm cá nhân về việc người kể muốn mặc đồ bơi dành cho nam giới khi còn nhỏ. Không có từ ngữ xúc phạm hay mỉa mai nào được sử dụng.
+-
+Bước 3: Không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp trong câu phát biểu.
+-
+Bước 4: Mục đích của câu phát biểu này dường như là để chia sẻ một trải nghiệm cá nhân, không có ý định làm tổn thương hay phỉ báng ai cả.","- label: Non HS
+- Tổng hợp: Bước 2 xác định rằng câu phát biểu mô tả một kỷ niệm cá nhân về việc người kể muốn mặc đồ bơi dành cho nam giới khi còn nhỏ và không có từ ngữ xúc phạm hay mỉa mai nào được sử dụng. Bước 3 khẳng định không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp trong câu phát biểu. Bước 4 nhấn mạnh mục đích của câu phát biểu này là để chia sẻ một trải nghiệm cá nhân, không có ý định làm tổn thương hay phỉ báng ai cả. Do đó, không có yếu tố nào phù hợp với hai nhãn ""Explicit HS"" hay ""Implicit HS"", câu phát biểu này được phân loại là ""Non HS"".","Bước 1: Câu phát biểu này không đề cập đến một nhóm đối tượng hoặc cá nhân cụ thể ngoài người kể chuyện.
+-
+Bước 2: Câu phát biểu này mô tả một kỷ niệm cá nhân về việc người kể muốn mặc đồ bơi dành cho nam giới khi còn nhỏ. Không có từ ngữ xúc phạm hay mỉa mai nào được sử dụng.
+-
+Bước 3: Không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp trong câu phát biểu.
+-
+Bước 4: Mục đích của câu phát biểu này dường như là để chia sẻ một trải nghiệm cá nhân, không có ý định làm tổn thương hay phỉ báng ai cả.","- Label: Non HS
+- Tổng hợp: 
+Bước 1 xác định rằng câu phát biểu không đề cập đến một nhóm đối tượng hoặc cá nhân cụ thể ngoài người kể chuyện.
+Bước 2 chỉ ra rằng câu phát biểu mô tả một kỷ niệm cá nhân không chứa từ ngữ xúc phạm hay mỉa mai.
+Bước 3 khẳng định không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp trong câu phát biểu.
+Bước 4 nêu rõ mục đích của câu phát biểu là chia sẻ một trải nghiệm cá nhân, không nhằm làm tổn thương hay phỉ báng ai. Do đó, câu phát biểu không thuộc nhóm phát ngôn mang tính kỳ thị hoặc xúc phạm và được phân loại là Non HS.","Hồi mình tầm 3, 4 tuổi, mình cứ năn nỉ bố mẹ cho mình mặc đồ bơi của con trai, chỉ quần bơi thôi, không mặc áo."
+266,"Allowing women to have private relationships is not strange. The whole point of a family is to have a loving relationship. Being a good partner is essential for this, regardless of their gender.",Việc phụ nữ có mối quan hệ riêng tư chẳng có gì lạ cả. Mục đích của gia đình là xây dựng một mối quan hệ yêu thương. Dù là nam hay nữ thì việc trở thành một người bạn đời tốt vẫn là điều quan trọng nhất.,Women,Non HS,"Bước 1: Câu phát biểu đề cập đến nhóm đối tượng là ""phụ nữ"" và khái niệm ""gia đình"", bao gồm cả nam và nữ.
+-","- label: Non HS
+- Tổng hợp: 
+Bước 1 trong phân tích đã chỉ ra rằng câu phát biểu đề cập đến hai nhóm đối tượng chính là ""phụ nữ"" và ""nam"", đồng thời cũng đề cập đến khái niệm ""gia đình"". Câu phát biểu này không chứa bất kỳ từ ngữ xúc phạm, kỳ thị hay miệt thị trực tiếp nào đối với các nhóm đối tượng được đề cập. Thay vào đó, nó nhấn mạnh tầm quan trọng của việc xây dựng một mối quan hệ yêu thương trong gia đình và việc trở thành một người bạn đời tốt. Do đó, câu phát biểu này không thể được phân loại là Explicit HS hay Implicit HS. Nó không chứa thông điệp kỳ thị hay xúc phạm gián tiếp thông qua từ ngữ mỉa mai, châm biếm hay ẩn dụ. Do đó, câu phát biểu này được phân loại là Non HS.","Bước 2: Từ ngữ trong câu mang tính chất trung lập, tích cực, không có từ ngữ mang tính xúc phạm hay phân biệt.
+-","- label: Non HS
+- Tổng hợp: Câu phát biểu không chứa từ ngữ xúc phạm hay phân biệt theo Bước 2. Nội dung của câu mang tính trung lập, tích cực và không có dấu hiệu của sự kỳ thị hay xúc phạm đối với bất kỳ cá nhân hoặc nhóm nào. Do đó, theo phân tích đã cung cấp, câu này được phân loại là Non HS.","Bước 3: Không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp.
+-","- label: Non HS
+- Tổng hợp: Bước 3 trong quá trình phân tích đã xác nhận rằng câu phát biểu không chứa dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp. Do đó, dựa trên phân tích này, câu nói được coi là không mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử.","Bước 4: Mục đích của câu nói là để khẳng định rằng việc phụ nữ có mối quan hệ riêng tư là bình thường và nhấn mạnh tầm quan trọng của việc trở thành một người bạn đời tốt cho cả nam và nữ, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù hận.","- label: Non HS
+- Tổng hợp: Bước 4 đã chỉ rõ mục đích của câu nói là khẳng định việc phụ nữ có mối quan hệ riêng tư là bình thường và nhấn mạnh tầm quan trọng của việc trở thành một người bạn đời tốt cho cả nam và nữ, đồng thời khẳng định không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù hận. Do đó, câu này không thuộc nhóm phát ngôn thể hiện sự thù ghét, xúc phạm hoặc phân biệt đối xử nên được phân loại là Non HS.","Bước 1: Câu phát biểu đề cập đến nhóm đối tượng là ""phụ nữ"" và khái niệm ""gia đình"", bao gồm cả nam và nữ.
+-
+Bước 2: Từ ngữ trong câu mang tính chất trung lập, tích cực, không có từ ngữ mang tính xúc phạm hay phân biệt.
+-","- label: Non HS
+- Tổng hợp: 
+Bước 1 đã xác định rằng câu phát biểu đề cập đến nhóm đối tượng là ""phụ nữ"" và khái niệm ""gia đình"", bao gồm cả nam và nữ. Điều này cho thấy câu phát biểu nói về các khía cạnh liên quan đến giới tính và gia đình.
+Bước 2 chỉ ra rằng từ ngữ trong câu mang tính chất trung lập, tích cực, không có từ ngữ mang tính xúc phạm hay phân biệt. Không có dấu hiệu của sự xúc phạm, kỳ thị hay phân biệt đối xử được thể hiện qua ngôn ngữ sử dụng.
+Dựa trên hai bước phân tích trên, câu phát biểu không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử, và mang tính trung lập, tích cực. Do đó, câu phát biểu được phân loại là Non HS.","Bước 1: Câu phát biểu đề cập đến nhóm đối tượng là ""phụ nữ"" và khái niệm ""gia đình"", bao gồm cả nam và nữ.
+-
+Bước 3: Không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp.
+-","- label: Non HS
+- Tổng hợp: 
+Bước 1 đã xác định rằng câu phát biểu đề cập đến hai nhóm đối tượng chính là ""phụ nữ"" và ""nam"", cũng như khái niệm ""gia đình"". Tuy nhiên, Bước 3 cho thấy không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp đối với bất kỳ nhóm đối tượng nào. Do đó, dựa trên các yếu tố này, câu phát biểu không thể được phân loại là Explicit HS hay Implicit HS. Câu phát biểu này có nội dung trung lập và không chứa định kiến tiêu cực, nên phù hợp với nhãn Non HS.","Bước 1: Câu phát biểu đề cập đến nhóm đối tượng là ""phụ nữ"" và khái niệm ""gia đình"", bao gồm cả nam và nữ.
+-
+Bước 4: Mục đích của câu nói là để khẳng định rằng việc phụ nữ có mối quan hệ riêng tư là bình thường và nhấn mạnh tầm quan trọng của việc trở thành một người bạn đời tốt cho cả nam và nữ, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù hận.","- label: Non HS
+- Tổng hợp: Câu phát biểu đề cập đến nhóm đối tượng là ""phụ nữ"" và khái niệm ""gia đình"", bao gồm cả nam và nữ (Bước 1). Mục đích của câu nói là khẳng định rằng việc phụ nữ có mối quan hệ riêng tư là bình thường và nhấn mạnh tầm quan trọng của việc trở thành một người bạn đời tốt cho cả nam và nữ, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù hận (Bước 4). Do đó, câu này không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử, và được đánh giá là không mang tính chất thù ghét, nên được phân loại là Non HS.","Bước 2: Từ ngữ trong câu mang tính chất trung lập, tích cực, không có từ ngữ mang tính xúc phạm hay phân biệt.
+-
+Bước 3: Không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp.
+-","- label: Non HS
+- Tổng hợp: Bước 2 chỉ ra rằng từ ngữ trong câu mang tính chất trung lập, tích cực, không có từ ngữ mang tính xúc phạm hay phân biệt. Bước 3 cũng khẳng định không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp. Do đó, câu phát biểu này không thuộc vào hai loại phát ngôn mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử (Explicit HS và Implicit HS). Vì vậy, nhãn phù hợp cho câu phát biểu này là Non HS.","Bước 2: Từ ngữ trong câu mang tính chất trung lập, tích cực, không có từ ngữ mang tính xúc phạm hay phân biệt.
+-
+Bước 4: Mục đích của câu nói là để khẳng định rằng việc phụ nữ có mối quan hệ riêng tư là bình thường và nhấn mạnh tầm quan trọng của việc trở thành một người bạn đời tốt cho cả nam và nữ, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù hận.","- label: Non HS
+- Tổng hợp: Bước 2 chỉ ra rằng từ ngữ trong câu mang tính chất trung lập, tích cực và không có từ ngữ mang tính xúc phạm hay phân biệt. Bước 4 xác nhận mục đích của câu nói là khẳng định việc phụ nữ có mối quan hệ riêng tư là bình thường và nhấn mạnh tầm quan trọng của việc trở thành một người bạn đời tốt cho cả nam và nữ, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù hận. Do đó, câu này không thuộc bất kỳ một trong hai loại phát ngôn thù ghét (Explicit HS hay Implicit HS) và được phân loại là Non HS.","Bước 3: Không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp.
+-
+Bước 4: Mục đích của câu nói là để khẳng định rằng việc phụ nữ có mối quan hệ riêng tư là bình thường và nhấn mạnh tầm quan trọng của việc trở thành một người bạn đời tốt cho cả nam và nữ, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù hận.","- Label: Non HS
+- Tổng hợp: Bước 3 xác nhận không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp. Bước 4 nhấn mạnh mục đích của câu nói là khẳng định việc phụ nữ có mối quan hệ riêng tư là bình thường và nhấn mạnh tầm quan trọng của việc trở thành một người bạn đời tốt cho cả nam và nữ, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù hận. Do đó, câu phát biểu này không thuộc vào hai loại phát ngôn thù ghét (Explicit HS và Implicit HS) mà là một phát ngôn trung lập và tích cực (Non HS).","Bước 1: Câu phát biểu đề cập đến nhóm đối tượng là ""phụ nữ"" và khái niệm ""gia đình"", bao gồm cả nam và nữ.
+-
+Bước 2: Từ ngữ trong câu mang tính chất trung lập, tích cực, không có từ ngữ mang tính xúc phạm hay phân biệt.
+-
+Bước 3: Không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp.
+-","- label: Non HS
+- Tổng hợp: Câu phát biểu đề cập đến nhóm đối tượng ""phụ nữ"" và khái niệm ""gia đình"" (Bước 1). Từ ngữ trong câu mang tính chất trung lập, tích cực, không có từ ngữ mang tính xúc phạm hay phân biệt (Bước 2). Không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp (Bước 3). Do đó, câu này không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử và được phân loại là Non HS.","Bước 1: Câu phát biểu đề cập đến nhóm đối tượng là ""phụ nữ"" và khái niệm ""gia đình"", bao gồm cả nam và nữ.
+-
+Bước 2: Từ ngữ trong câu mang tính chất trung lập, tích cực, không có từ ngữ mang tính xúc phạm hay phân biệt.
+-
+Bước 4: Mục đích của câu nói là để khẳng định rằng việc phụ nữ có mối quan hệ riêng tư là bình thường và nhấn mạnh tầm quan trọng của việc trở thành một người bạn đời tốt cho cả nam và nữ, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù hận.","- Label: Non HS
+- Tổng hợp: Bước 1 chỉ ra rằng câu phát biểu đề cập đến ""phụ nữ"" và khái niệm ""gia đình"", bao gồm cả nam và nữ. Bước 2 xác nhận rằng từ ngữ trong câu mang tính chất trung lập và tích cực, không chứa từ ngữ xúc phạm hay phân biệt. Bước 4 nhấn mạnh rằng mục đích của câu nói là khẳng định sự bình thường của việc phụ nữ có mối quan hệ riêng tư và nhấn mạnh tầm quan trọng của việc trở thành một người bạn đời tốt, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù hận. Do đó, câu phát biểu này được phân loại là Non HS vì nó không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử.","Bước 1: Câu phát biểu đề cập đến nhóm đối tượng là ""phụ nữ"" và khái niệm ""gia đình"", bao gồm cả nam và nữ.
+-
+Bước 3: Không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp.
+-
+Bước 4: Mục đích của câu nói là để khẳng định rằng việc phụ nữ có mối quan hệ riêng tư là bình thường và nhấn mạnh tầm quan trọng của việc trở thành một người bạn đời tốt cho cả nam và nữ, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù hận.","- label: Non HS
+- Tổng hợp: Câu phát biểu đề cập đến nhóm đối tượng là ""phụ nữ"" và khái niệm ""gia đình"", bao gồm cả nam và nữ (Bước 1). Không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp (Bước 3). Mục đích của câu nói là để khẳng định rằng việc phụ nữ có mối quan hệ riêng tư là bình thường và nhấn mạnh tầm quan trọng của việc trở thành một người bạn đời tốt cho cả nam và nữ, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù hận (Bước 4). Do đó, câu phát biểu này không thuộc bất kỳ một trong hai nhãn Explicit HS hay Implicit HS, mà là một phát biểu trung lập và tích cực, phù hợp với nhãn Non HS.","Bước 2: Từ ngữ trong câu mang tính chất trung lập, tích cực, không có từ ngữ mang tính xúc phạm hay phân biệt.
+-
+Bước 3: Không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp.
+-
+Bước 4: Mục đích của câu nói là để khẳng định rằng việc phụ nữ có mối quan hệ riêng tư là bình thường và nhấn mạnh tầm quan trọng của việc trở thành một người bạn đời tốt cho cả nam và nữ, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù hận.","- label: Non HS
+- Tổng hợp: 
+Bước 2 cho thấy từ ngữ trong câu mang tính chất trung lập, tích cực, không có từ ngữ mang tính xúc phạm hay phân biệt. Bước 3 xác nhận không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp. Cuối cùng, Bước 4 chỉ ra mục đích của câu nói là khẳng định việc phụ nữ có mối quan hệ riêng tư là bình thường và nhấn mạnh tầm quan trọng của việc trở thành một người bạn đời tốt, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù hận. Do đó, câu phát biểu này thuộc vào nhãn Non HS.","Bước 1: Câu phát biểu đề cập đến nhóm đối tượng là ""phụ nữ"" và khái niệm ""gia đình"", bao gồm cả nam và nữ.
+-
+Bước 2: Từ ngữ trong câu mang tính chất trung lập, tích cực, không có từ ngữ mang tính xúc phạm hay phân biệt.
+-
+Bước 3: Không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp.
+-
+Bước 4: Mục đích của câu nói là để khẳng định rằng việc phụ nữ có mối quan hệ riêng tư là bình thường và nhấn mạnh tầm quan trọng của việc trở thành một người bạn đời tốt cho cả nam và nữ, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù hận.","- label: Non HS
+- Tổng hợp: Câu phát biểu đề cập đến nhóm đối tượng là ""phụ nữ"" và khái niệm ""gia đình"", bao gồm cả nam và nữ (Bước 1). Từ ngữ trong câu mang tính chất trung lập, tích cực, không có từ ngữ mang tính xúc phạm hay phân biệt (Bước 2). Không có dấu hiệu của sự xúc phạm trực tiếp hay gián tiếp (Bước 3). Mục đích của câu nói là để khẳng định rằng việc phụ nữ có mối quan hệ riêng tư là bình thường và nhấn mạnh tầm quan trọng của việc trở thành một người bạn đời tốt cho cả nam và nữ, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù hận (Bước 4). Do đó, câu phát biểu này không thuộc vào hai loại phát ngôn mang tính kỳ thị, xúc phạm hay phân biệt đối xử, nên được phân loại là Non HS.",Việc phụ nữ có mối quan hệ riêng tư chẳng có gì lạ cả. Mục đích của gia đình là xây dựng một mối quan hệ yêu thương. Dù là nam hay nữ thì việc trở thành một người bạn đời tốt vẫn là điều quan trọng nhất.
+267,,Dân lao động mà vui vẻ là quý rồi,Economic Status,Non HS,"Bước 1: Nhóm đối tượng trong câu nói là ""dân lao động"".
+-","- Label: Non HS
+- Tổng hợp: Nhóm đối tượng trong câu nói là ""dân lao động"" (Bước 1). Câu phát biểu này không chứa từ ngữ miệt thị trực tiếp hoặc gián tiếp, cũng không có dấu hiệu của việc lồng ghép định kiến tiêu cực thông qua việc sử dụng từ ngữ mỉa mai, châm biếm, ẩn dụ hay câu hỏi tu từ. Câu chỉ đơn giản là thể hiện một quan điểm trung thực và khá phổ biến rằng người lao động cần coi trọng sự vui vẻ trong công việc. Do đó, câu này không thuộc loại Explicit HS hay Implicit HS mà thuộc loại Non HS.","Bước 2: Câu sử dụng từ ngữ mang ý nghĩa đánh giá (""quý""), nhưng không có từ ngữ xúc phạm, miệt thị trực tiếp.
+-","- Label: Non HS
+- Tổng hợp: Câu phát biểu ""Dân lao động mà vui vẻ là quý rồi"" sử dụng từ ngữ đánh giá (""quý"") theo Bước 2. Tuy nhiên, từ ngữ này không mang tính xúc phạm hay miệt thị trực tiếp và không có dấu hiệu của việc lồng ghép định kiến tiêu cực thông qua ẩn dụ, châm biếm hoặc câu hỏi tu từ. Do đó, câu phát biểu không thuộc các nhãn Explicit HS hay Implicit HS, và phù hợp với nhãn Non HS.","Bước 3: Câu nói không có tính chất xúc phạm trực tiếp mà chỉ là một nhận xét mang tính chất gián tiếp về thái độ sống của nhóm ""dân lao động"".
+-","- Label: Non HS
+- Tổng hợp: Câu nói ""Dân lao động mà vui vẻ là quý rồi"" không chứa từ ngữ xúc phạm hay kỳ thị trực tiếp (Bước 3). Mặc dù nó đề cập đến một nhóm cụ thể (""dân lao động""), nhưng nội dung của câu này chỉ là một nhận xét mang tính chất gián tiếp về thái độ sống của họ, không thể hiện định kiến tiêu cực hoặc xúc phạm (Bước 3). Do đó, câu này không thuộc các trường hợp của Explicit HS hoặc Implicit HS và được phân loại là Non HS.","Bước 4: Mục đích của câu nói có thể là để thể hiện quan điểm rằng việc dân lao động cảm thấy vui vẻ là điều đáng trân trọng, tuy nhiên cũng có thể bị hiểu nhầm là hạ thấp giá trị của họ khi so sánh mức độ vui vẻ của họ với những người khác.","- label: Implicit HS
+- Tổng hợp: Bước 4 trong phân tích đề cập rằng mục đích của câu nói có thể là để thể hiện quan điểm rằng việc dân lao động cảm thấy vui vẻ là điều đáng trân trọng. Tuy nhiên, câu này cũng có thể bị hiểu nhầm là hạ thấp giá trị của họ khi so sánh mức độ vui vẻ của họ với những người khác. Mặc dù không có từ ngữ mang tính xúc phạm trực tiếp, câu này có thể chứa đựng định kiến tiêu cực đối với người lao động vì có thể gợi ý rằng họ chỉ nên cảm thấy vui vẻ ở mức độ nhất định, đồng thời không đánh giá cao hơn nữa về họ. Do đó, câu này được phân loại là Implicit HS vì nó có thể lồng ghép định kiến tiêu cực đối với nhóm đối tượng cụ thể (người lao động) thông qua cách diễn đạt gián tiếp.","Bước 1: Nhóm đối tượng trong câu nói là ""dân lao động"".
+-
+Bước 2: Câu sử dụng từ ngữ mang ý nghĩa đánh giá (""quý""), nhưng không có từ ngữ xúc phạm, miệt thị trực tiếp.
+-","- label: Non HS
+- Tổng hợp: Bước 1 xác định nhóm đối tượng trong câu nói là ""dân lao động"". Bước 2 chỉ ra rằng câu sử dụng từ ngữ đánh giá (""quý"") nhưng không có từ ngữ xúc phạm, miệt thị trực tiếp. Do đó, câu này không thể được phân loại là Explicit HS hay Implicit HS vì không có dấu hiệu của sự xúc phạm, kỳ thị hay định kiến tiêu cực nào cả. Câu phát biểu chỉ thể hiện một nhận xét trung lập về thái độ của người lao động, do đó phù hợp với nhãn Non HS.","Bước 1: Nhóm đối tượng trong câu nói là ""dân lao động"".
+-
+Bước 3: Câu nói không có tính chất xúc phạm trực tiếp mà chỉ là một nhận xét mang tính chất gián tiếp về thái độ sống của nhóm ""dân lao động"".
+-","- label: Non HS
+- Tổng hợp: Bước 1 xác định rằng câu nói đề cập đến nhóm đối tượng ""dân lao động"". Bước 3 cho thấy câu nói không mang tính chất xúc phạm trực tiếp mà chỉ là một nhận xét gián tiếp về thái độ sống của nhóm này. Do đó, không có yếu tố nào trong câu nói thể hiện sự kỳ thị, xúc phạm hay phân biệt đối xử rõ ràng. Câu nói thể hiện một quan điểm trung lập, không gây tổn hại đến bất kỳ cá nhân hay nhóm xã hội nào nên được phân loại là Non HS.","Bước 1: Nhóm đối tượng trong câu nói là ""dân lao động"".
+-
+Bước 4: Mục đích của câu nói có thể là để thể hiện quan điểm rằng việc dân lao động cảm thấy vui vẻ là điều đáng trân trọng, tuy nhiên cũng có thể bị hiểu nhầm là hạ thấp giá trị của họ khi so sánh mức độ vui vẻ của họ với những người khác.","- label: Implicit HS
+- Tổng hợp: Bước 1 xác định nhóm đối tượng trong câu nói là ""dân lao động"". Bước 4 chỉ ra mục đích của câu nói có thể là để thể hiện quan điểm rằng việc dân lao động cảm thấy vui vẻ là điều đáng trân trọng, nhưng cũng có thể bị hiểu nhầm là hạ thấp giá trị của họ khi so sánh mức độ vui vẻ của họ với những người khác. Mặc dù câu nói không chứa từ ngữ xúc phạm trực tiếp, nhưng nó có thể lồng ghép định kiến tiêu cực đối với nhóm dân lao động bằng cách đề cập đến mức độ vui vẻ của họ một cách gián tiếp. Điều này phù hợp với định nghĩa của Implicit HS.","Bước 2: Câu sử dụng từ ngữ mang ý nghĩa đánh giá (""quý""), nhưng không có từ ngữ xúc phạm, miệt thị trực tiếp.
+-
+Bước 3: Câu nói không có tính chất xúc phạm trực tiếp mà chỉ là một nhận xét mang tính chất gián tiếp về thái độ sống của nhóm ""dân lao động"".
+-","- Label: Non HS
+- Tổng hợp: Bước 2 chỉ ra rằng câu sử dụng từ ngữ đánh giá (""quý"") nhưng không chứa từ ngữ xúc phạm, miệt thị trực tiếp. Bước 3 khẳng định câu không có tính chất xúc phạm trực tiếp mà chỉ là nhận xét gián tiếp về thái độ sống của nhóm ""dân lao động"". Do đó, câu này không thể phân loại vào hai nhãn Explicit HS và Implicit HS, và phù hợp nhất với nhãn Non HS vì nó không mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử.","Bước 2: Câu sử dụng từ ngữ mang ý nghĩa đánh giá (""quý""), nhưng không có từ ngữ xúc phạm, miệt thị trực tiếp.
+-
+Bước 4: Mục đích của câu nói có thể là để thể hiện quan điểm rằng việc dân lao động cảm thấy vui vẻ là điều đáng trân trọng, tuy nhiên cũng có thể bị hiểu nhầm là hạ thấp giá trị của họ khi so sánh mức độ vui vẻ của họ với những người khác.","- label: Implicit HS
+- Tổng hợp: Bước 2 xác nhận câu sử dụng từ ngữ đánh giá (""quý"") nhưng không có từ ngữ xúc phạm, miệt thị trực tiếp. Tuy nhiên, Bước 4 chỉ ra rằng mục đích của câu nói có thể bị hiểu nhầm là hạ thấp giá trị của người lao động khi so sánh mức độ vui vẻ của họ với những người khác. Mặc dù không có từ ngữ xúc phạm trực tiếp, câu nói này có thể chứa định kiến tiêu cực đối với người lao động nếu được hiểu theo một cách nhất định. Do đó, câu phát biểu này được phân loại là Implicit HS.","Bước 3: Câu nói không có tính chất xúc phạm trực tiếp mà chỉ là một nhận xét mang tính chất gián tiếp về thái độ sống của nhóm ""dân lao động"".
+-
+Bước 4: Mục đích của câu nói có thể là để thể hiện quan điểm rằng việc dân lao động cảm thấy vui vẻ là điều đáng trân trọng, tuy nhiên cũng có thể bị hiểu nhầm là hạ thấp giá trị của họ khi so sánh mức độ vui vẻ của họ với những người khác.","- label: Implicit HS
+- Tổng hợp: Bước 3 xác nhận rằng câu nói không có tính chất xúc phạm trực tiếp, nhưng lại mang tính chất gián tiếp về thái độ sống của nhóm ""dân lao động"". Điều này gợi ý rằng câu nói có thể chứa đựng một định kiến tiềm ẩn. Bước 4 đề cập rằng mục đích của câu nói có thể là để thể hiện quan điểm rằng việc dân lao động cảm thấy vui vẻ là điều đáng trân trọng, tuy nhiên nó cũng có thể bị hiểu nhầm là hạ thấp giá trị của họ khi so sánh mức độ vui vẻ của họ với những người khác. Do đó, mặc dù không có ngôn từ xúc phạm trực tiếp, câu nói có thể gây ra hiểu lầm và ẩn chứa định kiến tiêu cực đối với nhóm ""dân lao động"", phù hợp với định nghĩa của phát ngôn Implicit HS.","Bước 1: Nhóm đối tượng trong câu nói là ""dân lao động"".
+-
+Bước 2: Câu sử dụng từ ngữ mang ý nghĩa đánh giá (""quý""), nhưng không có từ ngữ xúc phạm, miệt thị trực tiếp.
+-
+Bước 3: Câu nói không có tính chất xúc phạm trực tiếp mà chỉ là một nhận xét mang tính chất gián tiếp về thái độ sống của nhóm ""dân lao động"".
+-","- Label: Non HS
+- Tổng hợp: 
+Bước 1 xác định nhóm đối tượng trong câu nói là ""dân lao động"". Bước 2 chỉ ra rằng câu này sử dụng từ ngữ mang ý nghĩa đánh giá (""quý"") nhưng không có từ ngữ xúc phạm, miệt thị trực tiếp. Bước 3 nhấn mạnh rằng câu nói không có tính chất xúc phạm trực tiếp mà chỉ là một nhận xét mang tính chất gián tiếp về thái độ sống của nhóm ""dân lao động"". Do đó, mặc dù câu này đề cập đến một nhóm cụ thể, nó không chứa bất kỳ từ ngữ xúc phạm hay miệt thị trực tiếp nào và cũng không lồng ghép định kiến tiêu cực thông qua việc sử dụng từ ngữ mỉa mai hoặc ẩn dụ. Điều này phù hợp với tiêu chí của Nhãn Non HS, vì câu phát biểu không mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử.","Bước 1: Nhóm đối tượng trong câu nói là ""dân lao động"".
+-
+Bước 2: Câu sử dụng từ ngữ mang ý nghĩa đánh giá (""quý""), nhưng không có từ ngữ xúc phạm, miệt thị trực tiếp.
+-
+Bước 4: Mục đích của câu nói có thể là để thể hiện quan điểm rằng việc dân lao động cảm thấy vui vẻ là điều đáng trân trọng, tuy nhiên cũng có thể bị hiểu nhầm là hạ thấp giá trị của họ khi so sánh mức độ vui vẻ của họ với những người khác.","- label: Non HS
+- Tổng hợp: 
+Bước 1 xác định nhóm đối tượng trong câu nói là ""dân lao động"". Bước 2 cho thấy câu sử dụng từ ngữ đánh giá (""quý"") nhưng không có từ ngữ xúc phạm, miệt thị trực tiếp. Mặc dù ở Bước 4 có đề cập khả năng câu nói có thể bị hiểu nhầm là hạ thấp giá trị của ""dân lao động"", nhưng không có bằng chứng rõ ràng về ý đồ xúc phạm hay kỳ thị trong câu nói. Do đó, câu này không thể được phân loại là Explicit HS hay Implicit HS. Câu nói chủ yếu thể hiện quan điểm rằng việc dân lao động vui vẻ là điều đáng trân trọng, do đó phù hợp với nhãn Non HS.","Bước 1: Nhóm đối tượng trong câu nói là ""dân lao động"".
+-
+Bước 3: Câu nói không có tính chất xúc phạm trực tiếp mà chỉ là một nhận xét mang tính chất gián tiếp về thái độ sống của nhóm ""dân lao động"".
+-
+Bước 4: Mục đích của câu nói có thể là để thể hiện quan điểm rằng việc dân lao động cảm thấy vui vẻ là điều đáng trân trọng, tuy nhiên cũng có thể bị hiểu nhầm là hạ thấp giá trị của họ khi so sánh mức độ vui vẻ của họ với những người khác.","- label: Implicit HS
+- Tổng hợp: Bước 1 xác định nhóm đối tượng là ""dân lao động"". Bước 3 chỉ ra rằng câu nói không mang tính xúc phạm trực tiếp nhưng lại mang tính chất gián tiếp về thái độ sống của nhóm ""dân lao động"". Bước 4 gợi ý rằng câu nói có thể được hiểu là đang hạ thấp giá trị của họ khi so sánh mức độ vui vẻ của họ với những người khác. Do đó, mặc dù không có từ ngữ xúc phạm trực tiếp, câu nói có thể ẩn chứa định kiến về nhóm ""dân lao động"" và vì vậy được phân loại là Implicit HS.","Bước 2: Câu sử dụng từ ngữ mang ý nghĩa đánh giá (""quý""), nhưng không có từ ngữ xúc phạm, miệt thị trực tiếp.
+-
+Bước 3: Câu nói không có tính chất xúc phạm trực tiếp mà chỉ là một nhận xét mang tính chất gián tiếp về thái độ sống của nhóm ""dân lao động"".
+-
+Bước 4: Mục đích của câu nói có thể là để thể hiện quan điểm rằng việc dân lao động cảm thấy vui vẻ là điều đáng trân trọng, tuy nhiên cũng có thể bị hiểu nhầm là hạ thấp giá trị của họ khi so sánh mức độ vui vẻ của họ với những người khác.","- label: Implicit HS
+- Tổng hợp: 
+Bước 2 cho thấy câu sử dụng từ ngữ mang ý nghĩa đánh giá (""quý"") nhưng không có từ ngữ xúc phạm, miệt thị trực tiếp. Bước 3 xác nhận câu nói không có tính chất xúc phạm trực tiếp, mà chỉ là nhận xét gián tiếp về thái độ sống của nhóm ""dân lao động"". Bước 4 chỉ ra rằng mặc dù mục đích ban đầu có thể là khen ngợi, nhưng câu này cũng có thể bị hiểu nhầm là hạ thấp giá trị của nhóm ""dân lao động"" so với những người khác. Do đó, câu này có thể chứa định kiến tiêu cực ẩn dụ và được coi là Implicit HS.","Bước 1: Nhóm đối tượng trong câu nói là ""dân lao động"".
+-
+Bước 2: Câu sử dụng từ ngữ mang ý nghĩa đánh giá (""quý""), nhưng không có từ ngữ xúc phạm, miệt thị trực tiếp.
+-
+Bước 3: Câu nói không có tính chất xúc phạm trực tiếp mà chỉ là một nhận xét mang tính chất gián tiếp về thái độ sống của nhóm ""dân lao động"".
+-
+Bước 4: Mục đích của câu nói có thể là để thể hiện quan điểm rằng việc dân lao động cảm thấy vui vẻ là điều đáng trân trọng, tuy nhiên cũng có thể bị hiểu nhầm là hạ thấp giá trị của họ khi so sánh mức độ vui vẻ của họ với những người khác.","- Label: Implicit HS
+- Tổng hợp: 
+Bước 1 xác định nhóm đối tượng là ""dân lao động"". Bước 2 cho thấy câu nói không sử dụng từ ngữ xúc phạm, miệt thị trực tiếp. Tuy nhiên, bước 3 chỉ ra rằng câu nói có tính chất gián tiếp, thể hiện quan điểm về thái độ sống của nhóm ""dân lao động"" mà không phải là sự xúc phạm trực tiếp. Đặc biệt, bước 4 nêu rõ rằng mục đích của câu nói có thể là thể hiện quan điểm rằng việc dân lao động cảm thấy vui vẻ là điều đáng trân trọng, nhưng cũng có khả năng bị hiểu là đang hạ thấp giá trị của họ so với những người khác. Điều này cho thấy có sự ngụy trang thông điệp kỳ thị dưới dạng một nhận xét gián tiếp, phù hợp với định nghĩa của Implicit HS.",Dân lao động mà vui vẻ là quý rồi
+268,It's being reported by some of the British press who are usually more critical of Israel .,"Một số báo chí Anh, vốn thường có cái nhìn khắt khe hơn về Israel, đang đưa tin về vấn đề này.",Religious Groups,Non HS,"Bước 1: Nhóm đối tượng được đề cập trong câu là ""báo chí Anh"" và ""Israel"".
+-","- label: Non HS
+- Tổng hợp: 
+Bước 1 đã xác định hai nhóm đối tượng chính là ""báo chí Anh"" và ""Israel"". Câu phát biểu không chứa từ ngữ xúc phạm, kỳ thị trực tiếp hoặc gián tiếp đối với hai nhóm này. Không có dấu hiệu của việc sử dụng từ ngữ mang tính miệt thị hoặc định kiến tiêu cực. Vì vậy, câu phát biểu không thuộc loại Explicit HS hay Implicit HS. Do đó, câu này được phân loại là Non HS.","Bước 2: Từ ngữ sử dụng trong câu không có tính chất xúc phạm rõ rệt. Câu sử dụng cụm từ ""cái nhìn khắt khe hơn"", nhưng đây là một cách diễn đạt khách quan và trung lập, không mang ý nghĩa xúc phạm.
+-","- label: Non HS
+- Tổng hợp: Bước 2 phân tích rằng từ ngữ sử dụng trong câu không mang tính chất xúc phạm rõ rệt. Cụm từ ""cái nhìn khắt khe hơn"" được sử dụng theo cách diễn đạt khách quan và trung lập, không mang ý nghĩa xúc phạm. Do đó, câu phát biểu không thuộc dạng Explicit HS hay Implicit HS, phù hợp với nhãn Non HS.","Bước 3: Câu không có tính chất xúc phạm trực tiếp hay gián tiếp.
+-","- label: Non HS
+- Tổng hợp: Dựa vào Bước 3 của phân tích, câu phát biểu không có tính chất xúc phạm trực tiếp hay gián tiếp. Do đó, không có dấu hiệu của việc phát ngôn mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử. Câu mang tính trung lập khi mô tả góc nhìn của báo chí Anh về vấn đề liên quan đến Israel.","Bước 4: Mục đích của câu là mô tả cách nhìn nhận của báo chí Anh về Israel, không nhằm mục đích làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- label: Non HS
+- Tổng hợp: Bước 4 chỉ rõ rằng mục đích của câu là mô tả cách nhìn nhận của báo chí Anh về Israel mà không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét. Do đó, câu phát biểu này không thuộc vào hai loại phát ngôn thù ghét (Explicit HS và Implicit HS).","Bước 1: Nhóm đối tượng được đề cập trong câu là ""báo chí Anh"" và ""Israel"".
+-
+Bước 2: Từ ngữ sử dụng trong câu không có tính chất xúc phạm rõ rệt. Câu sử dụng cụm từ ""cái nhìn khắt khe hơn"", nhưng đây là một cách diễn đạt khách quan và trung lập, không mang ý nghĩa xúc phạm.
+-","- label: Non HS
+- Tổng hợp: Nhóm đối tượng được đề cập trong câu là ""báo chí Anh"" và ""Israel"". Từ ngữ sử dụng trong câu không có tính chất xúc phạm rõ rệt. Cụm từ ""cái nhìn khắt khe hơn"" được sử dụng một cách khách quan và trung lập, không mang ý nghĩa xúc phạm. Do đó, câu phát biểu không thể được phân loại là Explicit HS hay Implicit HS, và phù hợp nhất với nhãn Non HS.","Bước 1: Nhóm đối tượng được đề cập trong câu là ""báo chí Anh"" và ""Israel"".
+-
+Bước 3: Câu không có tính chất xúc phạm trực tiếp hay gián tiếp.
+-","- label: Non HS
+- Tổng hợp: Bước 1 xác định hai nhóm đối tượng được đề cập trong câu là ""báo chí Anh"" và ""Israel"". Bước 3 khẳng định rằng câu phát biểu không có tính chất xúc phạm trực tiếp hay gián tiếp. Dựa trên những thông tin này, không có dấu hiệu của sự kỳ thị hoặc xúc phạm cả trực tiếp lẫn gián tiếp đối với hai nhóm đối tượng trên. Do đó, câu được phân loại là Non HS.","Bước 1: Nhóm đối tượng được đề cập trong câu là ""báo chí Anh"" và ""Israel"".
+-
+Bước 4: Mục đích của câu là mô tả cách nhìn nhận của báo chí Anh về Israel, không nhằm mục đích làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- label: Non HS
+- Tổng hợp: 
+Bước 1 chỉ ra rằng câu phát biểu đề cập đến hai nhóm đối tượng là ""báo chí Anh"" và ""Israel"". Bước 4 cho thấy mục đích của câu là mô tả cách nhìn nhận của báo chí Anh đối với Israel, và không nhằm mục đích làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét. Do đó, câu phát biểu này không thể được phân loại là Explicit HS hay Implicit HS vì nó không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử. Câu mang tính chất mô tả khách quan nên được phân loại là Non HS.","Bước 2: Từ ngữ sử dụng trong câu không có tính chất xúc phạm rõ rệt. Câu sử dụng cụm từ ""cái nhìn khắt khe hơn"", nhưng đây là một cách diễn đạt khách quan và trung lập, không mang ý nghĩa xúc phạm.
+-
+Bước 3: Câu không có tính chất xúc phạm trực tiếp hay gián tiếp.
+-","- label: Non HS
+- Tổng hợp: Bước 2 chỉ ra rằng từ ngữ sử dụng trong câu không có tính chất xúc phạm rõ rệt. Mặc dù có cụm từ ""cái nhìn khắt khe hơn"", nhưng theo Bước 2, cách diễn đạt này vẫn được xem là khách quan và trung lập, không mang ý nghĩa xúc phạm. Bước 3 khẳng định rằng câu không có tính chất xúc phạm trực tiếp hay gián tiếp. Do đó, dựa vào cả hai bước phân tích, câu phát biểu này không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử, và được phân loại là Non HS.","Bước 2: Từ ngữ sử dụng trong câu không có tính chất xúc phạm rõ rệt. Câu sử dụng cụm từ ""cái nhìn khắt khe hơn"", nhưng đây là một cách diễn đạt khách quan và trung lập, không mang ý nghĩa xúc phạm.
+-
+Bước 4: Mục đích của câu là mô tả cách nhìn nhận của báo chí Anh về Israel, không nhằm mục đích làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- label: Non HS
+- Tổng hợp: 
+Bước 2 cho thấy từ ngữ sử dụng trong câu không có tính chất xúc phạm rõ rệt, cụm từ ""cái nhìn khắt khe hơn"" được dùng theo cách khách quan và trung lập, không mang ý nghĩa xúc phạm. Bước 4 khẳng định mục đích của câu chỉ nhằm mô tả cách nhìn nhận của báo chí Anh về Israel, không nhằm mục đích làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét. Do đó, câu phát biểu này được phân loại là Non HS vì nó không mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử.","Bước 3: Câu không có tính chất xúc phạm trực tiếp hay gián tiếp.
+-
+Bước 4: Mục đích của câu là mô tả cách nhìn nhận của báo chí Anh về Israel, không nhằm mục đích làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- Label: Non HS
+- Tổng hợp: Câu phát biểu không chứa từ ngữ xúc phạm trực tiếp hay gián tiếp (Bước 3). Mục đích của câu chỉ là mô tả cách nhìn nhận của báo chí Anh về Israel, không nhằm mục đích làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét (Bước 4). Do đó, câu phát biểu này được phân loại là Non HS.","Bước 1: Nhóm đối tượng được đề cập trong câu là ""báo chí Anh"" và ""Israel"".
+-
+Bước 2: Từ ngữ sử dụng trong câu không có tính chất xúc phạm rõ rệt. Câu sử dụng cụm từ ""cái nhìn khắt khe hơn"", nhưng đây là một cách diễn đạt khách quan và trung lập, không mang ý nghĩa xúc phạm.
+-
+Bước 3: Câu không có tính chất xúc phạm trực tiếp hay gián tiếp.
+-","- label: Non HS
+- Tổng hợp: 
+Bước 1 xác định hai nhóm đối tượng chính trong câu là ""báo chí Anh"" và ""Israel"". Bước 2 chỉ ra rằng từ ngữ sử dụng trong câu không mang tính xúc phạm rõ rệt, cụ thể là cụm từ ""cái nhìn khắt khe hơn"" được dùng một cách khách quan và trung lập. Bước 3 khẳng định câu không chứa bất kỳ dấu hiệu xúc phạm trực tiếp hay gián tiếp nào. Do đó, câu phát biểu này không thuộc bất kỳ một trong hai loại phát ngôn thù ghét (Explicit HS và Implicit HS), và được phân loại là Non HS.","Bước 1: Nhóm đối tượng được đề cập trong câu là ""báo chí Anh"" và ""Israel"".
+-
+Bước 2: Từ ngữ sử dụng trong câu không có tính chất xúc phạm rõ rệt. Câu sử dụng cụm từ ""cái nhìn khắt khe hơn"", nhưng đây là một cách diễn đạt khách quan và trung lập, không mang ý nghĩa xúc phạm.
+-
+Bước 4: Mục đích của câu là mô tả cách nhìn nhận của báo chí Anh về Israel, không nhằm mục đích làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- label: Non HS
+- Tổng hợp: Bước 1 xác định hai nhóm đối tượng được đề cập là ""báo chí Anh"" và ""Israel"". Bước 2 chỉ ra rằng từ ngữ sử dụng trong câu không có tính chất xúc phạm rõ rệt, cụ thể là cụm từ ""cái nhìn khắt khe hơn"" được sử dụng theo cách khách quan và trung lập. Bước 4 khẳng định rằng mục đích của câu là mô tả cách nhìn nhận của báo chí Anh về Israel mà không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét. Do đó, câu phát biểu này không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử, phù hợp với nhãn Non HS.","Bước 1: Nhóm đối tượng được đề cập trong câu là ""báo chí Anh"" và ""Israel"".
+-
+Bước 3: Câu không có tính chất xúc phạm trực tiếp hay gián tiếp.
+-
+Bước 4: Mục đích của câu là mô tả cách nhìn nhận của báo chí Anh về Israel, không nhằm mục đích làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- label: Non HS
+- Tổng hợp: 
+Bước 1 xác định hai nhóm đối tượng được đề cập trong câu là ""báo chí Anh"" và ""Israel"". Bước 3 chỉ rõ câu phát biểu không chứa tính chất xúc phạm trực tiếp hay gián tiếp. Cuối cùng, Bước 4 khẳng định rằng mục đích của câu là mô tả cách nhìn nhận của báo chí Anh về Israel mà không nhằm mục đích gây tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét. Dựa trên những phân tích này, câu phát biểu không thuộc loại hình phát ngôn thù ghét (Explicit HS hoặc Implicit HS) mà chỉ đơn thuần mô tả thực tế một cách khách quan, do đó được phân loại là Non HS.","Bước 2: Từ ngữ sử dụng trong câu không có tính chất xúc phạm rõ rệt. Câu sử dụng cụm từ ""cái nhìn khắt khe hơn"", nhưng đây là một cách diễn đạt khách quan và trung lập, không mang ý nghĩa xúc phạm.
+-
+Bước 3: Câu không có tính chất xúc phạm trực tiếp hay gián tiếp.
+-
+Bước 4: Mục đích của câu là mô tả cách nhìn nhận của báo chí Anh về Israel, không nhằm mục đích làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- label: Non HS
+- Tổng hợp: Bước 2 xác nhận rằng từ ngữ sử dụng trong câu không có tính chất xúc phạm rõ rệt, cụm từ ""cái nhìn khắt khe hơn"" được dùng một cách khách quan và trung lập. Bước 3 khẳng định câu không có tính chất xúc phạm trực tiếp hay gián tiếp. Cuối cùng, bước 4 chỉ ra rằng mục đích của câu là mô tả cách nhìn nhận của báo chí Anh về Israel, không nhằm mục đích làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét. Vì vậy, câu phát biểu này được phân loại là Non HS.","Bước 1: Nhóm đối tượng được đề cập trong câu là ""báo chí Anh"" và ""Israel"".
+-
+Bước 2: Từ ngữ sử dụng trong câu không có tính chất xúc phạm rõ rệt. Câu sử dụng cụm từ ""cái nhìn khắt khe hơn"", nhưng đây là một cách diễn đạt khách quan và trung lập, không mang ý nghĩa xúc phạm.
+-
+Bước 3: Câu không có tính chất xúc phạm trực tiếp hay gián tiếp.
+-
+Bước 4: Mục đích của câu là mô tả cách nhìn nhận của báo chí Anh về Israel, không nhằm mục đích làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- label: Non HS
+- Tổng hợp: 
+Bước 1 xác định hai nhóm đối tượng chính trong câu là ""báo chí Anh"" và ""Israel"". Bước 2 chỉ ra rằng từ ngữ sử dụng trong câu không mang tính xúc phạm rõ rệt, cụm từ ""cái nhìn khắt khe hơn"" được dùng theo cách khách quan và trung lập. Bước 3 khẳng định câu không chứa bất kỳ biểu hiện xúc phạm trực tiếp hay gián tiếp nào. Cuối cùng, bước 4 nhấn mạnh rằng mục đích của câu chỉ là mô tả cách nhìn nhận của báo chí Anh về Israel mà không nhằm mục đích xúc phạm hay kích động thù hận. Do đó, câu phát biểu này không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử, và được phân loại là Non HS.","Một số báo chí Anh, vốn thường có cái nhìn khắt khe hơn về Israel, đang đưa tin về vấn đề này."
+269, u were born in the middle east,bạn sinh ra ở Trung Đông à?,Nationalities/Regions,Non HS,"Bước 1: Nhóm đối tượng được đề cập có thể là người sinh ra ở Trung Đông.
+-","- label: Non HS
+- Tổng hợp: Bước 1 chỉ xác định rằng câu nói liên quan đến người sinh ra ở Trung Đông. Không có từ ngữ xúc phạm, phân biệt hay kỳ thị xuất hiện trong câu hỏi. Câu hỏi này có thể là một câu hỏi đơn giản về nơi sinh của một người mà không mang hàm ý xấu. Do đó, không có bằng chứng nào cho thấy đây là một phát ngôn thù ghét hoặc phân biệt đối xử, nên phân loại là Non HS.","Bước 2: Câu hỏi này sử dụng từ ngữ trung lập, không có từ ngữ xúc phạm hay miệt thị trực tiếp nào.
+-","- label: Non HS
+- Tổng hợp: Câu hỏi ""bạn sinh ra ở Trung Đông à?"" sử dụng từ ngữ trung lập, không có từ ngữ xúc phạm hay miệt thị trực tiếp nào (Bước 2). Do đó, câu này không thể được phân loại là Explicit HS hay Implicit HS vì nó không chứa từ ngữ xúc phạm trực tiếp hay gián tiếp. Kết quả là, câu này được phân loại là Non HS.","Bước 3: Hình thức của câu là không xúc phạm, không có dấu hiệu trực tiếp hay gián tiếp của sự xúc phạm.
+-","- label: Non HS
+- Tổng hợp: Bước 3 đã xác nhận rằng hình thức của câu không có dấu hiệu trực tiếp hay gián tiếp của sự xúc phạm. Do đó, dựa vào phân tích đã được cung cấp, câu phát biểu ""bạn sinh ra ở Trung Đông à?"" được đánh giá là không mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử. Câu này chỉ là một câu hỏi truy vấn thông tin cá nhân và không chứa từ ngữ hoặc ý đồ xúc phạm rõ ràng nên được phân loại là Non HS.","Bước 4: Mục đích của câu hỏi này có vẻ chỉ đơn giản là muốn xác định nơi sinh của người được hỏi, không có ý định làm tổn thương, phỉ báng hay kích động thù hận.","- label: Non HS
+- Tổng hợp: Bước 4 phân tích mục đích của câu hỏi và kết luận rằng nó chỉ đơn thuần là một câu hỏi nhằm xác định nơi sinh của người được hỏi mà không có ý định làm tổn thương, phỉ báng hay kích động thù hận. Không có yếu tố nào trong câu này thể hiện sự kỳ thị, xúc phạm hay phân biệt đối xử. Do đó, câu này được phân loại là Non HS.","Bước 1: Nhóm đối tượng được đề cập có thể là người sinh ra ở Trung Đông.
+-
+Bước 2: Câu hỏi này sử dụng từ ngữ trung lập, không có từ ngữ xúc phạm hay miệt thị trực tiếp nào.
+-","- label: Non HS
+- Tổng hợp: Bước 1 xác định rằng câu hỏi nhắm đến người sinh ra ở Trung Đông, nhưng không có dấu hiệu nào chỉ ra ý định kỳ thị hay xúc phạm. Bước 2 cho thấy câu hỏi sử dụng từ ngữ trung lập, không có từ ngữ xúc phạm hay miệt thị trực tiếp nào. Do đó, câu hỏi này không thể được coi là mang tính chất kỳ thị hoặc xúc phạm, và nên được phân loại là Non HS.","Bước 1: Nhóm đối tượng được đề cập có thể là người sinh ra ở Trung Đông.
+-
+Bước 3: Hình thức của câu là không xúc phạm, không có dấu hiệu trực tiếp hay gián tiếp của sự xúc phạm.
+-","- label: Non HS
+- Tổng hợp: Bước 1 xác định rằng câu hỏi liên quan đến việc một người có sinh ra ở khu vực Trung Đông hay không. Bước 3 chỉ ra rằng câu này không chứa bất kỳ từ ngữ xúc phạm hay biểu hiện trực tiếp/ gián tiếp của sự kỳ thị. Dựa vào hai bước phân tích trên, không có bằng chứng cụ thể nào cho thấy câu hỏi này mang hàm ý kỳ thị hoặc xúc phạm nên câu này được phân loại là Non HS.","Bước 1: Nhóm đối tượng được đề cập có thể là người sinh ra ở Trung Đông.
+-
+Bước 4: Mục đích của câu hỏi này có vẻ chỉ đơn giản là muốn xác định nơi sinh của người được hỏi, không có ý định làm tổn thương, phỉ báng hay kích động thù hận.","- Label: Non HS
+- Tổng hợp: 
+Bước 1 xác định rằng câu hỏi liên quan đến việc xác định nơi sinh của người được hỏi là Trung Đông. Bước 4 cho thấy mục đích của câu hỏi này chỉ đơn thuần là tìm hiểu thông tin về nơi sinh, không mang ý đồ xúc phạm, phân biệt hay kích động thù hận. Do đó, dựa trên phân tích được cung cấp, câu phát biểu này không thể được phân loại là Explicit HS hay Implicit HS vì không có dấu hiệu của sự xúc phạm, kỳ thị hoặc kích động thù hận. Câu hỏi chỉ đơn thuần là một câu hỏi thông tin và không gây hại đến bất kỳ ai, phù hợp với nhãn Non HS.","Bước 2: Câu hỏi này sử dụng từ ngữ trung lập, không có từ ngữ xúc phạm hay miệt thị trực tiếp nào.
+-
+Bước 3: Hình thức của câu là không xúc phạm, không có dấu hiệu trực tiếp hay gián tiếp của sự xúc phạm.
+-","- label: Non HS
+- Tổng hợp: 
+Bước 2 chỉ ra rằng câu hỏi sử dụng từ ngữ trung lập, không có từ ngữ xúc phạm hay miệt thị trực tiếp nào. Bước 3 xác nhận rằng hình thức của câu không xúc phạm, không có dấu hiệu trực tiếp hay gián tiếp của sự xúc phạm. Do đó, câu phát biểu không thuộc các nhãn Explicit HS hay Implicit HS mà thuộc về nhãn Non HS, vì nó không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử.","Bước 2: Câu hỏi này sử dụng từ ngữ trung lập, không có từ ngữ xúc phạm hay miệt thị trực tiếp nào.
+-
+Bước 4: Mục đích của câu hỏi này có vẻ chỉ đơn giản là muốn xác định nơi sinh của người được hỏi, không có ý định làm tổn thương, phỉ báng hay kích động thù hận.","- label: Non HS
+- Tổng hợp: 
+Bước 2 chỉ ra rằng câu hỏi này sử dụng từ ngữ trung lập, không có từ ngữ xúc phạm hay miệt thị trực tiếp nào. Bước 4 cho thấy mục đích của câu hỏi chỉ đơn thuần là xác định nơi sinh của người được hỏi, không có ý định làm tổn thương, phỉ báng hay kích động thù hận. Do đó, câu hỏi này không thể được phân loại là Explicit HS hay Implicit HS, mà chỉ phù hợp với nhãn Non HS vì nó không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử.","Bước 3: Hình thức của câu là không xúc phạm, không có dấu hiệu trực tiếp hay gián tiếp của sự xúc phạm.
+-
+Bước 4: Mục đích của câu hỏi này có vẻ chỉ đơn giản là muốn xác định nơi sinh của người được hỏi, không có ý định làm tổn thương, phỉ báng hay kích động thù hận.","- Label: Non HS
+- Tổng hợp: Bước 3 xác định rằng câu hỏi không có dấu hiệu xúc phạm trực tiếp hoặc gián tiếp. Bước 4 cho thấy mục đích của câu hỏi là đơn giản để xác định nơi sinh của người được hỏi, không có ý định làm tổn thương, phỉ báng hay kích động thù hận. Do đó, câu phát biểu này được phân loại là không mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử, phù hợp với nhãn Non HS.","Bước 1: Nhóm đối tượng được đề cập có thể là người sinh ra ở Trung Đông.
+-
+Bước 2: Câu hỏi này sử dụng từ ngữ trung lập, không có từ ngữ xúc phạm hay miệt thị trực tiếp nào.
+-
+Bước 3: Hình thức của câu là không xúc phạm, không có dấu hiệu trực tiếp hay gián tiếp của sự xúc phạm.
+-","- Label: Non HS
+- Tổng hợp: 
+  Bước 1 xác định rằng câu hỏi này liên quan đến nhóm đối tượng có thể là người sinh ra ở Trung Đông. Tuy nhiên, theo Bước 2, câu hỏi này sử dụng từ ngữ trung lập, không chứa từ ngữ xúc phạm hay miệt thị trực tiếp nào. Đồng thời, Bước 3 khẳng định câu hỏi này không có dấu hiệu xúc phạm, trực tiếp hay gián tiếp. Do đó, câu hỏi này không thể được phân loại là Explicit HS hay Implicit HS. Kết luận là, câu hỏi này không mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử, nên được phân loại là Non HS.","Bước 1: Nhóm đối tượng được đề cập có thể là người sinh ra ở Trung Đông.
+-
+Bước 2: Câu hỏi này sử dụng từ ngữ trung lập, không có từ ngữ xúc phạm hay miệt thị trực tiếp nào.
+-
+Bước 4: Mục đích của câu hỏi này có vẻ chỉ đơn giản là muốn xác định nơi sinh của người được hỏi, không có ý định làm tổn thương, phỉ báng hay kích động thù hận.","- label: Non HS
+- Tổng hợp: 
+Bước 1 chỉ ra rằng câu hỏi này liên quan đến nơi sinh của người được hỏi, cụ thể là Trung Đông. Bước 2 nhấn mạnh rằng câu hỏi sử dụng từ ngữ trung lập, không chứa từ ngữ xúc phạm hay miệt thị. Bước 4 khẳng định mục đích của câu hỏi là đơn thuần xác định thông tin cá nhân mà không có ý định gây tổn hại, phỉ báng hay kích động thù hận. Dựa vào các phân tích này, câu phát biểu không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử, nên được phân loại là Non HS.","Bước 1: Nhóm đối tượng được đề cập có thể là người sinh ra ở Trung Đông.
+-
+Bước 3: Hình thức của câu là không xúc phạm, không có dấu hiệu trực tiếp hay gián tiếp của sự xúc phạm.
+-
+Bước 4: Mục đích của câu hỏi này có vẻ chỉ đơn giản là muốn xác định nơi sinh của người được hỏi, không có ý định làm tổn thương, phỉ báng hay kích động thù hận.","- Label: Non HS
+- Tổng hợp: 
+Bước 1 xác định rằng câu hỏi liên quan đến nhóm đối tượng có thể là người sinh ra ở Trung Đông. Bước 3 khẳng định rằng hình thức của câu không chứa dấu hiệu xúc phạm trực tiếp hoặc gián tiếp. Cuối cùng, bước 4 chỉ ra mục đích của câu hỏi là thu thập thông tin về nơi sinh của người được hỏi, không có ý định gây tổn hại hay kích động thù hận. Do đó, dựa trên phân tích trên, câu này được phân loại là Non HS vì nó không mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử.","Bước 2: Câu hỏi này sử dụng từ ngữ trung lập, không có từ ngữ xúc phạm hay miệt thị trực tiếp nào.
+-
+Bước 3: Hình thức của câu là không xúc phạm, không có dấu hiệu trực tiếp hay gián tiếp của sự xúc phạm.
+-
+Bước 4: Mục đích của câu hỏi này có vẻ chỉ đơn giản là muốn xác định nơi sinh của người được hỏi, không có ý định làm tổn thương, phỉ báng hay kích động thù hận.","- label: Non HS
+- Tổng hợp: Bước 2 cho thấy câu hỏi sử dụng từ ngữ trung lập, không có từ ngữ xúc phạm hay miệt thị trực tiếp. Bước 3 khẳng định hình thức của câu không có dấu hiệu xúc phạm, cả trực tiếp lẫn gián tiếp. Bước 4 cho thấy mục đích của câu hỏi là đơn thuần để xác định nơi sinh, không nhằm xúc phạm, phỉ báng hay kích động thù hận. Do đó, dựa trên phân tích từ các bước trên, câu phát biểu được phân loại là Non HS.","Bước 1: Nhóm đối tượng được đề cập có thể là người sinh ra ở Trung Đông.
+-
+Bước 2: Câu hỏi này sử dụng từ ngữ trung lập, không có từ ngữ xúc phạm hay miệt thị trực tiếp nào.
+-
+Bước 3: Hình thức của câu là không xúc phạm, không có dấu hiệu trực tiếp hay gián tiếp của sự xúc phạm.
+-
+Bước 4: Mục đích của câu hỏi này có vẻ chỉ đơn giản là muốn xác định nơi sinh của người được hỏi, không có ý định làm tổn thương, phỉ báng hay kích động thù hận.","- label: Non HS
+- Tổng hợp: 
+Bước 1 xác định rằng câu hỏi này liên quan đến việc hỏi về nơi sinh của người được hỏi, cụ thể là liệu họ có sinh ra ở Trung Đông hay không.
+Bước 2 cho thấy câu hỏi sử dụng từ ngữ trung lập, không có từ ngữ xúc phạm hay miệt thị trực tiếp.
+Bước 3 khẳng định hình thức của câu hỏi không xúc phạm, không có dấu hiệu trực tiếp hay gián tiếp của sự xúc phạm.
+Cuối cùng, Bước 4 chỉ ra mục đích của câu hỏi chỉ đơn giản là muốn xác định nơi sinh của người được hỏi, không có ý định làm tổn thương, phỉ báng hay kích động thù hận. Do đó, câu hỏi này được phân loại là Non HS vì nó không mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử.",bạn sinh ra ở Trung Đông à?
+270,"in the united states, there has been a long history of discrimination and racism against the native peoples of this land, which continues to this day","Ở Mỹ, từ lâu đã có lịch sử phân biệt đối xử và kỳ thị đối với người bản địa, và điều này vẫn còn tồn tại đến ngày nay.",Ethnic/Racial Minorities,Non HS,"Bước 1: Nhóm đối tượng được đề cập trong câu nói là ""người bản địa"" ở Mỹ.
+-","- Label: Non HS
+- Tổng hợp: 
+Bước 1 xác định rằng câu nói đề cập đến ""người bản địa"" ở Mỹ. Tuy nhiên, câu nói không chứa từ ngữ mang tính xúc phạm, miệt thị trực tiếp hay gián tiếp nào đối với nhóm đối tượng này. Thay vào đó, nó chỉ đơn thuần đưa ra một nhận định về lịch sử phân biệt đối xử và kỳ thị mà người bản địa ở Mỹ đã trải qua. Do đó, không có bằng chứng rõ ràng nào cho thấy câu nói này thuộc về hai loại phát ngôn thù ghét (Explicit HS và Implicit HS). Vì vậy, câu phát biểu này được phân loại là Non HS.","Bước 2: Từ ngữ sử dụng trong câu là ""phân biệt đối xử"" và ""kiểm thị"", đây là những từ ngữ mang tính chất phê phán và chỉ ra tình trạng bất công.
+-","- Label: Non HS
+- Tổng hợp: Câu phát biểu sử dụng từ ngữ ""phân biệt đối xử"" và ""kiểm thị"" (chữ ""kiểm thị"" có thể là lỗi chính tả của ""kiểm thị""), theo Bước 2, đây là những từ ngữ phê phán và chỉ ra tình trạng bất công. Tuy nhiên, câu này không chứa bất kỳ từ ngữ trực tiếp xúc phạm, miệt thị, hay mang ý nghĩa đen tối đối với bất kỳ cá nhân hay nhóm nào. Nó chỉ đơn thuần mô tả thực tế lịch sử và hiện tại của vấn đề phân biệt đối xử và kỳ thị ở Mỹ. Do đó, câu này được phân loại là Non HS vì nó không thể hiện sự kỳ thị, xúc phạm hay phân biệt đối xử.","Bước 3: Hình thức của câu là không trực tiếp xúc phạm, mà là một sự phê phán gián tiếp về tình trạng xã hội.
+-","- label: Non HS
+- Tổng hợp: Câu phát biểu không chứa từ ngữ xúc phạm trực tiếp hay gián tiếp nào (Bước 3). Nó chỉ mô tả một thực tế xã hội mà không có ý định xúc phạm hay kỳ thị ai. Do đó, nó không phù hợp với hai loại nhãn ""Explicit HS"" và ""Implicit HS"".","Bước 4: Mục đích của câu nói là nhằm chỉ ra và phê phán tình trạng phân biệt đối xử và kỳ thị, không nhằm mục đích làm tổn thương cá nhân hay nhóm nào cụ thể mà nhằm nâng cao nhận thức cộng đồng về vấn đề này.","- label: Non HS
+- Tổng hợp: Câu phát biểu ở bước 4 đã nêu rõ rằng mục đích của câu nói là chỉ ra và phê phán tình trạng phân biệt đối xử và kỳ thị, không nhằm mục đích làm tổn thương cá nhân hay nhóm nào cụ thể mà nhằm nâng cao nhận thức cộng đồng về vấn đề này. Do đó, câu phát biểu không thuộc loại phát ngôn thể hiện sự thù ghét, xúc phạm hoặc phân biệt đối xử trực tiếp hoặc gián tiếp. Câu này chỉ đơn thuần đưa ra một thực tế xã hội và không chứa các từ ngữ mang tính xúc phạm, kỳ thị nên không thể được phân loại là Explicit HS hay Implicit HS.","Bước 1: Nhóm đối tượng được đề cập trong câu nói là ""người bản địa"" ở Mỹ.
+-
+Bước 2: Từ ngữ sử dụng trong câu là ""phân biệt đối xử"" và ""kiểm thị"", đây là những từ ngữ mang tính chất phê phán và chỉ ra tình trạng bất công.
+-","- Label: Non HS
+- Tổng hợp: Nhóm đối tượng được đề cập trong câu nói là ""người bản địa"" ở Mỹ (Bước 1). Câu phát biểu sử dụng từ ngữ ""phân biệt đối xử"" và ""kiểm thị"" để phê phán và chỉ ra tình trạng bất công mà người bản địa ở Mỹ đang gặp phải (Bước 2). Tuy nhiên, câu phát biểu không chứa từ ngữ mang tính miệt thị, xúc phạm hay kỳ thị trực tiếp hoặc gián tiếp đối với người bản địa. Câu phát biểu chỉ đơn thuần là một nhận xét mang tính phê phán về vấn đề xã hội, do đó được phân loại là Non HS.","Bước 1: Nhóm đối tượng được đề cập trong câu nói là ""người bản địa"" ở Mỹ.
+-
+Bước 3: Hình thức của câu là không trực tiếp xúc phạm, mà là một sự phê phán gián tiếp về tình trạng xã hội.
+-","- label: Non HS
+- Tổng hợp: Nhóm đối tượng được đề cập trong câu nói là ""người bản địa"" ở Mỹ (Bước 1). Hình thức của câu là không trực tiếp xúc phạm, mà là một sự phê phán gián tiếp về tình trạng xã hội (Bước 3). Câu phát biểu chỉ đơn thuần mô tả thực tế xã hội mà không chứa đựng ý định xúc phạm, miệt thị hay kỳ thị một cách rõ ràng hoặc ngụy trang, nên được phân loại là Non HS.","Bước 1: Nhóm đối tượng được đề cập trong câu nói là ""người bản địa"" ở Mỹ.
+-
+Bước 4: Mục đích của câu nói là nhằm chỉ ra và phê phán tình trạng phân biệt đối xử và kỳ thị, không nhằm mục đích làm tổn thương cá nhân hay nhóm nào cụ thể mà nhằm nâng cao nhận thức cộng đồng về vấn đề này.","- Label: Non HS
+- Tổng hợp: Nhóm đối tượng được đề cập trong câu nói là ""người bản địa"" ở Mỹ (Bước 1). Mục đích của câu nói là nhằm chỉ ra và phê phán tình trạng phân biệt đối xử và kỳ thị, không nhằm mục đích làm tổn thương cá nhân hay nhóm nào cụ thể mà nhằm nâng cao nhận thức cộng đồng về vấn đề này (Bước 4). Do đó, câu phát biểu không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử, mà chỉ đơn thuần là chỉ ra thực tế xã hội và phê phán nó, nên thuộc loại Non HS.","Bước 2: Từ ngữ sử dụng trong câu là ""phân biệt đối xử"" và ""kiểm thị"", đây là những từ ngữ mang tính chất phê phán và chỉ ra tình trạng bất công.
+-
+Bước 3: Hình thức của câu là không trực tiếp xúc phạm, mà là một sự phê phán gián tiếp về tình trạng xã hội.
+-","- label: Non HS
+- Tổng hợp: 
+Bước 2 xác định rằng từ ngữ sử dụng trong câu là ""phân biệt đối xử"" và ""kiểm thị"", đây là những từ ngữ phê phán và chỉ ra tình trạng bất công. Tuy nhiên, những từ ngữ này không mang tính chất xúc phạm trực tiếp hay gián tiếp đối với bất kỳ cá nhân hay nhóm cụ thể nào. Thay vào đó, chúng chỉ ra một thực tế xã hội tiêu cực mà không chứa đựng định kiến hay ý đồ xúc phạm.
+Bước 3 nhấn mạnh rằng hình thức của câu là phê phán gián tiếp về tình trạng xã hội, chứ không phải là một phát ngôn mang tính xúc phạm hoặc kỳ thị. Do đó, câu phát biểu này không thuộc loại phát ngôn mang tính thù ghét hoặc phân biệt đối xử (Explicit HS hay Implicit HS), mà là một phát ngôn mang tính phê phán xã hội một cách khách quan (Non HS).","Bước 2: Từ ngữ sử dụng trong câu là ""phân biệt đối xử"" và ""kiểm thị"", đây là những từ ngữ mang tính chất phê phán và chỉ ra tình trạng bất công.
+-
+Bước 4: Mục đích của câu nói là nhằm chỉ ra và phê phán tình trạng phân biệt đối xử và kỳ thị, không nhằm mục đích làm tổn thương cá nhân hay nhóm nào cụ thể mà nhằm nâng cao nhận thức cộng đồng về vấn đề này.","- label: Non HS
+- Tổng hợp: Bước 2 cho thấy từ ngữ sử dụng trong câu là ""phân biệt đối xử"" và ""kiểm thị"", đều là những từ ngữ mang tính chất phê phán và chỉ ra tình trạng bất công. Tuy nhiên, theo Bước 4, mục đích của câu nói là nhằm chỉ ra và phê phán tình trạng phân biệt đối xử và kỳ thị, không nhằm mục đích làm tổn thương cá nhân hay nhóm nào cụ thể mà nhằm nâng cao nhận thức cộng đồng về vấn đề này. Do đó, câu nói này không thuộc loại phát ngôn thù ghét, xúc phạm hoặc phân biệt đối xử và được phân loại là Non HS.","Bước 3: Hình thức của câu là không trực tiếp xúc phạm, mà là một sự phê phán gián tiếp về tình trạng xã hội.
+-
+Bước 4: Mục đích của câu nói là nhằm chỉ ra và phê phán tình trạng phân biệt đối xử và kỳ thị, không nhằm mục đích làm tổn thương cá nhân hay nhóm nào cụ thể mà nhằm nâng cao nhận thức cộng đồng về vấn đề này.","- Label: Non HS
+- Tổng hợp: 
+Bước 3 chỉ ra rằng hình thức của câu phát biểu không trực tiếp xúc phạm ai. Bước 4 xác nhận rằng mục đích của câu nói là phê phán tình trạng xã hội và nâng cao nhận thức cộng đồng về vấn đề phân biệt đối xử và kỳ thị, chứ không nhằm mục đích làm tổn thương cá nhân hay nhóm nào cụ thể. Do đó, câu phát biểu này không thuộc loại Explicit HS hay Implicit HS mà thuộc loại Non HS, vì nó không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử.","Bước 1: Nhóm đối tượng được đề cập trong câu nói là ""người bản địa"" ở Mỹ.
+-
+Bước 2: Từ ngữ sử dụng trong câu là ""phân biệt đối xử"" và ""kiểm thị"", đây là những từ ngữ mang tính chất phê phán và chỉ ra tình trạng bất công.
+-
+Bước 3: Hình thức của câu là không trực tiếp xúc phạm, mà là một sự phê phán gián tiếp về tình trạng xã hội.
+-","- label: Non HS
+- Tổng hợp: 
+  Bước 1 xác định rằng câu phát biểu đề cập đến ""người bản địa"" ở Mỹ, chỉ ra nhóm đối tượng cụ thể mà câu nói đang thảo luận. 
+  Bước 2 nhấn mạnh việc sử dụng từ ngữ ""phân biệt đối xử"" và ""kiểm thị"", tuy nhiên, đây là những từ ngữ mang tính phê phán chung chung về tình trạng xã hội, không phải là từ ngữ miệt thị trực tiếp hay ẩn dụ. 
+  Bước 3 chỉ ra rằng câu phát biểu không mang tính chất trực tiếp xúc phạm, mà chỉ đơn thuần phê phán tình trạng xã hội hiện tại. 
+Do đó, dựa vào phân tích trên, câu phát biểu không thuộc vào hai loại Explicit HS hay Implicit HS, mà chỉ đơn giản là một câu phê phán tình hình xã hội, không mang nội dung kỳ thị hay xúc phạm, phù hợp với nhãn Non HS.","Bước 1: Nhóm đối tượng được đề cập trong câu nói là ""người bản địa"" ở Mỹ.
+-
+Bước 2: Từ ngữ sử dụng trong câu là ""phân biệt đối xử"" và ""kiểm thị"", đây là những từ ngữ mang tính chất phê phán và chỉ ra tình trạng bất công.
+-
+Bước 4: Mục đích của câu nói là nhằm chỉ ra và phê phán tình trạng phân biệt đối xử và kỳ thị, không nhằm mục đích làm tổn thương cá nhân hay nhóm nào cụ thể mà nhằm nâng cao nhận thức cộng đồng về vấn đề này.","- label: Non HS
+- Tổng hợp: 
+Bước 1 xác định rằng câu phát biểu đề cập đến ""người bản địa"" ở Mỹ.
+Bước 2 chỉ ra rằng từ ngữ ""phân biệt đối xử"" và ""kiểm thị"" được sử dụng, tuy nhiên, chúng được dùng trong ngữ cảnh phê phán và chỉ ra tình trạng bất công, không phải để xúc phạm hay miệt thị.
+Bước 4 nêu rõ rằng mục đích của câu nói là nhằm chỉ ra và phê phán tình trạng phân biệt đối xử và kỳ thị, không nhằm mục đích làm tổn thương cá nhân hay nhóm nào cụ thể mà nhằm nâng cao nhận thức cộng đồng về vấn đề này.
+Dựa vào các phân tích trên, câu phát biểu không thể được phân loại vào hai nhãn đầu tiên vì nó không có ý đồ xúc phạm, miệt thị hoặc kỳ thị ai đó. Do đó, câu này được phân loại là Non HS.","Bước 1: Nhóm đối tượng được đề cập trong câu nói là ""người bản địa"" ở Mỹ.
+-
+Bước 3: Hình thức của câu là không trực tiếp xúc phạm, mà là một sự phê phán gián tiếp về tình trạng xã hội.
+-
+Bước 4: Mục đích của câu nói là nhằm chỉ ra và phê phán tình trạng phân biệt đối xử và kỳ thị, không nhằm mục đích làm tổn thương cá nhân hay nhóm nào cụ thể mà nhằm nâng cao nhận thức cộng đồng về vấn đề này.","- label: Non HS
+- Tổng hợp: 
+Bước 1 xác định nhóm đối tượng được đề cập trong câu nói là ""người bản địa"" ở Mỹ. Bước 3 cho thấy hình thức của câu không trực tiếp xúc phạm mà chỉ là phê phán gián tiếp về tình trạng xã hội. Bước 4 nhấn mạnh mục đích của câu nói là chỉ ra và phê phán tình trạng phân biệt đối xử và kỳ thị, không nhằm mục đích làm tổn thương cá nhân hay nhóm nào cụ thể mà nhằm nâng cao nhận thức cộng đồng về vấn đề này. Do đó, câu nói này không thuộc loại Explicit HS hay Implicit HS mà thuộc loại Non HS vì nó không mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử, mà chỉ phê phán một vấn đề xã hội.","Bước 2: Từ ngữ sử dụng trong câu là ""phân biệt đối xử"" và ""kiểm thị"", đây là những từ ngữ mang tính chất phê phán và chỉ ra tình trạng bất công.
+-
+Bước 3: Hình thức của câu là không trực tiếp xúc phạm, mà là một sự phê phán gián tiếp về tình trạng xã hội.
+-
+Bước 4: Mục đích của câu nói là nhằm chỉ ra và phê phán tình trạng phân biệt đối xử và kỳ thị, không nhằm mục đích làm tổn thương cá nhân hay nhóm nào cụ thể mà nhằm nâng cao nhận thức cộng đồng về vấn đề này.","- Label: Non HS
+- Tổng hợp: 
+Bước 2 chỉ ra rằng từ ngữ ""phân biệt đối xử"" và ""kiểm thị"" mang tính chất phê phán và chỉ ra tình trạng bất công. Tuy nhiên, Bước 3 cho thấy hình thức của câu là không trực tiếp xúc phạm mà chỉ phê phán gián tiếp về tình trạng xã hội. Bước 4 nhấn mạnh mục đích của câu nói là chỉ ra và phê phán tình trạng phân biệt đối xử và kỳ thị, không nhằm mục đích làm tổn thương cá nhân hay nhóm nào cụ thể mà nhằm nâng cao nhận thức cộng đồng về vấn đề này. Do đó, câu phát biểu này không thể được coi là mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử, nên nó thuộc Nhãn Non HS.","Bước 1: Nhóm đối tượng được đề cập trong câu nói là ""người bản địa"" ở Mỹ.
+-
+Bước 2: Từ ngữ sử dụng trong câu là ""phân biệt đối xử"" và ""kiểm thị"", đây là những từ ngữ mang tính chất phê phán và chỉ ra tình trạng bất công.
+-
+Bước 3: Hình thức của câu là không trực tiếp xúc phạm, mà là một sự phê phán gián tiếp về tình trạng xã hội.
+-
+Bước 4: Mục đích của câu nói là nhằm chỉ ra và phê phán tình trạng phân biệt đối xử và kỳ thị, không nhằm mục đích làm tổn thương cá nhân hay nhóm nào cụ thể mà nhằm nâng cao nhận thức cộng đồng về vấn đề này.","- Label: Non HS
+- Tổng hợp: Nhóm đối tượng được đề cập trong câu nói là ""người bản địa"" ở Mỹ (Bước 1). Câu sử dụng từ ngữ ""phân biệt đối xử"" và ""kiểm thị"", đây là những từ ngữ phê phán tình trạng bất công (Bước 2). Tuy nhiên, hình thức của câu không trực tiếp xúc phạm, mà là phê phán gián tiếp về tình trạng xã hội (Bước 3). Mục đích của câu nói là nhằm chỉ ra và phê phán tình trạng phân biệt đối xử và kỳ thị, không nhằm mục đích làm tổn thương cá nhân hay nhóm nào cụ thể mà nhằm nâng cao nhận thức cộng đồng về vấn đề này (Bước 4). Do đó, câu phát biểu không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử, và không có ý đồ gây tổn hại đến bất kỳ cá nhân hay nhóm xã hội nào, nên được phân loại là Non HS.","Ở Mỹ, từ lâu đã có lịch sử phân biệt đối xử và kỳ thị đối với người bản địa, và điều này vẫn còn tồn tại đến ngày nay."
+271,Since I will be posting with the default text in the future you no longer have any reason to hate me .,Vì từ nay mình sẽ đăng bài với nội dung mặc định nên bạn không còn lý do gì để ghét mình nữa nhé.,Non-Specified or General Targets,Non HS,"Bước 1: Nhóm đối tượng được đề cập trong câu này có thể là người mà tác giả của câu nói đang nói chuyện với, có vẻ như họ đã có sự bất đồng trước đó.
+-","- Label: Non HS
+- Tổng hợp: Dựa trên phân tích Bước 1, câu phát biểu đề cập đến một người mà tác giả đang nói chuyện và có vẻ như giữa hai người đã có sự bất đồng trước đó. Tuy nhiên, không có từ ngữ hay biểu hiện nào trực tiếp hoặc gián tiếp thể hiện sự kỳ thị, xúc phạm hay phân biệt đối xử. Câu phát biểu chỉ đề cập đến việc tác giả sẽ đăng bài với nội dung mặc định để người kia không còn lý do để ghét mình nữa. Do đó, câu này không thuộc dạng Explicit HS hay Implicit HS mà thuộc dạng Non HS vì nó không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử.","Bước 2: Từ ngữ sử dụng trong câu này không có tính chất xúc phạm hoặc miệt thị trực tiếp. Tuy nhiên, câu nói có thể ám chỉ rằng người nghe đã từng có thái độ tiêu cực đối với tác giả của câu nói.
+-","- label: Implicit HS
+- Tổng hợp: Câu phát biểu không sử dụng từ ngữ xúc phạm hoặc miệt thị trực tiếp (Bước 2). Tuy nhiên, nó ám chỉ rằng người nghe đã từng có thái độ tiêu cực đối với tác giả của câu nói, điều này có thể được xem là một hình thức ẩn dụ hoặc gián tiếp để lồng ghép ý định chỉ trích hoặc nhắc lại định kiến trước đây (Bước 2). Mặc dù không trực tiếp xúc phạm, nhưng thông điệp này có thể được hiểu là gián tiếp phê phán thái độ cũ của người nghe, do đó phù hợp với định nghĩa của phát ngôn Implicit HS.","Bước 3: Câu này không trực tiếp xúc phạm hay miệt thị ai, nhưng nó gián tiếp nhắc lại một tình huống không tốt trước đây.
+-","- Label: Implicit HS
+- Tổng hợp: Câu phát biểu không trực tiếp xúc phạm hay miệt thị ai theo Bước 3, nhưng nó gián tiếp nhắc lại một tình huống không tốt trước đây. Điều này có thể được xem là một dạng ẩn dụ hoặc gián tiếp, vì nó ám chỉ rằng người nói đã từng bị người khác ghét và việc này có thể liên quan đến nội dung bài đăng của họ. Mặc dù không có từ ngữ miệt thị trực tiếp, nhưng câu phát biểu này có thể chứa định kiến tiêu cực đối với người mà họ đang nói đến, do đó phù hợp với tiêu chí của Implicit HS.","Bước 4: Mục đích của câu nói có thể là để thông báo về một thay đổi trong hành vi đăng bài của tác giả và cũng có thể là để gợi nhắc về một vấn đề đã xảy ra trước đó, không nhằm mục đích làm tổn thương hoặc phỉ báng ai.","- label: Non HS
+- Tổng hợp: Câu phát biểu này không chứa từ ngữ xúc phạm, miệt thị trực tiếp hay gián tiếp nào (Bước 4). Mặc dù có thể gợi nhắc đến một vấn đề đã xảy ra trước đó, mục đích chính của câu nói là thông báo về một thay đổi trong hành vi đăng bài của tác giả và không nhằm mục đích làm tổn thương hoặc phỉ báng ai (Bước 4). Do đó, câu này không thuộc loại Explicit HS hay Implicit HS và phù hợp với nhãn Non HS.","Bước 1: Nhóm đối tượng được đề cập trong câu này có thể là người mà tác giả của câu nói đang nói chuyện với, có vẻ như họ đã có sự bất đồng trước đó.
+-
+Bước 2: Từ ngữ sử dụng trong câu này không có tính chất xúc phạm hoặc miệt thị trực tiếp. Tuy nhiên, câu nói có thể ám chỉ rằng người nghe đã từng có thái độ tiêu cực đối với tác giả của câu nói.
+-","- label: Implicit HS
+- Tổng hợp: 
+Theo Bước 1, câu phát biểu đề cập đến một nhóm đối tượng có thể là người mà tác giả đang nói chuyện với, và giữa hai bên có vẻ đã có sự bất đồng trước đó. Theo Bước 2, từ ngữ sử dụng không có tính chất xúc phạm hoặc miệt thị trực tiếp, nhưng câu nói có thể ám chỉ rằng người nghe đã từng có thái độ tiêu cực đối với tác giả. Điều này cho thấy có sự tồn tại của định kiến tiêu cực gián tiếp đối với người nghe, vì vậy câu phát biểu được phân loại là Implicit HS.","Bước 1: Nhóm đối tượng được đề cập trong câu này có thể là người mà tác giả của câu nói đang nói chuyện với, có vẻ như họ đã có sự bất đồng trước đó.
+-
+Bước 3: Câu này không trực tiếp xúc phạm hay miệt thị ai, nhưng nó gián tiếp nhắc lại một tình huống không tốt trước đây.
+-","- label: Implicit HS
+- Tổng hợp: Bước 1 xác định rằng câu này liên quan đến một tình huống bất đồng trước đó giữa tác giả và người mà họ đang nói chuyện. Bước 3 chỉ ra rằng câu này không trực tiếp xúc phạm hay miệt thị ai, nhưng gián tiếp nhắc lại một tình huống không tốt trước đây. Mặc dù không sử dụng từ ngữ mang tính xúc phạm trực tiếp, câu nói này vẫn chứa đựng một thông điệp ẩn ý rằng người nghe đã từng ghét tác giả vì lý do nào đó, và bây giờ tác giả đang cố gắng thay đổi điều đó bằng cách thay đổi nội dung đăng bài. Điều này cho thấy một định kiến tiêu cực đã tồn tại trước đó và đang được ngụy trang dưới dạng một lời tuyên bố tích cực, phù hợp với định nghĩa của phát ngôn Implicit HS.","Bước 1: Nhóm đối tượng được đề cập trong câu này có thể là người mà tác giả của câu nói đang nói chuyện với, có vẻ như họ đã có sự bất đồng trước đó.
+-
+Bước 4: Mục đích của câu nói có thể là để thông báo về một thay đổi trong hành vi đăng bài của tác giả và cũng có thể là để gợi nhắc về một vấn đề đã xảy ra trước đó, không nhằm mục đích làm tổn thương hoặc phỉ báng ai.","- label: Non HS
+- Tổng hợp: Trong bước 1, chúng ta thấy rằng câu nói này liên quan đến một nhóm đối tượng cụ thể, đó là người mà tác giả đang giao tiếp và có thể đã có sự bất đồng trước đó. Tuy nhiên, trong bước 4, mục đích của câu nói chỉ đơn thuần là thông báo về một thay đổi trong hành vi đăng bài của tác giả và không có ý định làm tổn thương hoặc phỉ báng ai. Do đó, không có dấu hiệu của sự xúc phạm hoặc kỳ thị rõ ràng hoặc ngụy trang, câu này được phân loại là Non HS.","Bước 2: Từ ngữ sử dụng trong câu này không có tính chất xúc phạm hoặc miệt thị trực tiếp. Tuy nhiên, câu nói có thể ám chỉ rằng người nghe đã từng có thái độ tiêu cực đối với tác giả của câu nói.
+-
+Bước 3: Câu này không trực tiếp xúc phạm hay miệt thị ai, nhưng nó gián tiếp nhắc lại một tình huống không tốt trước đây.
+-","- label: Implicit HS
+- Tổng hợp: Bước 2 xác nhận từ ngữ sử dụng trong câu không mang tính chất xúc phạm hoặc miệt thị trực tiếp. Tuy nhiên, theo Bước 3, câu nói gián tiếp nhắc lại một tình huống không tốt trước đây, ám chỉ rằng người nghe đã từng có thái độ tiêu cực đối với tác giả của câu nói. Điều này cho thấy câu phát biểu có thể chứa đựng định kiến hoặc ý đồ gián tiếp, do đó phù hợp với nhãn Implicit HS.","Bước 2: Từ ngữ sử dụng trong câu này không có tính chất xúc phạm hoặc miệt thị trực tiếp. Tuy nhiên, câu nói có thể ám chỉ rằng người nghe đã từng có thái độ tiêu cực đối với tác giả của câu nói.
+-
+Bước 4: Mục đích của câu nói có thể là để thông báo về một thay đổi trong hành vi đăng bài của tác giả và cũng có thể là để gợi nhắc về một vấn đề đã xảy ra trước đó, không nhằm mục đích làm tổn thương hoặc phỉ báng ai.","- label: Implicit HS
+- Tổng hợp: 
+Bước 2 chỉ ra rằng từ ngữ sử dụng trong câu không có tính chất xúc phạm hoặc miệt thị trực tiếp, loại trừ khả năng là ""Explicit HS"". Tuy nhiên, Bước 2 cũng lưu ý rằng câu nói có thể ám chỉ rằng người nghe đã từng có thái độ tiêu cực đối với tác giả, cho thấy có thể có một định kiến hoặc thái độ tiêu cực được ngụy trang. Bước 4 xác nhận rằng câu nói có thể liên quan đến một vấn đề đã xảy ra trước đó, điều này hỗ trợ việc hiểu rằng câu nói có thể đang ám chỉ một sự kiện hoặc tình huống trước đây mà người nghe có thái độ tiêu cực. Do đó, mặc dù không có ngôn từ xúc phạm trực tiếp, câu nói vẫn có thể được coi là mang tính chất implicit HS vì nó ám chỉ một tình huống hoặc thái độ tiêu cực trước đó.","Bước 3: Câu này không trực tiếp xúc phạm hay miệt thị ai, nhưng nó gián tiếp nhắc lại một tình huống không tốt trước đây.
+-
+Bước 4: Mục đích của câu nói có thể là để thông báo về một thay đổi trong hành vi đăng bài của tác giả và cũng có thể là để gợi nhắc về một vấn đề đã xảy ra trước đó, không nhằm mục đích làm tổn thương hoặc phỉ báng ai.","- Label: Non HS
+- Tổng hợp: Câu phát biểu không trực tiếp xúc phạm hay miệt thị ai theo Bước 3. Mặc dù nó gián tiếp nhắc lại một tình huống không tốt trước đây, mục đích chính của câu nói là để thông báo về một thay đổi trong hành vi đăng bài của tác giả và cũng có thể là để gợi nhắc về một vấn đề đã xảy ra trước đó, không nhằm mục đích làm tổn thương hoặc phỉ báng ai theo Bước 4. Do đó, câu này không thuộc loại Explicit HS hay Implicit HS mà là Non HS.","Bước 1: Nhóm đối tượng được đề cập trong câu này có thể là người mà tác giả của câu nói đang nói chuyện với, có vẻ như họ đã có sự bất đồng trước đó.
+-
+Bước 2: Từ ngữ sử dụng trong câu này không có tính chất xúc phạm hoặc miệt thị trực tiếp. Tuy nhiên, câu nói có thể ám chỉ rằng người nghe đã từng có thái độ tiêu cực đối với tác giả của câu nói.
+-
+Bước 3: Câu này không trực tiếp xúc phạm hay miệt thị ai, nhưng nó gián tiếp nhắc lại một tình huống không tốt trước đây.
+-","- label: Implicit HS
+- Tổng hợp: Bước 1 xác định rằng câu nói này liên quan đến một sự bất đồng trước đó giữa tác giả và người nghe. Bước 2 cho thấy mặc dù không có từ ngữ xúc phạm trực tiếp, câu nói có thể ám chỉ rằng người nghe đã từng có thái độ tiêu cực đối với tác giả. Bước 3 khẳng định rằng câu nói không trực tiếp xúc phạm ai nhưng gián tiếp nhắc lại một tình huống không tốt trước đây. Dựa trên các bước phân tích này, câu nói được xem là mang tính chất implicit hate speech vì nó sử dụng cách diễn đạt gián tiếp nhằm ám chỉ thái độ tiêu cực trước đây của người nghe đối với tác giả, đồng thời không có từ ngữ xúc phạm trực tiếp.","Bước 1: Nhóm đối tượng được đề cập trong câu này có thể là người mà tác giả của câu nói đang nói chuyện với, có vẻ như họ đã có sự bất đồng trước đó.
+-
+Bước 2: Từ ngữ sử dụng trong câu này không có tính chất xúc phạm hoặc miệt thị trực tiếp. Tuy nhiên, câu nói có thể ám chỉ rằng người nghe đã từng có thái độ tiêu cực đối với tác giả của câu nói.
+-
+Bước 4: Mục đích của câu nói có thể là để thông báo về một thay đổi trong hành vi đăng bài của tác giả và cũng có thể là để gợi nhắc về một vấn đề đã xảy ra trước đó, không nhằm mục đích làm tổn thương hoặc phỉ báng ai.","- label: Implicit HS
+- Tổng hợp: 
+Theo Bước 1, câu nói này dường như liên quan đến một cuộc tranh chấp hoặc sự bất đồng trước đó giữa tác giả và người nghe. Theo Bước 2, từ ngữ không mang tính xúc phạm trực tiếp nhưng có thể hàm ý rằng người nghe đã từng có thái độ tiêu cực đối với tác giả. Bước 4 cho thấy mục đích của câu nói là thông báo về một thay đổi trong hành vi đăng bài và cũng gợi nhắc về một vấn đề đã xảy ra trước đó. Mặc dù không có ngôn từ xúc phạm trực tiếp, câu nói này có thể chứa đựng định kiến tiêu cực đối với người nghe, do đó phù hợp với định nghĩa của Implicit HS.","Bước 1: Nhóm đối tượng được đề cập trong câu này có thể là người mà tác giả của câu nói đang nói chuyện với, có vẻ như họ đã có sự bất đồng trước đó.
+-
+Bước 3: Câu này không trực tiếp xúc phạm hay miệt thị ai, nhưng nó gián tiếp nhắc lại một tình huống không tốt trước đây.
+-
+Bước 4: Mục đích của câu nói có thể là để thông báo về một thay đổi trong hành vi đăng bài của tác giả và cũng có thể là để gợi nhắc về một vấn đề đã xảy ra trước đó, không nhằm mục đích làm tổn thương hoặc phỉ báng ai.","- label: Implicit HS
+- Tổng hợp: Bước 1 xác định rằng câu này liên quan đến một tình huống bất đồng trước đó giữa tác giả và người mà tác giả đang nói chuyện. Bước 3 chỉ ra rằng câu này không trực tiếp xúc phạm ai, nhưng lại gián tiếp nhắc lại một tình huống không tốt trước đây, điều này có thể gây ra cảm giác khó chịu hoặc bị xúc phạm cho người nghe. Bước 4 cho thấy mục đích của câu nói có thể là để thông báo về một thay đổi trong hành vi đăng bài và cũng nhắc lại một vấn đề đã xảy ra trước đó, không nhằm mục đích làm tổn thương nhưng vẫn có thể gây ra cảm giác tiêu cực cho người nghe. Dựa trên những phân tích này, câu phát biểu này được phân loại là Implicit HS vì nó gián tiếp nhắc lại một tình huống không tốt trước đây, có thể gây ra cảm giác tiêu cực cho người nghe, dù không trực tiếp xúc phạm ai.","Bước 2: Từ ngữ sử dụng trong câu này không có tính chất xúc phạm hoặc miệt thị trực tiếp. Tuy nhiên, câu nói có thể ám chỉ rằng người nghe đã từng có thái độ tiêu cực đối với tác giả của câu nói.
+-
+Bước 3: Câu này không trực tiếp xúc phạm hay miệt thị ai, nhưng nó gián tiếp nhắc lại một tình huống không tốt trước đây.
+-
+Bước 4: Mục đích của câu nói có thể là để thông báo về một thay đổi trong hành vi đăng bài của tác giả và cũng có thể là để gợi nhắc về một vấn đề đã xảy ra trước đó, không nhằm mục đích làm tổn thương hoặc phỉ báng ai.","- Label: Implicit HS
+- Tổng hợp: Bước 2 chỉ ra rằng từ ngữ trong câu không mang tính xúc phạm hoặc miệt thị trực tiếp. Tuy nhiên, theo Bước 3, câu nói gián tiếp ám chỉ một tình huống không tốt trước đây, tức là nó không trực tiếp xúc phạm nhưng lại gợi nhắc đến một vấn đề tiêu cực. Bước 4 xác nhận rằng câu nói có thể nhắc lại một vấn đề đã xảy ra trước đó, điều này cho thấy câu nói có thể chứa đựng một thông điệp ẩn ý tiêu cực. Do đó, dựa trên các phân tích từ các bước trên, câu nói này được phân loại là Implicit HS vì nó sử dụng từ ngữ không trực tiếp xúc phạm nhưng lại lồng ghép một thông điệp tiêu cực gián tiếp.","Bước 1: Nhóm đối tượng được đề cập trong câu này có thể là người mà tác giả của câu nói đang nói chuyện với, có vẻ như họ đã có sự bất đồng trước đó.
+-
+Bước 2: Từ ngữ sử dụng trong câu này không có tính chất xúc phạm hoặc miệt thị trực tiếp. Tuy nhiên, câu nói có thể ám chỉ rằng người nghe đã từng có thái độ tiêu cực đối với tác giả của câu nói.
+-
+Bước 3: Câu này không trực tiếp xúc phạm hay miệt thị ai, nhưng nó gián tiếp nhắc lại một tình huống không tốt trước đây.
+-
+Bước 4: Mục đích của câu nói có thể là để thông báo về một thay đổi trong hành vi đăng bài của tác giả và cũng có thể là để gợi nhắc về một vấn đề đã xảy ra trước đó, không nhằm mục đích làm tổn thương hoặc phỉ báng ai.","- label: Implicit HS
+- Tổng hợp: 
+Bước 1 xác định rằng câu nói này liên quan đến một tình huống bất đồng trước đây giữa tác giả và người nghe. Bước 2 và Bước 3 chỉ ra rằng, mặc dù không có từ ngữ xúc phạm trực tiếp, câu nói này vẫn ám chỉ rằng người nghe đã từng có thái độ tiêu cực đối với tác giả. Điều này cho thấy sự tồn tại của một định kiến tiêu cực được ngụy trang dưới dạng một câu nói bình thường. Cuối cùng, Bước 4 nhấn mạnh rằng mục đích của câu nói không phải là để xúc phạm, nhưng nó vẫn gợi nhắc đến một vấn đề không tốt đã xảy ra trước đó, điều này có thể được coi là một biểu hiện của sự kỳ thị ẩn dụ. Do đó, câu nói này phù hợp với nhãn Implicit HS.",Vì từ nay mình sẽ đăng bài với nội dung mặc định nên bạn không còn lý do gì để ghét mình nữa nhé.
+272,The mask-ban is a preventative measure.,Việc cấm đeo khẩu trang là một biện pháp phòng ngừa.,Non-Specified or General Targets,Non HS,"Bước 1: Không xác định được cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+-","- label: Non HS
+- Tổng hợp: Bước 1 phân tích không xác định được cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này. Câu phát biểu chỉ đưa ra một nhận xét trung lập về một biện pháp phòng ngừa, không có ý định xúc phạm, kỳ thị hay phân biệt đối xử đối với bất kỳ cá nhân hoặc nhóm nào. Do đó, câu này được phân loại là Non HS.","Bước 2: Câu phát biểu sử dụng từ ngữ trung lập, không có từ ngữ mang tính xúc phạm hay miệt thị.
+-","- Label: Non HS
+- Tổng hợp: Câu phát biểu ""Việc cấm đeo khẩu trang là một biện pháp phòng ngừa"" sử dụng từ ngữ trung lập và không chứa từ ngữ xúc phạm hay miệt thị theo Bước 2 phân tích. Do đó, câu này không thể được phân loại là Explicit HS hay Implicit HS vì không có dấu hiệu của việc xúc phạm, phân biệt đối xử hay kỳ thị ẩn dụ. Vì vậy, câu này được phân loại là Non HS.","Bước 3: Câu nói không có hình thức xúc phạm trực tiếp hay gián tiếp.
+-","- Label: Non HS
+- Tổng hợp: Bước 3 của phân tích đã chỉ rõ rằng câu phát biểu ""Việc cấm đeo khẩu trang là một biện pháp phòng ngừa"" không có hình thức xúc phạm trực tiếp hay gián tiếp. Do đó, theo các tiêu chí đã đưa ra, câu này không thuộc vào hai loại phát ngôn thù ghét là Explicit HS hay Implicit HS. Vì vậy, câu này được phân loại là Non HS, tức là không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử.","Bước 4: Mục đích của câu nói dường như là để mô tả hoặc trình bày quan điểm về một biện pháp phòng ngừa nhất định, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- label: Non HS
+- Tổng hợp: Bước 4 đã chỉ rõ mục đích của câu nói là mô tả hoặc trình bày quan điểm về một biện pháp phòng ngừa nhất định, không mang ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét. Do đó, câu phát biểu này không thuộc phạm vi của các phát ngôn mang tính thù ghét, xúc phạm hoặc phân biệt đối xử.","Bước 1: Không xác định được cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+-
+Bước 2: Câu phát biểu sử dụng từ ngữ trung lập, không có từ ngữ mang tính xúc phạm hay miệt thị.
+-","- label: Non HS
+- Tổng hợp: Bước 1 không xác định được cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này. Bước 2 chỉ ra rằng câu phát biểu sử dụng từ ngữ trung lập, không có từ ngữ mang tính xúc phạm hay miệt thị. Do đó, không có dấu hiệu của việc xúc phạm, kỳ thị hay phân biệt đối xử trong câu phát biểu này.","Bước 1: Không xác định được cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+-
+Bước 3: Câu nói không có hình thức xúc phạm trực tiếp hay gián tiếp.
+-","- label: Non HS
+- Tổng hợp: 
+Bước 1 không xác định được cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+Bước 3: Câu nói không có hình thức xúc phạm trực tiếp hay gián tiếp. 
+Dựa trên hai bước phân tích trên, câu phát biểu không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử. Do đó, câu này được phân loại là Non HS.","Bước 1: Không xác định được cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+-
+Bước 4: Mục đích của câu nói dường như là để mô tả hoặc trình bày quan điểm về một biện pháp phòng ngừa nhất định, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- label: Non HS
+- Tổng hợp: Bước 1 cho thấy không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này. Bước 4 cho thấy mục đích của câu nói chỉ đơn thuần là mô tả hoặc trình bày quan điểm về một biện pháp phòng ngừa nhất định, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét. Do đó, câu phát biểu này không thuộc loại hình phát ngôn mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử, và được phân loại là Non HS.","Bước 2: Câu phát biểu sử dụng từ ngữ trung lập, không có từ ngữ mang tính xúc phạm hay miệt thị.
+-
+Bước 3: Câu nói không có hình thức xúc phạm trực tiếp hay gián tiếp.
+-","- label: Non HS
+- Tổng hợp: Bước 2 chỉ ra rằng câu phát biểu sử dụng từ ngữ trung lập, không có từ ngữ mang tính xúc phạm hay miệt thị. Bước 3 xác nhận rằng câu nói không có hình thức xúc phạm trực tiếp hay gián tiếp. Dựa vào hai bước phân tích này, câu phát biểu không thuộc loại hình phát ngôn thù địch (HS) và nên được phân loại là Non HS.","Bước 2: Câu phát biểu sử dụng từ ngữ trung lập, không có từ ngữ mang tính xúc phạm hay miệt thị.
+-
+Bước 4: Mục đích của câu nói dường như là để mô tả hoặc trình bày quan điểm về một biện pháp phòng ngừa nhất định, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- label: Non HS
+- Tổng hợp: Câu phát biểu sử dụng từ ngữ trung lập, không chứa từ ngữ xúc phạm hay miệt thị (Bước 2). Hơn nữa, mục đích của câu nói là để mô tả hoặc trình bày quan điểm về một biện pháp phòng ngừa nhất định, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét (Bước 4). Do đó, câu phát biểu này được phân loại là Non HS.","Bước 3: Câu nói không có hình thức xúc phạm trực tiếp hay gián tiếp.
+-
+Bước 4: Mục đích của câu nói dường như là để mô tả hoặc trình bày quan điểm về một biện pháp phòng ngừa nhất định, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- label: Non HS
+- Tổng hợp: 
+Bước 3 xác định rằng câu nói không chứa bất kỳ hình thức xúc phạm trực tiếp hay gián tiếp nào. Bước 4 chỉ ra rằng mục đích của câu nói là mô tả hoặc trình bày quan điểm về một biện pháp phòng ngừa cụ thể, không nhằm mục đích gây tổn thương, phỉ báng, lan truyền định kiến hay kích động thù ghét. Do đó, dựa trên cả hai bước phân tích này, câu phát biểu không thuộc bất kỳ một trong hai loại phát ngôn thù ghét (Explicit HS hoặc Implicit HS) và nên được phân loại là Non HS.","Bước 1: Không xác định được cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+-
+Bước 2: Câu phát biểu sử dụng từ ngữ trung lập, không có từ ngữ mang tính xúc phạm hay miệt thị.
+-
+Bước 3: Câu nói không có hình thức xúc phạm trực tiếp hay gián tiếp.
+-","- label: Non HS
+- Tổng hợp: 
+Bước 1 không xác định được cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này, do đó không có yếu tố chỉ định mục tiêu của sự kỳ thị.
+Bước 2 cho thấy câu phát biểu sử dụng từ ngữ trung lập, không có từ ngữ mang tính xúc phạm hay miệt thị. Điều này loại bỏ khả năng câu nói mang tính chất kỳ thị.
+Bước 3 khẳng định câu nói không có hình thức xúc phạm trực tiếp hay gián tiếp, từ đó loại trừ khả năng câu nói mang tính chất kỳ thị ẩn dụ hay gián tiếp.
+Từ việc tổng hợp các yếu tố từ ba bước phân tích, câu phát biểu được đánh giá là không mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử. Câu mang tính trung lập và không gây tổn hại đến bất kỳ cá nhân hay nhóm xã hội nào, nên được phân loại vào Nhãn Non HS.","Bước 1: Không xác định được cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+-
+Bước 2: Câu phát biểu sử dụng từ ngữ trung lập, không có từ ngữ mang tính xúc phạm hay miệt thị.
+-
+Bước 4: Mục đích của câu nói dường như là để mô tả hoặc trình bày quan điểm về một biện pháp phòng ngừa nhất định, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- Label: Non HS
+- Tổng hợp: 
+Bước 1 không xác định được cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này. Điều này giúp loại bỏ khả năng câu nói này đang nhắm vào một nhóm hoặc cá nhân cụ thể nào đó.
+Bước 2 nêu rõ rằng câu phát biểu sử dụng từ ngữ trung lập, không có từ ngữ mang tính xúc phạm hay miệt thị. Điều này chứng tỏ câu nói không có ý định gây tổn thương hoặc xúc phạm.
+Bước 4 chỉ ra mục đích của câu nói dường như là để mô tả hoặc trình bày quan điểm về một biện pháp phòng ngừa nhất định, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét. Điều này cho thấy câu nói không mang ý đồ xấu hay định kiến đối với bất kỳ ai.
+
+Từ những yếu tố trên, có thể kết luận câu phát biểu thuộc loại Non HS.","Bước 1: Không xác định được cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+-
+Bước 3: Câu nói không có hình thức xúc phạm trực tiếp hay gián tiếp.
+-
+Bước 4: Mục đích của câu nói dường như là để mô tả hoặc trình bày quan điểm về một biện pháp phòng ngừa nhất định, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- label: Non HS
+- Tổng hợp: 
+Bước 1 xác định rằng câu phát biểu không đề cập đến bất kỳ cá nhân hoặc nhóm đối tượng cụ thể nào, do đó không có dấu hiệu của việc nhắm mục tiêu vào một nhóm hoặc cá nhân cụ thể. Bước 3 khẳng định rằng câu phát biểu không chứa bất kỳ từ ngữ xúc phạm trực tiếp hay gián tiếp nào, cho thấy không có ý định xúc phạm hay miệt thị. Cuối cùng, Bước 4 chỉ ra rằng mục đích của câu phát biểu dường như chỉ là mô tả hoặc trình bày quan điểm về một biện pháp phòng ngừa, không có ý định gây tổn hại, phỉ báng, lan truyền định kiến hay kích động thù ghét. Do đó, dựa vào các yếu tố trên, câu phát biểu này được phân loại là Non HS.","Bước 2: Câu phát biểu sử dụng từ ngữ trung lập, không có từ ngữ mang tính xúc phạm hay miệt thị.
+-
+Bước 3: Câu nói không có hình thức xúc phạm trực tiếp hay gián tiếp.
+-
+Bước 4: Mục đích của câu nói dường như là để mô tả hoặc trình bày quan điểm về một biện pháp phòng ngừa nhất định, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- label: Non HS
+- Tổng hợp: 
+Bước 2 chỉ ra rằng câu phát biểu sử dụng từ ngữ trung lập, không có từ ngữ mang tính xúc phạm hay miệt thị. Bước 3 xác nhận rằng câu nói không có hình thức xúc phạm trực tiếp hay gián tiếp. Cuối cùng, Bước 4 nhấn mạnh rằng mục đích của câu nói là mô tả hoặc trình bày quan điểm về một biện pháp phòng ngừa, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét. Do đó, dựa vào các yếu tố này, câu phát biểu được phân loại là Non HS, tức là không mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử.","Bước 1: Không xác định được cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+-
+Bước 2: Câu phát biểu sử dụng từ ngữ trung lập, không có từ ngữ mang tính xúc phạm hay miệt thị.
+-
+Bước 3: Câu nói không có hình thức xúc phạm trực tiếp hay gián tiếp.
+-
+Bước 4: Mục đích của câu nói dường như là để mô tả hoặc trình bày quan điểm về một biện pháp phòng ngừa nhất định, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- label: Non HS
+- Tổng hợp: 
+  Bước 1: Câu phát biểu không đề cập đến bất kỳ cá nhân hoặc nhóm đối tượng cụ thể nào.
+  Bước 2: Từ ngữ sử dụng trong câu hoàn toàn trung lập, không chứa bất kỳ từ ngữ xúc phạm hay miệt thị nào.
+  Bước 3: Câu nói không có dấu hiệu của việc xúc phạm trực tiếp hay gián tiếp.
+  Bước 4: Mục đích của câu nói là mô tả hoặc trình bày quan điểm về một biện pháp phòng ngừa, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.
+  
+Dựa vào những yếu tố trên, câu phát biểu được phân loại vào Nhãn Non HS.",Việc cấm đeo khẩu trang là một biện pháp phòng ngừa.
+273,these stereotypes are not true and they are harmful to society     ,Những định kiến này không đúng và chúng gây hại cho xã hội.,Ethnic/Racial Minorities,Non HS,"Bước 1: Câu nói đề cập đến ""những định kiến"", nhưng không chỉ đích danh cá nhân hay nhóm đối tượng cụ thể nào.
+-","- label: Non HS
+- Tổng hợp: Câu phát biểu đề cập đến ""những định kiến"" mà không chỉ đích danh cá nhân hay nhóm đối tượng cụ thể nào (Bước 1). Do đó, câu này không thể được coi là phát ngôn thù ghét, xúc phạm hoặc phân biệt đối xử theo cả hai dạng trực tiếp (Explicit HS) và gián tiếp (Implicit HS).","Bước 2: Từ ngữ sử dụng trong câu là trung lập và phê phán. Không có từ ngữ xúc phạm hay miệt thị nào được sử dụng.
+-","- Label: Non HS
+- Tổng hợp: Câu phát biểu ""Những định kiến này không đúng và chúng gây hại cho xã hội"" sử dụng từ ngữ trung lập và phê phán (Bước 2). Không có từ ngữ xúc phạm hay miệt thị nào được sử dụng, do đó câu không thuộc các nhãn Explicit HS hay Implicit HS. Do đó, câu được phân loại là Non HS.","Bước 3: Câu nói không chứa hình thức xúc phạm trực tiếp hay gián tiếp nào.
+-","- label: Non HS
+- Tổng hợp: Bước 3 đã chỉ rõ rằng câu phát biểu không chứa hình thức xúc phạm trực tiếp hay gián tiếp nào. Do đó, dựa trên phân tích này, câu phát biểu không thuộc vào hai loại phát ngôn mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử (Explicit HS và Implicit HS). Vì vậy, câu phát biểu được phân loại là Non HS.","Bước 4: Mục đích của câu là phê phán những định kiến sai lệch và nhấn mạnh tác hại của chúng đối với xã hội, không nhằm mục đích làm tổn thương, phỉ báng hay kích động thù ghét.","- label: Non HS
+- Tổng hợp: Câu phát biểu ""Những định kiến này không đúng và chúng gây hại cho xã hội"" phê phán những định kiến sai lệch và nhấn mạnh tác hại của chúng đối với xã hội (Bước 4). Mục đích của câu không nhằm mục đích làm tổn thương, phỉ báng hay kích động thù ghét, do đó câu không thuộc các nhãn Explicit HS hay Implicit HS.","Bước 1: Câu nói đề cập đến ""những định kiến"", nhưng không chỉ đích danh cá nhân hay nhóm đối tượng cụ thể nào.
+-
+Bước 2: Từ ngữ sử dụng trong câu là trung lập và phê phán. Không có từ ngữ xúc phạm hay miệt thị nào được sử dụng.
+-","- label: Non HS
+- Tổng hợp: 
+Bước 1 xác định rằng câu nói không chỉ đích danh cá nhân hay nhóm đối tượng cụ thể nào, do đó không có dấu hiệu của sự kỳ thị hay xúc phạm trực tiếp hoặc gián tiếp. Bước 2 xác nhận rằng từ ngữ sử dụng trong câu là trung lập và phê phán, không có từ ngữ xúc phạm hay miệt thị nào. Do đó, câu phát biểu này không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử, và được phân loại là Non HS.","Bước 1: Câu nói đề cập đến ""những định kiến"", nhưng không chỉ đích danh cá nhân hay nhóm đối tượng cụ thể nào.
+-
+Bước 3: Câu nói không chứa hình thức xúc phạm trực tiếp hay gián tiếp nào.
+-","- label: Non HS
+- Tổng hợp: Bước 1 cho thấy câu nói đề cập đến ""những định kiến"" mà không chỉ đích danh cá nhân hay nhóm đối tượng cụ thể nào, do đó không có dấu hiệu của việc xúc phạm một nhóm hoặc cá nhân cụ thể. Bước 3 khẳng định rằng câu nói không chứa hình thức xúc phạm trực tiếp hay gián tiếp nào. Vì vậy, dựa vào cả hai bước phân tích, câu nói không thể được phân loại là Explicit HS hay Implicit HS, và nên được phân loại là Non HS.","Bước 1: Câu nói đề cập đến ""những định kiến"", nhưng không chỉ đích danh cá nhân hay nhóm đối tượng cụ thể nào.
+-
+Bước 4: Mục đích của câu là phê phán những định kiến sai lệch và nhấn mạnh tác hại của chúng đối với xã hội, không nhằm mục đích làm tổn thương, phỉ báng hay kích động thù ghét.","- label: Non HS
+- Tổng hợp: Câu phát biểu chỉ đề cập chung đến ""những định kiến"" mà không chỉ đích danh cá nhân hay nhóm đối tượng cụ thể nào (Bước 1). Mục đích của câu là phê phán những định kiến sai lệch và nhấn mạnh tác hại của chúng đối với xã hội, không nhằm mục đích làm tổn thương, phỉ báng hay kích động thù ghét (Bước 4). Do đó, câu này không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử, nên được phân loại là Non HS.","Bước 2: Từ ngữ sử dụng trong câu là trung lập và phê phán. Không có từ ngữ xúc phạm hay miệt thị nào được sử dụng.
+-
+Bước 3: Câu nói không chứa hình thức xúc phạm trực tiếp hay gián tiếp nào.
+-","- label: Non HS
+- Tổng hợp: Bước 2 chỉ ra rằng từ ngữ sử dụng trong câu là trung lập và phê phán, không có từ ngữ xúc phạm hay miệt thị nào được sử dụng. Bước 3 khẳng định câu nói không chứa hình thức xúc phạm trực tiếp hay gián tiếp nào. Do đó, dựa vào hai bước phân tích trên, câu phát biểu không thuộc bất kỳ loại phát ngôn thù ghét nào và được phân loại là Non HS.","Bước 2: Từ ngữ sử dụng trong câu là trung lập và phê phán. Không có từ ngữ xúc phạm hay miệt thị nào được sử dụng.
+-
+Bước 4: Mục đích của câu là phê phán những định kiến sai lệch và nhấn mạnh tác hại của chúng đối với xã hội, không nhằm mục đích làm tổn thương, phỉ báng hay kích động thù ghét.","- label: Non HS
+- Tổng hợp: Bước 2 chỉ ra rằng từ ngữ sử dụng trong câu là trung lập và phê phán, không có từ ngữ xúc phạm hay miệt thị nào được sử dụng. Bước 4 xác nhận rằng mục đích của câu là phê phán những định kiến sai lệch và nhấn mạnh tác hại của chúng đối với xã hội, không nhằm mục đích làm tổn thương, phỉ báng hay kích động thù ghét. Do đó, câu phát biểu không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử, và được phân loại là Non HS.","Bước 3: Câu nói không chứa hình thức xúc phạm trực tiếp hay gián tiếp nào.
+-
+Bước 4: Mục đích của câu là phê phán những định kiến sai lệch và nhấn mạnh tác hại của chúng đối với xã hội, không nhằm mục đích làm tổn thương, phỉ báng hay kích động thù ghét.","- label: Non HS
+- Tổng hợp: Bước 3 xác định rằng câu phát biểu không chứa hình thức xúc phạm trực tiếp hay gián tiếp nào. Bước 4 nhấn mạnh rằng mục đích của câu là phê phán những định kiến sai lệch và nhấn mạnh tác hại của chúng đối với xã hội, không nhằm mục đích làm tổn thương, phỉ báng hay kích động thù ghét. Do đó, dựa vào cả hai bước phân tích trên, câu phát biểu được đánh giá là không mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử và được phân loại vào nhãn Non HS.","Bước 1: Câu nói đề cập đến ""những định kiến"", nhưng không chỉ đích danh cá nhân hay nhóm đối tượng cụ thể nào.
+-
+Bước 2: Từ ngữ sử dụng trong câu là trung lập và phê phán. Không có từ ngữ xúc phạm hay miệt thị nào được sử dụng.
+-
+Bước 3: Câu nói không chứa hình thức xúc phạm trực tiếp hay gián tiếp nào.
+-","- label: Non HS
+- Tổng hợp: Bước 1 cho thấy câu nói không chỉ đích danh cá nhân hay nhóm đối tượng cụ thể nào, do đó không thể xác định được mục tiêu của sự xúc phạm hay kỳ thị (nếu có). Bước 2 khẳng định từ ngữ sử dụng trong câu là trung lập và phê phán, không có dấu hiệu của việc xúc phạm hay miệt thị thông qua ngôn từ. Bước 3 cũng xác nhận rằng không có hình thức xúc phạm trực tiếp hay gián tiếp nào trong câu nói. Do đó, câu phát biểu này không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử và được phân loại là Non HS.","Bước 1: Câu nói đề cập đến ""những định kiến"", nhưng không chỉ đích danh cá nhân hay nhóm đối tượng cụ thể nào.
+-
+Bước 2: Từ ngữ sử dụng trong câu là trung lập và phê phán. Không có từ ngữ xúc phạm hay miệt thị nào được sử dụng.
+-
+Bước 4: Mục đích của câu là phê phán những định kiến sai lệch và nhấn mạnh tác hại của chúng đối với xã hội, không nhằm mục đích làm tổn thương, phỉ báng hay kích động thù ghét.","- label: Non HS
+- Tổng hợp: 
+Bước 1: Câu nói không chỉ đích danh cá nhân hay nhóm đối tượng cụ thể nào, do đó không thể xác định đây là phát ngôn nhắm vào một cá nhân hay nhóm nào cụ thể.
+Bước 2: Từ ngữ sử dụng trong câu là trung lập và phê phán, không có từ ngữ xúc phạm hay miệt thị nào được sử dụng.
+Bước 4: Mục đích của câu là phê phán những định kiến sai lệch và nhấn mạnh tác hại của chúng đối với xã hội, không nhằm mục đích làm tổn thương, phỉ báng hay kích động thù ghét.","Bước 1: Câu nói đề cập đến ""những định kiến"", nhưng không chỉ đích danh cá nhân hay nhóm đối tượng cụ thể nào.
+-
+Bước 3: Câu nói không chứa hình thức xúc phạm trực tiếp hay gián tiếp nào.
+-
+Bước 4: Mục đích của câu là phê phán những định kiến sai lệch và nhấn mạnh tác hại của chúng đối với xã hội, không nhằm mục đích làm tổn thương, phỉ báng hay kích động thù ghét.","- label: Non HS
+- Tổng hợp: 
+Bước 1 chỉ ra rằng câu nói đề cập đến ""những định kiến"" mà không chỉ đích danh cá nhân hay nhóm đối tượng cụ thể nào, do đó không có dấu hiệu của sự kỳ thị hay xúc phạm cụ thể nào.
+Bước 3 khẳng định câu nói không chứa hình thức xúc phạm trực tiếp hay gián tiếp nào.
+Bước 4 xác nhận mục đích của câu nói là phê phán những định kiến sai lệch và nhấn mạnh tác hại của chúng đối với xã hội, không nhằm mục đích làm tổn thương, phỉ báng hay kích động thù ghét. Do đó, câu nói này không thể được phân loại là Explicit HS hay Implicit HS, mà phù hợp nhất với nhãn Non HS.","Bước 2: Từ ngữ sử dụng trong câu là trung lập và phê phán. Không có từ ngữ xúc phạm hay miệt thị nào được sử dụng.
+-
+Bước 3: Câu nói không chứa hình thức xúc phạm trực tiếp hay gián tiếp nào.
+-
+Bước 4: Mục đích của câu là phê phán những định kiến sai lệch và nhấn mạnh tác hại của chúng đối với xã hội, không nhằm mục đích làm tổn thương, phỉ báng hay kích động thù ghét.","- label: Non HS
+- Tổng hợp: 
+Bước 2 chỉ ra rằng từ ngữ sử dụng trong câu là trung lập và phê phán, không có từ ngữ xúc phạm hay miệt thị nào được sử dụng. Bước 3 khẳng định câu nói không chứa hình thức xúc phạm trực tiếp hay gián tiếp nào. Cuối cùng, bước 4 cho thấy mục đích của câu là phê phán những định kiến sai lệch và nhấn mạnh tác hại của chúng đối với xã hội, không nhằm mục đích làm tổn thương, phỉ báng hay kích động thù ghét. Do đó, dựa trên các phân tích trên, câu phát biểu này được phân loại vào nhãn Non HS.","Bước 1: Câu nói đề cập đến ""những định kiến"", nhưng không chỉ đích danh cá nhân hay nhóm đối tượng cụ thể nào.
+-
+Bước 2: Từ ngữ sử dụng trong câu là trung lập và phê phán. Không có từ ngữ xúc phạm hay miệt thị nào được sử dụng.
+-
+Bước 3: Câu nói không chứa hình thức xúc phạm trực tiếp hay gián tiếp nào.
+-
+Bước 4: Mục đích của câu là phê phán những định kiến sai lệch và nhấn mạnh tác hại của chúng đối với xã hội, không nhằm mục đích làm tổn thương, phỉ báng hay kích động thù ghét.","- label: Non HS
+- Tổng hợp: Câu phát biểu này không chỉ đích danh cá nhân hay nhóm đối tượng cụ thể nào (Bước 1), và từ ngữ sử dụng trong câu là trung lập và phê phán, không có từ ngữ xúc phạm hay miệt thị (Bước 2). Ngoài ra, câu nói không chứa hình thức xúc phạm trực tiếp hay gián tiếp nào (Bước 3), và mục đích của nó là phê phán những định kiến sai lệch và nhấn mạnh tác hại của chúng đối với xã hội, không nhằm mục đích làm tổn thương, phỉ báng hay kích động thù ghét (Bước 4). Do đó, câu này được phân loại là Non HS.",Những định kiến này không đúng và chúng gây hại cho xã hội.
+274,For ten dollars it would give me some entertainment .,Với mười đô thì cũng đủ để mình giải trí một chút rồi.,Non-Specified or General Targets,Non HS,"Bước 1: Không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+-","- label: Non HS
+- Tổng hợp: Bước 1 không tìm thấy cá nhân hoặc nhóm đối tượng cụ thể nào bị xúc phạm hoặc kỳ thị trong câu phát biểu. Câu nói chỉ đề cập đến việc giải trí với một số tiền nhất định và không chứa bất kỳ từ ngữ hay biểu hiện mang tính chất kỳ thị, xúc phạm hay phân biệt đối xử nào. Do đó, câu này được phân loại là Non HS.","Bước 2: Câu phát biểu sử dụng từ ngữ trung lập và không mang tính chất xúc phạm hoặc miệt thị.
+-","- label: Non HS
+- Tổng hợp: Câu phát biểu sử dụng từ ngữ trung lập và không mang tính chất xúc phạm hoặc miệt thị (Bước 2). Do đó, không có dấu hiệu của sự kỳ thị, xúc phạm hay phân biệt đối xử nào được phát hiện trong câu nói này.","Bước 3: Không có dấu hiệu của việc xúc phạm trực tiếp hay gián tiếp.
+-","- label: Non HS
+- Tổng hợp: Câu phát biểu ""Với mười đô thì cũng đủ để mình giải trí một chút rồi."" không có dấu hiệu của việc xúc phạm trực tiếp hay gián tiếp theo như Bước 3 đã phân tích. Do đó, câu này không thuộc loại hình phát ngôn thù ghét (Explicit HS hoặc Implicit HS) và được đánh giá là không mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử, phù hợp với nhãn Non HS.","Bước 4: Mục đích của câu nói là thể hiện rằng số tiền mười đô la có thể giúp người nói giải trí, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- label: Non HS
+- Tổng hợp: Câu phát biểu ""Với mười đô thì cũng đủ để mình giải trí một chút rồi"" không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét (Bước 4). Không có từ ngữ miệt thị trực tiếp hoặc gián tiếp nào xuất hiện trong câu, và mục đích của câu chỉ đơn thuần là thể hiện quan điểm cá nhân về việc giải trí với một số tiền nhất định (mười đô la), do đó không thuộc về hai loại phát ngôn thù ghét khác (Explicit HS và Implicit HS).","Bước 1: Không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+-
+Bước 2: Câu phát biểu sử dụng từ ngữ trung lập và không mang tính chất xúc phạm hoặc miệt thị.
+-","- label: Non HS
+- Tổng hợp: Bước 1 xác nhận rằng câu phát biểu không đề cập đến bất kỳ cá nhân hoặc nhóm đối tượng cụ thể nào. Bước 2 khẳng định rằng từ ngữ sử dụng trong câu nói này là trung lập và không mang tính chất xúc phạm hoặc miệt thị. Do đó, câu phát biểu không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử, và được phân loại là Non HS.","Bước 1: Không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+-
+Bước 3: Không có dấu hiệu của việc xúc phạm trực tiếp hay gián tiếp.
+-","- label: Non HS
+- Tổng hợp: Bước 1 xác nhận rằng không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này. Bước 3 cũng xác nhận rằng không có dấu hiệu của việc xúc phạm trực tiếp hay gián tiếp. Do đó, dựa trên phân tích cung cấp, câu phát biểu này không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử. Câu mang tính chất trung lập và không gây tổn hại đến bất kỳ cá nhân hay nhóm xã hội nào.","Bước 1: Không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+-
+Bước 4: Mục đích của câu nói là thể hiện rằng số tiền mười đô la có thể giúp người nói giải trí, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- label: Non HS
+- Tổng hợp: 
+Bước 1 chỉ ra rằng câu nói không đề cập đến bất kỳ cá nhân hoặc nhóm đối tượng cụ thể nào. Bước 4 xác định mục đích của câu nói là thể hiện rằng số tiền mười đô la có thể giúp người nói giải trí, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét. Do đó, câu nói không chứa bất kỳ yếu tố kỳ thị, xúc phạm hay phân biệt đối xử nào, phù hợp với nhãn Non HS.","Bước 2: Câu phát biểu sử dụng từ ngữ trung lập và không mang tính chất xúc phạm hoặc miệt thị.
+-
+Bước 3: Không có dấu hiệu của việc xúc phạm trực tiếp hay gián tiếp.
+-","- label: Non HS
+- Tổng hợp: Câu phát biểu sử dụng từ ngữ trung lập và không mang tính chất xúc phạm hoặc miệt thị (Bước 2). Đồng thời, không có dấu hiệu của việc xúc phạm trực tiếp hay gián tiếp (Bước 3). Do đó, câu này không thuộc các loại phát ngôn mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử, phù hợp với nhãn Non HS.","Bước 2: Câu phát biểu sử dụng từ ngữ trung lập và không mang tính chất xúc phạm hoặc miệt thị.
+-
+Bước 4: Mục đích của câu nói là thể hiện rằng số tiền mười đô la có thể giúp người nói giải trí, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- Label: Non HS
+- Tổng hợp: 
+  - Bước 2: Câu phát biểu sử dụng từ ngữ trung lập và không mang tính chất xúc phạm hoặc miệt thị.
+  - Bước 4: Mục đích của câu nói là thể hiện rằng số tiền mười đô la có thể giúp người nói giải trí, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét. 
+
+Dựa vào những phân tích trên, có thể kết luận rằng câu phát biểu này không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử. Do đó, câu được phân loại là Non HS.","Bước 3: Không có dấu hiệu của việc xúc phạm trực tiếp hay gián tiếp.
+-
+Bước 4: Mục đích của câu nói là thể hiện rằng số tiền mười đô la có thể giúp người nói giải trí, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- label: Non HS
+- Tổng hợp: Bước 3 xác nhận không có dấu hiệu xúc phạm trực tiếp hay gián tiếp. Bước 4 nhấn mạnh mục đích của câu nói là thể hiện số tiền mười đô la có thể giúp người nói giải trí mà không có ý định gây hại, phỉ báng, hoặc kích động thù ghét. Do đó, câu phát biểu này không thuộc các thể loại Explicit HS hay Implicit HS và được phân loại là Non HS.","Bước 1: Không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+-
+Bước 2: Câu phát biểu sử dụng từ ngữ trung lập và không mang tính chất xúc phạm hoặc miệt thị.
+-
+Bước 3: Không có dấu hiệu của việc xúc phạm trực tiếp hay gián tiếp.
+-","- label: Non HS
+- Tổng hợp: 
+Bước 1 xác định rằng không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+Bước 2 chỉ ra rằng câu phát biểu sử dụng từ ngữ trung lập và không mang tính chất xúc phạm hoặc miệt thị.
+Bước 3 khẳng định không có dấu hiệu của việc xúc phạm trực tiếp hay gián tiếp.
+Tất cả những yếu tố trên đều phù hợp với nhãn ""Non HS"" vì câu phát biểu không chứa bất kỳ yếu tố kỳ thị, xúc phạm hay phân biệt đối xử nào.","Bước 1: Không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+-
+Bước 2: Câu phát biểu sử dụng từ ngữ trung lập và không mang tính chất xúc phạm hoặc miệt thị.
+-
+Bước 4: Mục đích của câu nói là thể hiện rằng số tiền mười đô la có thể giúp người nói giải trí, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- Label: Non HS
+- Tổng hợp: Bước 1 xác định không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này. Bước 2 chỉ ra rằng câu phát biểu sử dụng từ ngữ trung lập và không mang tính chất xúc phạm hoặc miệt thị. Cuối cùng, Bước 4 khẳng định mục đích của câu nói là thể hiện rằng số tiền mười đô la có thể giúp người nói giải trí, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét. Do đó, câu phát biểu không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử, phù hợp với nhãn Non HS.","Bước 1: Không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+-
+Bước 3: Không có dấu hiệu của việc xúc phạm trực tiếp hay gián tiếp.
+-
+Bước 4: Mục đích của câu nói là thể hiện rằng số tiền mười đô la có thể giúp người nói giải trí, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- Label: Non HS
+- Tổng hợp: Câu phát biểu không đề cập đến bất kỳ cá nhân hoặc nhóm đối tượng cụ thể nào (Bước 1). Đồng thời, không có dấu hiệu của việc xúc phạm trực tiếp hay gián tiếp (Bước 3). Mục đích của câu nói chỉ đơn giản là thể hiện rằng số tiền mười đô la có thể giúp người nói giải trí mà không mang ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét (Bước 4). Do đó, câu này không thuộc loại hình phát ngôn thù ghét hoặc phân biệt đối xử và được phân loại là Non HS.","Bước 2: Câu phát biểu sử dụng từ ngữ trung lập và không mang tính chất xúc phạm hoặc miệt thị.
+-
+Bước 3: Không có dấu hiệu của việc xúc phạm trực tiếp hay gián tiếp.
+-
+Bước 4: Mục đích của câu nói là thể hiện rằng số tiền mười đô la có thể giúp người nói giải trí, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- label: Non HS
+- Tổng hợp: Câu phát biểu sử dụng từ ngữ trung lập và không mang tính chất xúc phạm hoặc miệt thị (Bước 2). Không có dấu hiệu của việc xúc phạm trực tiếp hay gián tiếp (Bước 3). Mục đích của câu nói là thể hiện rằng số tiền mười đô la có thể giúp người nói giải trí, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét (Bước 4). Do đó, câu này không thuộc dạng Explicit HS hay Implicit HS mà thuộc dạng Non HS.","Bước 1: Không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+-
+Bước 2: Câu phát biểu sử dụng từ ngữ trung lập và không mang tính chất xúc phạm hoặc miệt thị.
+-
+Bước 3: Không có dấu hiệu của việc xúc phạm trực tiếp hay gián tiếp.
+-
+Bước 4: Mục đích của câu nói là thể hiện rằng số tiền mười đô la có thể giúp người nói giải trí, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét.","- label: Non HS
+- Tổng hợp: 
+Bước 1 xác định rằng không có cá nhân hoặc nhóm đối tượng cụ thể nào bị đề cập trong câu nói này.
+Bước 2 chỉ ra rằng câu phát biểu sử dụng từ ngữ trung lập và không mang tính chất xúc phạm hoặc miệt thị.
+Bước 3 khẳng định không có dấu hiệu của việc xúc phạm trực tiếp hay gián tiếp.
+Cuối cùng, Bước 4 chỉ rõ mục đích của câu nói là thể hiện rằng số tiền mười đô la có thể giúp người nói giải trí, không có ý định làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét. 
+
+Do đó, câu phát biểu không chứa nội dung kỳ thị, xúc phạm hay phân biệt đối xử, và được phân loại là Non HS.",Với mười đô thì cũng đủ để mình giải trí một chút rồi.

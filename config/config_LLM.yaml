@@ -1,0 +1,106 @@
+mistral_7B_v0.2: /data2/npl/ViInfographicCaps/Contest/demo_contest/xai/Mistral-7B-Instruct-v0.2
+llama_2_7B: 
+llama_3.1_8B:
+qwen2.5_7B:
+qwen3_8B:
+gemma3_12B:
+
+device: 2
+
+data:
+  test: /data2/npl/ICEK/News/Qwen_evaluate/LLMs/official_test.jsonl
+
+model_config:
+  task: text-generation
+  max_new_tokens: 256
+  do_sample: false
+  repetition_penalty: 1.2
+  temperature: 0.1
+  top_p: 0.95
+  num_beams: 2
+  dola_layers: high
+  use_cache: true
+  no_repeat_ngram_size: 3
+
+# ------------------ common defaults ------------------
+defaults: &generation_defaults
+  task: text-generation
+  max_new_tokens: 1024         
+  do_sample: false         
+  temperature: 0.1
+  top_p: 0.95
+  num_beams: 2
+  repetition_penalty: 1.5
+  dola_layers: high
+  use_cache: true
+  no_repeat_ngram_size: 3
+
+# ------------------ per-model configs ----------------
+models:
+  llama_2_7B:
+    <<: *generation_defaults
+    model_id: /data2/npl/ICEK/License-Plate-Detection-Pipeline-with-Experiment-Tracking/assets/Llama-2-7b-chat-hf
+    prompt_template: |
+      <s>[INST] <<SYS>>
+      You are a content-safety assistant...
+      <</SYS>>
+      Text: {text} [/INST]
+
+  llama_3.1_8B:
+    <<: *generation_defaults
+    model_id: /data2/npl/ICEK/License-Plate-Detection-Pipeline-with-Experiment-Tracking/assets/Llama-3.1-8B-Instruct
+    trust_remote_code: true
+    prompt_template: |
+      <|im_start|>system
+      You are a content-safety assistant...
+      <|im_end|>
+      <|im_start|>user
+      Text: {text}
+      <|im_end|>
+      <|im_start|>assistant
+
+  mistral_7B_v0.2:
+    <<: *generation_defaults
+    model_id: /data2/npl/ICEK/License-Plate-Detection-Pipeline-with-Experiment-Tracking/assets/Mistral-7B-Instruct-v0.2
+    prompt_template: |
+      <s>[INST]You are a content-safety assistant...
+      Text: {text}[/INST]
+
+  mistral_7B_v0.3:
+    <<: *generation_defaults
+    model_id: /data2/npl/ICEK/License-Plate-Detection-Pipeline-with-Experiment-Tracking/assets/Mistral-7B-Instruct-v0.3
+    prompt_template: |
+      <s>[INST]You are a content-safety assistant...
+      Text: {text}[/INST]
+
+  gemma_3_12B:
+    <<: *generation_defaults
+    model_id: /data2/npl/ICEK/License-Plate-Detection-Pipeline-with-Experiment-Tracking/assets/gemma-3-12b-it
+    prompt_template: |
+      <bos>system: You are a content-safety assistant...
+      user: Text: {text}
+      assistant:
+
+  qwen_2.5_7B:
+    <<: *generation_defaults
+    model_id: /data2/npl/ICEK/License-Plate-Detection-Pipeline-with-Experiment-Tracking/assets/Qwen2.5-7B-Instruct
+    prompt_template: |
+      <bos>system: You are a content-safety assistant...
+      user: Text: {text}
+      assistant:
+  
+  qwen_3_8B:
+    <<: *generation_defaults
+    model_id: /data2/npl/ICEK/License-Plate-Detection-Pipeline-with-Experiment-Tracking/assets/Qwen3-8B
+    prompt_template: |
+      <bos>system: You are a content-safety assistant...
+      user: Text: {text}
+      assistant:
+
+  qwen_2.5_14B:
+    <<: *generation_defaults
+    model_id: /data2/npl/ICEK/License-Plate-Detection-Pipeline-with-Experiment-Tracking/assets/Qwen2.5-14B-Instruct
+    prompt_template: |
+      <bos>system: You are a content-safety assistant...
+      user: Text: {text}
+      assistant:
