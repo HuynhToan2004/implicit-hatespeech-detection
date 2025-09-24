@@ -9,5 +9,6 @@ from .make_prompt import (
     make_CoT_two_prompts,
     make_CoT_prompt_scen2,
     make_CoT_prompt_scen3,  
-    make_CoT_prompt_scen1
+    make_CoT_prompt_scen1,
+    make_CoT_two_prompts_random_fewshot,
 )

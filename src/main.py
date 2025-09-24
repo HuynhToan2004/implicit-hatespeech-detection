@@ -14,7 +14,8 @@ from templates import  (make_zero_prompt,
                         make_CoT_two_prompts,
                         make_CoT_prompt_scen2,
                         make_CoT_prompt_scen3,
-                        make_CoT_prompt_scen1
+                        make_CoT_prompt_scen1,
+                        make_CoT_two_prompts_random_fewshot
 )
 from chatbase import ChatAgent
 from templates import ZEROSHOT_PROMPT, FEWSHOT_PROMPT  
@@ -35,7 +36,7 @@ def parse_args():
     p.add_argument("-scene", "--scenario",default='cot', choices=["cot", "cot_scen1", "cot_scen2", "cot_scen3"])
 
     p.add_argument("-p", "--prompt-type", default="zero",
-                   choices=["zero", "few", "self_few", "cot","cot2", "self_consistent"])
+                   choices=["zero", "few", "self_few", "cot","cot2", "self_consistent","cot2_random_fewshot"])
     p.add_argument("--sc-samples", type=int, default=11,
                    help="Số mẫu sampling để bỏ phiếu (>=3).")
     p.add_argument("--sc-temperature", type=float, default=0.7,
@@ -132,6 +133,15 @@ def main():
 
             elif args.prompt_type == "cot2":
                 reason_tpl, label_tpl = make_CoT_two_prompts(args.model)
+                pred_label, full_out, reasoning = agent.inference_two_step(
+                    reason_tpl, label_tpl, {"text": text_vi}
+                )
+                print(f"Reasoning (Prompt 1 output):\n{reasoning}\n{'-'*50}")
+                print(f"Predicted: {pred_label}, Label: {record.get('label', 'N/A')}")
+                print(f"Final Output (Prompt 2 output):\n{full_out}\n{'-'*50}")
+
+            elif args.prompt_type == "cot2_random_fewshot":
+                reason_tpl, label_tpl = make_CoT_two_prompts_random_fewshot(args.model)
                 pred_label, full_out, reasoning = agent.inference_two_step(
                     reason_tpl, label_tpl, {"text": text_vi}
                 )

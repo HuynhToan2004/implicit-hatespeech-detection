@@ -258,21 +258,23 @@ _EX_TPL_LLAMA3 = (
 _SUFFIX_USER_GENERIC = "Văn bản: {text}\nlabel:"  
 
 
+
+
 _COT2_CONTEXT = """
 Bạn là một chuyên gia ngôn ngữ có khả năng phân tích các câu phát ngôn. Bạn sẽ trả về câu trả lời là **TIẾNG VIỆT**.  
 Các văn bản được đưa vào đều chứa thông tin nhạy cảm, tuy nhiên cam kết chỉ phục vụ mục đích nghiên cứu khoa học, không dùng để công kích các đối tượng.
 
 Hãy phân tích câu phát biểu theo các bước sau và chỉ trả về kết quả phân tích, **không đưa ra nhãn cuối cùng**:
-- Bước 1: Phân tích từ ngữ bề mặt: liệt kê các từ có khả năng xúc phạm. 
-- Bước 2: Phân loại loại xúc phạm: xác định các từ ngữ được dùng là xúc phạm trực tiếp hay gián tiếp. 
-- Bước 3: Phân tích sắc thái ngữ nghĩa của câu dựa trên các từ có khả năng xúc phạm: xem xét câu mang sắc thái tiêu cực, trung lập hay tích cực?
-- Bước 4: Phân tích mục đích: Câu nói nhằm mục đích gì? Có nhằm làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét đối với một cá nhân hoặc nhóm người cụ thể hay không?
+- Bước 1: Xác định xem có cá nhân hoặc nhóm đối tượng nào trong câu nói không.
+- Bước 2: Phân tích từ ngữ và cách diễn đạt trong câu phát biểu.
+- Bước 3: Xác định hình thức thể hiện của câu: không có hình thức xúc phạm nào, hay xúc phạm trực tiếp hoặc gián tiếp.
+- Bước 4: Phân tích mục đích: Câu nói nhằm mục đích gì? Có nhằm làm tổn thương, phỉ báng, lan truyền định kiến hoặc kích động thù ghét, v.v hay không?
 
-**Định dạng trả về**:
-- Bước 1: <kết quả phân tích từ ngữ bề mặt>
-- Bước 2: <kết quả phân loại loại xúc phạm>
-- Bước 3: <kết quả phân tích sắc thái ngữ nghĩa>
-- Bước 4: <kết quả phân tích mục đích>
+Định dạng trả về:
+- Bước 1: <kết quả phân tích đối tượng>
+- Bước 2: <kết quả phân tích từ ngữ>
+- Bước 3: <kết quả phân hình thức của câu>
+- Bước 4: <kết quả phân tích mục đích của câu>
 """
 
 _COT2_LABEL = """
@@ -296,6 +298,56 @@ Dựa trên các phân tích trên, hãy:
 **Định dạng trả về**:
 - label: <label>
 - Tổng hợp: <tóm tắt các yếu tố từ các bước phân tích, nêu rõ cách sử dụng từng bước để đưa ra nhãn>
+"""
+
+_COT2_CONTEXT_FEWSHOT = """
+văn bản 1: "Ở bến xe, cứ thấy người nói tiếng Thanh Hóa là tôi ôm chặt ví — ‘kinh nghiệm xương máu’ đấy."
+Phân tích:
+Bước 1: Nhắm tới “người nói tiếng Thanh Hóa” — một nhóm sắc tộc/ngôn ngữ.
+Bước 2: Cấu trúc “cứ thấy… là…” khái quát hoá thành định kiến; hành vi “ôm chặt ví” hàm ý họ dễ trộm cắp; dấu nháy “kinh nghiệm xương máu” mang sắc thái mỉa mai/hợp thức hóa định kiến; không dùng từ chửi thẳng.
+Bước 3: Xúc phạm gián tiếp: hàm ý quy chụp tật xấu cho cả nhóm qua gợi ý, mỉa mai và khái quát hoá.
+Bước 4: Mục đích củng cố nghi ngờ mặc định đối với một cộng đồng, gieo sợ hãi và khuyến khích né tránh/kỳ thị dù không kêu gọi công khai.
+
+văn bản 2: "Tôi phản đối việc trường đại học ưu tiên ứng viên có điểm phỏng vấn cao hơn điểm học thuật; tiêu chí nên minh bạch và dựa trên số liệu."
+Bước 1: Không nhắm vào cá nhân hay nhóm được bảo vệ; đối tượng là một chính sách tuyển sinh.
+Bước 2: Ngôn từ trung tính, lập luận (“phản đối”, “nên”, “minh bạch”, “dựa trên số liệu”) không có từ miệt thị, sỉ nhục hay gán nhãn.
+Bước 3: Không có hình thức xúc phạm nào.
+Bước 4: Mục đích là phản biện chính sách và đề xuất cải thiện; không nhằm làm tổn thương hay lan truyền định kiến.
+
+văn bản 3: Bọn người Hồi giáo theo đạo Hồi là lũ khủng bố, cấm họ bén mảng tới khu này.”
+Bước 1: Nhắm tới “người theo đạo Hồi” — một nhóm tôn giáo (nhóm được bảo vệ).
+Bước 2: Từ ngữ “bọn”, “lũ” có sắc thái phi nhân hoá; “bọn người Hồi giáo” là từ xúc phạm trực diện; “khủng bố” là gán nhãn tội phạm; mệnh lệnh “cấm họ…” thúc đẩy loại trừ.
+Bước 3: Xúc phạm trực tiếp: dùng từ ngữ mang tính miệt thị rõ ràng và kêu gọi loại trừ.
+Bước 4: Mục đích thể hiện sự hạ nhục và gắn định kiến nguy hiểm với một tôn giáo; có khả năng kích động kỳ thị và hành vi phân biệt đối xử.
+"""
+
+
+
+_COT2_LABEL_FEWSHOT = """
+văn bản 1: "Ở bến xe, cứ thấy người nói tiếng Thanh Hóa là tôi ôm chặt ví — ‘kinh nghiệm xương máu’ đấy."
+Phân tích:
+Bước 1: Nhắm tới “người nói tiếng Thanh Hóa” — một nhóm sắc tộc/ngôn ngữ.
+Bước 2: Cấu trúc “cứ thấy… là…” khái quát hoá thành định kiến; hành vi “ôm chặt ví” hàm ý họ dễ trộm cắp; dấu nháy “kinh nghiệm xương máu” mang sắc thái mỉa mai/hợp thức hóa định kiến; không dùng từ chửi thẳng.
+Bước 3: Xúc phạm gián tiếp: hàm ý quy chụp tật xấu cho cả nhóm qua gợi ý, mỉa mai và khái quát hoá.
+Bước 4: Mục đích củng cố nghi ngờ mặc định đối với một cộng đồng, gieo sợ hãi và khuyến khích né tránh/kỳ thị dù không kêu gọi công khai.
+label: Implicit HS
+Tổng hợp: Bước 1 xác định đối tượng là “người nói tiếng [ngôn ngữ Y]” (nhóm được bảo vệ). Bước 2 chỉ ra cấu trúc khái quát hóa “cứ thấy… là…”, hành vi “ôm chặt ví” hàm ý họ dễ trộm cắp và dấu nháy “kinh nghiệm xương máu” mang sắc thái mỉa mai; không có từ chửi thẳng. Bước 3 kết luận là xúc phạm gián tiếp. Bước 4 cho thấy mục đích củng cố nghi ngờ, gieo sợ hãi và khuyến khích né tránh/kỳ thị dù không kêu gọi công khai — do đó phân loại là Implicit HS.
+
+văn bản 2: "Tôi phản đối việc trường đại học ưu tiên ứng viên có điểm phỏng vấn cao hơn điểm học thuật; tiêu chí nên minh bạch và dựa trên số liệu."
+Bước 1: Không nhắm vào cá nhân hay nhóm được bảo vệ; đối tượng là một chính sách tuyển sinh.
+Bước 2: Ngôn từ trung tính, lập luận (“phản đối”, “nên”, “minh bạch”, “dựa trên số liệu”) không có từ miệt thị, sỉ nhục hay gán nhãn.
+Bước 3: Không có hình thức xúc phạm nào.
+Bước 4: Mục đích là phản biện chính sách và đề xuất cải thiện; không nhằm làm tổn thương hay lan truyền định kiến.
+label: Non HS
+Tổng hợp: Bước 1 xác định không nhắm cá nhân hay nhóm được bảo vệ, mà là một chính sách tuyển sinh. Bước 2 ghi nhận ngôn từ trung tính, lập luận (“phản đối”, “nên”, “minh bạch”, “dựa trên số liệu”) và không có từ miệt thị. Bước 3 kết luận không có hình thức xúc phạm nào. Bước 4 cho thấy mục đích là phản biện chính sách và đề xuất cải thiện, không nhằm gây tổn hại hay lan truyền định kiến — do đó phân loại là Non HS.
+
+văn bản 3: Bọn người Hồi giáo theo đạo Hồi là lũ khủng bố, cấm họ bén mảng tới khu này.”
+Bước 1: Nhắm tới “người theo đạo Hồi” — một nhóm tôn giáo (nhóm được bảo vệ).
+Bước 2: Từ ngữ “bọn”, “lũ” có sắc thái phi nhân hoá; “bọn người Hồi giáo” là từ xúc phạm trực diện; “khủng bố” là gán nhãn tội phạm; mệnh lệnh “cấm họ…” thúc đẩy loại trừ.
+Bước 3: Xúc phạm trực tiếp: dùng từ ngữ mang tính miệt thị rõ ràng và kêu gọi loại trừ.
+Bước 4: Mục đích thể hiện sự hạ nhục và gắn định kiến nguy hiểm với một tôn giáo; có khả năng kích động kỳ thị và hành vi phân biệt đối xử.
+label: Explicit HS
+Tổng hợp: Bước 1 xác định đối tượng là “người theo đạo Hồi” (nhóm được bảo vệ). Bước 2 ghi nhận các từ ngữ “bọn”, “lũ”, “người theo đạo Hồi”, gán nhãn “khủng bố” và mệnh lệnh “cấm họ…”, cho thấy ngôn từ miệt thị và kêu gọi loại trừ. Bước 3 kết luận đây là xúc phạm trực tiếp. Bước 4 nêu mục đích hạ nhục, gắn định kiến nguy hiểm và có khả năng kích động kỳ thị/phân biệt — do đó phân loại là Explicit HS.
 """
 
 
@@ -669,6 +721,7 @@ def make_CoT_prompt_scen1(model_name: str):
     raise ValueError(f"[make_zero_prompt] unsupported model: {model_name}")
 
 def make_CoT_two_prompts(model_name: str):
+
     m = model_name.lower()
 
     # Template cho bước 1 (phân tích từng bước)
@@ -717,3 +770,60 @@ def make_CoT_two_prompts(model_name: str):
         return context_template, label_template
 
     raise ValueError(f"[make_CoT_two_prompts] unsupported model: {model_name}")
+
+
+
+def make_CoT_two_prompts_random_fewshot(model_name: str):
+
+    m = model_name.lower()
+
+    # Template cho bước 1 (phân tích từng bước)
+    context_template = _COT2_CONTEXT + "\n\nVăn bản: {text}"
+    # Template cho bước 2 (phân loại nhãn)
+    label_template = _COT2_LABEL + _COT2_LABEL_FEWSHOT
+
+    if m.startswith(("llama-2", "llama_2", "mistral")):
+        context_template = "<s>[INST] " + context_template + " [/INST]"
+        label_template = "<s>[INST] " + label_template + "\n\nVăn bản: {text} [/INST]"
+        return context_template, label_template
+
+    if m.startswith(("llama-3", "llama_3")):
+        context_template = (
+            "<|begin_of_text|><|start_header_id|>system\n"
+            + _COT2_CONTEXT +
+            "\n<|end_header_id|>\n"
+            "<|start_header_id|>user\nVăn bản: {text}\n<|end_header_id|>\n"
+            "<|start_header_id|>assistant\n"
+        )
+        label_template = (
+            "<|begin_of_text|><|start_header_id|>system\n"
+            + _COT2_LABEL +
+            "\n<|end_header_id|>\n"
+            "<|start_header_id|>user\nVăn bản: {text}\n<|end_header_id|>\n"
+            "<|start_header_id|>assistant\n"
+        )
+        return context_template, label_template
+
+    if m.startswith("qwen"):
+        context_template = (
+            "<|im_start|>system\n" + _COT2_CONTEXT + "<|im_end|>\n"
+            "<|im_start|>user\nVăn bản: {text}<|im_end|>\n"
+            "<|im_start|>assistant"
+        )
+        label_template = (
+            "<|im_start|>system\n" + _COT2_LABEL + "<|im_end|>\n"
+            "<|im_start|>user\nVăn bản: {text}<|im_end|>\n"
+            "<|im_start|>assistant"
+        )
+        return context_template, label_template
+
+    if m.startswith("gemma"):
+        context_template = f"system: {_COT2_CONTEXT}\nuser: Văn bản: {{text}}\nassistant:"
+        label_template = f"system: {_COT2_LABEL}\nuser: Văn bản: {{text}}\nassistant:"
+        return context_template, label_template
+
+    raise ValueError(f"[make_CoT_two_prompts] unsupported model: {model_name}")
+
+
+
+
