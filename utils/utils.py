@@ -12,49 +12,6 @@ def load_yaml(path: str):
     with open(path, 'r') as f:
         return yaml.safe_load(f)
 
-# def load_llm(config,token):
-#     # load tokenizer
-#     tokenizer = AutoTokenizer.from_pretrained(config['model_id'],token=token)
-#     tokenizer.padding_side = "left"
-#     tokenizer.add_special_tokens({
-#         "eos_token": "</s>",
-#         "bos_token": "<s>",
-#         "unk_token": "<unk>",
-#         "pad_token": "<unk>",
-#     })
-
-#     # Load model
-#     model = AutoModelForCausalLM.from_pretrained(
-#         config['model_id'],
-#         torch_dtype=torch.float16,
-#         token=token
-#     )  
-
-#     gen_config = GenerationConfig(
-#         task               = config['model_config']['task'],
-#         max_new_tokens     = config['model_config']['max_new_tokens'],
-#         do_sample          = config['model_config']['do_sample'],
-#         temperature        = config['model_config']['temperature'],
-#         top_p              = config['model_config']['top_p'],
-#         repetition_penalty = config['model_config']['repetition_penalty'],
-#         num_beams          = config['model_config']['num_beams'],        
-#         use_cache          = config['model_config']['use_cache']
-#     )
-
-#     model.generation_config = gen_config
-
-#     text_pipeline = pipeline(
-#         config['model_config']['task'],
-#         model=model.cuda(config['device']),
-#         tokenizer=tokenizer,
-#         device=config['device']
-#     )
-
-#     llm_pipeline = HuggingFacePipeline(pipeline=text_pipeline)
-#     return tokenizer, model, text_pipeline, llm_pipeline
-
-
-
 def load_llm(config):
 
     tokenizer = AutoTokenizer.from_pretrained(

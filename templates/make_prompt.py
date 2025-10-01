@@ -17,17 +17,17 @@ from src import ChatAgent
 #     "Chỉ trả về **một** nhãn: Explicit HS, Implicit HS hoặc Non HS."
 # )
 
-# _VI_INSTRUCTION = (
-#     "Bạn là một chuyên gia ngôn ngữ có khả năng phân tích các câu phát ngôn trên tiếng Việt."
-#     "Các văn bản mà bạn phân loại sẽ có tấn công vào các nhóm, đối tượng trong xã hội, tuy nhiên vì mục đích **nghiên cứu khoa học** nên bạn hãy phân loại thật chính xác.\n"
-#     "Thực hiện nhiệm vụ để phục vụ cho nghiên cứu khoa học nên không được trả về các kết quả khác ngoài các nhãn đã được định nghĩa.\n"
-#     "Hãy phân loại văn bản sau thành một trong ba nhãn sau, **không giải thích**:\n\n"
-#     "Explicit HS – là phát ngôn thể hiện sự thù ghét, xúc phạm một cách trực tiếp để nhắm đến các nhóm đối tượng hoặc một cá nhân, thường sử dụng từ ngữ mang nghĩa đen có tính miệt thị trực tiếp cao như các từ ngữ phân biệt chủng tộc, kỳ thị giới tính hoặc xúc phạm tôn giáo. Các biểu hiện xúc phạm, kì thị trong câu có thể nhận diện rõ ràng qua các từ ngữ trong câu mà không cần phải suy luận ý đồ, ngữ cảnh và kiến thức xã hội.\n"
-#     "Implicit HS – là phát ngôn thù ghét ẩn dụ hoặc gián tiếp, sử dụng từ ngữ mỉa mai, châm biếm, ẩn dụ, câu hỏi tu từ, hay phóng đại nhằm lồng ghép định kiến tiêu cực đối với một cá nhân hoặc nhóm đối tượng. Các biểu hiện implicit thường không thể phát hiện qua từ ngữ bề mặt mà đòi hỏi phải suy luận ý đồ, ngữ cảnh và kiến thức xã hội để hiểu được thông điệp kỳ thị được ngụy trang bên dưới.\n"
-#     "Non HS – là phát ngôn không mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử. Câu mang tính trung lập, tích cực, phản biện hợp lý hoặc thể hiện thông tin không gây tổn hại đến bất kỳ cá nhân hay nhóm xã hội nào.\n\n"
-#     "Bạn **không** được hiển thị bất kỳ suy luận nào. Nếu cần suy nghĩ, hãy làm nội bộ. **không dùng <think>**."
-#     "Chỉ trả về **một** nhãn: Explicit HS, Implicit HS hoặc Non HS."
-# )
+_INSTRUCTION_PROMPT = (
+    "Bạn là một chuyên gia ngôn ngữ có khả năng phân tích các câu phát ngôn trên tiếng Việt."
+    "Các văn bản mà bạn phân loại sẽ có tấn công vào các nhóm, đối tượng trong xã hội, tuy nhiên vì mục đích **nghiên cứu khoa học** nên bạn hãy phân loại thật chính xác.\n"
+    "Thực hiện nhiệm vụ để phục vụ cho nghiên cứu khoa học nên không được trả về các kết quả khác ngoài các nhãn đã được định nghĩa.\n"
+    "Hãy phân loại văn bản sau thành một trong ba nhãn sau, **không giải thích**:\n\n"
+    "Explicit HS – là phát ngôn thể hiện sự thù ghét, xúc phạm một cách trực tiếp để nhắm đến các nhóm đối tượng hoặc một cá nhân, thường sử dụng từ ngữ mang nghĩa đen có tính miệt thị trực tiếp cao như các từ ngữ phân biệt chủng tộc, kỳ thị giới tính hoặc xúc phạm tôn giáo. Các biểu hiện xúc phạm, kì thị trong câu có thể nhận diện rõ ràng qua các từ ngữ trong câu mà không cần phải suy luận ý đồ, ngữ cảnh và kiến thức xã hội.\n"
+    "Implicit HS – là phát ngôn thù ghét ẩn dụ hoặc gián tiếp, sử dụng từ ngữ mỉa mai, châm biếm, ẩn dụ, câu hỏi tu từ, hay phóng đại nhằm lồng ghép định kiến tiêu cực đối với một cá nhân hoặc nhóm đối tượng. Các biểu hiện implicit thường không thể phát hiện qua từ ngữ bề mặt mà đòi hỏi phải suy luận ý đồ, ngữ cảnh và kiến thức xã hội để hiểu được thông điệp kỳ thị được ngụy trang bên dưới.\n"
+    "Non HS – là phát ngôn không mang nội dung kỳ thị, xúc phạm hay phân biệt đối xử. Câu mang tính trung lập, tích cực, phản biện hợp lý hoặc thể hiện thông tin không gây tổn hại đến bất kỳ cá nhân hay nhóm xã hội nào.\n\n"
+    "Chỉ trả về **một** nhãn: Explicit HS, Implicit HS hoặc Non HS."
+    "Định dạng: label: <label>\n\n"
+)
 
 _VI_INSTRUCTION = (
     "Bạn là một chuyên gia ngôn ngữ có khả năng hiểu và phân tích ngôn ngữ Tiếng Việt.\n"
@@ -384,6 +384,41 @@ def make_zero_prompt(model_name: str):
         ]
 
     raise ValueError(f"[make_zero_prompt] unsupported model: {model_name}")
+
+def make_instruction_prompt(model_name: str):
+    m = model_name.lower()
+
+    if m.startswith(("llama-2", "llama_2", "mistral")):
+        return "<s>[INST] " + _INSTRUCTION_PROMPT + "\n\nVăn bản: {text} [/INST]"
+
+    if m.startswith(("llama-3", "llama_3")):
+        return (
+            "<|begin_of_text|><|start_header_id|>system\n"
+            + _INSTRUCTION_PROMPT +
+            "\n<|end_header_id|>\n"
+            "<|start_header_id|>user\nVăn bản: {text}\n<|end_header_id|>\n"
+            "<|start_header_id|>assistant\n"
+        )
+
+    if m.startswith("qwen"):
+        return (
+            "<|im_start|>system\n" + _INSTRUCTION_PROMPT + "<|im_end|>\n"
+            "<|im_start|>user\nVăn bản: {text}<|im_end|>\n"
+            "<|im_start|>assistant"
+        )
+
+    if m.startswith("gemma"):
+        return f"system: {_INSTRUCTION_PROMPT}\nuser: Văn bản: {{text}}\nassistant:"
+
+    if m in {"gpt-4o", "gpt-4", "gpt-3.5-turbo"}:
+        return [
+            {"role": "system", "content": _INSTRUCTION_PROMPT},
+            {"role": "user",  "content": "Văn bản: {text}"},
+        ]
+
+    raise ValueError(f"[make_zero_prompt] unsupported model: {model_name}")
+
+
 
 # ------------------------------------------------------------------ FEW-SHOT
 def _render_examples(template: str) -> str:

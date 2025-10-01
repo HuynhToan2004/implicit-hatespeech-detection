@@ -11,4 +11,5 @@ from .make_prompt import (
     make_CoT_prompt_scen3,  
     make_CoT_prompt_scen1,
     make_CoT_two_prompts_random_fewshot,
+    make_instruction_prompt
 )

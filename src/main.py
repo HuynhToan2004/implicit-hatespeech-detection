@@ -2,7 +2,7 @@
 import argparse
 import os
 import sys
-sys.path.append('/data2/npl/ICEK/Image-captioning-for-Vietnamese/vacnic/implicit-hatespeech-detection')
+sys.path.append('/data2/npl/luannt/IHSD/implicit-hatespeech-detection')
 from pathlib import Path
 
 from utils import load_yaml, load_llm
@@ -15,7 +15,8 @@ from templates import  (make_zero_prompt,
                         make_CoT_prompt_scen2,
                         make_CoT_prompt_scen3,
                         make_CoT_prompt_scen1,
-                        make_CoT_two_prompts_random_fewshot
+                        make_CoT_two_prompts_random_fewshot,
+                        make_instruction_prompt
 )
 from chatbase import ChatAgent
 from templates import ZEROSHOT_PROMPT, FEWSHOT_PROMPT  
@@ -36,7 +37,7 @@ def parse_args():
     p.add_argument("-scene", "--scenario",default='cot', choices=["cot", "cot_scen1", "cot_scen2", "cot_scen3"])
 
     p.add_argument("-p", "--prompt-type", default="zero",
-                   choices=["zero", "few", "self_few", "cot","cot2", "self_consistent","cot2_random_fewshot"])
+                   choices=["zero", "few", "self_few", "cot","cot2", "instruct","cot2_random_fewshot"])
     p.add_argument("--sc-samples", type=int, default=11,
                    help="Số mẫu sampling để bỏ phiếu (>=3).")
     p.add_argument("--sc-temperature", type=float, default=0.7,
@@ -71,6 +72,8 @@ def main():
         prompt_template = make_zero_prompt(args.model)
     elif args.prompt_type == "few":
         prompt_template = make_fewshot_prompt_with_available_exp(args.model)
+    elif args.prompt_type == "instruct":
+        prompt_template = make_instruction_prompt(args.model)
     elif args.prompt_type == "cot":
         if args.scenario == "cot":
             prompt_template = make_CoT_prompt(args.model)
@@ -103,6 +106,10 @@ def main():
             text_vi = record["translation"]
             
             if args.prompt_type == "zero":
+                pred_label, full_out = agent.inference_from_raw(
+                    prompt_template, {"text": text_vi}
+                )
+            elif args.prompt_type == "instruct":
                 pred_label, full_out = agent.inference_from_raw(
                     prompt_template, {"text": text_vi}
                 )

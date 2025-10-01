@@ -30,7 +30,7 @@ from sklearn.metrics import classification_report
 #         continue
 
 # Đường dẫn đến file .jsonl
-file_path = f"/data2/npl/ICEK/Image-captioning-for-Vietnamese/vacnic/implicit-hatespeech-detection/output/fs/qwen_2.5_14B.jsonl"
+file_path = f"/data2/npl/luannt/IHSD/implicit-hatespeech-detection/output/fs/qwen_2.5_7B.jsonl"
 name = file_path.split('/')[-2:]
 name = ['/'.join(name)][0]
 # Danh sách để chứa nhãn thật và nhãn dự đoán
